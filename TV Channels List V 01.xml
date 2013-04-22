@@ -1,0 +1,1487 @@
+﻿<?xml version="1.0" ?> 
+<?xml-stylesheet type='text/xsl' href='http://langsongviet.com/fta4vnForum/upload/forum.php'?>
+<!-- Date Created: 04.05.2013 -->
+<!-- Official Site: http://langsongviet.com/fta4vnForum/upload/forum.php -->
+<!-- Channel List: Live TV Ver 01 -->
+<!-- Last Updated: 04.14.2013 by Silverfox -->
+<channels>
+<!-- 
+=================1==== 
+-->
+<channel>
+<name>1->>Vietnam TV - (Hai Ngoai)</name>
+<thumbnail>http://LangSongViet.com/fta4vnForum/upload/uploaded/26_1365180982.png</thumbnail>
+<info>
+Mời các bạn xem các chương trình truyền hình Thể Thao. Nếu bạn thích TV, bạn có thể donate tặng tiền qua Paypal đến địa chỉ: http://langsongviet.com/fta4vnForum/upload/awcl_dsl.php?do=donation
+Dù ít hay nhiều không quan trọng, chúng tôi đều cảm tạ, tiền quyên tặng giúp chúng tôi phát triển các kênh TV ngày càng tốt hơn.
+</info>
+<items>
+
+<!--Viettv24 MTV2: Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>Viettv24 MTV2</title>
+<link>rtmp://www.evietmusic.com/liveStream playpath=mtv_1 swfUrl=http://www.viettv24.com/player.swf pageUrl=http://www.viettv24.com/main/?language=vi  live=1</link>
+<thumbnail>http://www.viettv24.com/main/images/Vmusic_logo.jpg</thumbnail>
+</item>
+
+<!--Viettv24 Dallas: Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>Viettv24 Dallas</title>
+<link>rtmp://206.217.221.127/vietdallas playpath=vdallas_1  swfUrl=http://www.viettv24.com/player.swf pageUrl=http://www.viettv24.com/main/?language=vi live=1</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<!--Viettv24 Ngoi Sao Tuong Lai: Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>Viettv24 Ngoi Sao Tuong Lai</title>
+<link>rtmp://206.217.221.127/ngstl playpath=ngstl_1 swfUrl=http://www.viettv24.com/player.swf pageUrl=http://www.viettv24.com/main/?language=vi live=1</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<!--Viettv24 Vietsaigon: Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>Viettv24 Vietsaigon</title>
+<link>rtmp://206.217.221.127/vietsaigon playpath=vsaigon_1 swfUrl=http://www.viettv24.com/player.swf pageUrl=http://www.viettv24.com/main/?language=vi   live=1</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.10.2013 by Silverfox -->
+<item>
+<title>Viettv24 POP TV</title>
+<link>rtmp://www.evietmusic.com/liveStream playpath=vpoptv_1 swfUrl=http://www.viettv24.com/player.swf  pageUrl=http://www.viettv24.com/main/?language=vi live=1</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.07.2013 by Silverfox -->
+<item>
+<title>Viettoday TV</title>
+<link>http://shared.streamwebtown.com/dong_sg</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.07.2013 by Silverfox -->
+<item>
+<title>Viet Christian TV</title>
+<link>mms://live.vietchristian.com/tv</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.07.2013 by Silverfox -->
+<item>
+<title>VNA TV</title>
+<link>http://shared.streamwebtown.com/vnitv</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>Little Saigon TV</title>
+<link>rtmp://stream.s15.cpanelservices.com/lstvlive/livestream swfUrl=http://vietpho.com/ext/js/5.1/player-licensed.swf pageUrl=http://vietpho.com/online-channels.php live=true swfVfy=true timeout=10</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWQGGsRHtaTLOnVo9psYoLXNmRuBVS6PvnRbYbXXw1f_JzJUVOUQ</thumbnail>
+</item>
+
+<!-- Last Update: 04.10.2013 by Silverfox -->
+<item>
+<title>SaigonTV</title>
+<link>rtmp://74.63.219.101:1935/sgtele playpath=myStream.sdp swfUrl=http://saigontv.us/includes/flash/saigontv.swf pageUrl=http://saigontv.us/ live=true</link>
+<thumbnail>http://www.vietfilmfest.com/2011/images/saigon-tv-logo.jpg</thumbnail>
+</item>
+
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>VBS Televition</title>
+<link>rtmp://74.63.219.101:1935/vbstele/myStream.sdp swfUrl=http://vietpho.com/ext/js/3/mediaplayer.swf pageUrl=http://vietpho.com/ live=true</link>
+<thumbnail>http://vbsdistribution.com/images/forms/vbs_logo.png</thumbnail>
+</item>
+
+<!-- Last Update: 04.10.2013 by Silverfox -->
+<item>
+<title>VietFaceTV-US Canada</title>
+<link>rtmp://206.217.221.127/vietface/vface_1 swfUrl=http://thvl.vn/vplayer.swf pageUrl=http://nguoiviet.tv/vietfacetv live=true</link>
+<thumbnail>http://LangSongViet.com/fta4vnForum/upload/uploaded/26_1365560022.png</thumbnail>
+</item>
+
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>Global TV</title>
+<link>rtmp://unirtmp.tulix.tv/globaltv/myStream.sdp live=true</link>
+<thumbnail>http://www.globaltv.com/uploadedimages/content/schedule/default.jpg?size=140x90</thumbnail>
+</item>
+
+</items>
+</channel>
+
+<!-- ===================2==== 
+-->
+<channel>
+<name>2->>TV Viet nam (Trong Nuoc)</name>
+<thumbnail>http://langsongviet.com/fta4vnForum/upload/uploaded/5_1363744171.png</thumbnail>
+<info>
+Mời các bạn xem các chương trình truyền hình Thể Thao. Nếu bạn thích TV, bạn có thể donate tặng tiền qua Paypal đến địa chỉ: http://langsongviet.com/fta4vnForum/upload/awcl_dsl.php?do=donation
+Dù ít hay nhiều không quan trọng, chúng tôi đều cảm tạ, tiền quyên tặng giúp chúng tôi phát triển các kênh TV ngày càng tốt hơn.
+</info>
+<items>
+
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>Life TV</title>
+<link>rtmp://video.lifetv.vn/live/Stream1</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>VTV - Danang</title>
+<link>rtmp://222.255.167.149/live/livestream swfUrl=http://megafullvn.com/playerhd/player.swf pageUrl=http://megafullvn.com/tivi/kenh/vtvdanang.php live=true</link>
+<thumbnail>http://1.bp.blogspot.com/-FGtNN96Jgfc/TfzQX4u7kxI/AAAAAAAAAVw/gfI8DEZC52g/s1600/vtvdanang.jpg</thumbnail>
+</item>
+ 
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>VTV - Cantho 1</title>
+<link>rtmp://113.161.204.167/live/livestream swfUrl=http://megafullvn.com/playerhd/player.swf pageUrl=http://megafullvn.com/tivi/kenh/vtvcantho1.php live=true</link>
+<thumbnail>http://2.bp.blogspot.com/-AxH5oUnFf2o/TkFsL-aRdUI/AAAAAAAAAZA/44M1sCrmWN0/s1600/vtvcantho1.gif</thumbnail>
+</item>
+
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>VTV - Cantho 2</title>
+<link>rtmp://113.161.204.168/live/livestream swfUrl=http://megafullvn.com/playerhd/player.swf pageUrl=http://megafullvn.com/tivi/kenh/vtvcantho2.php live=true</link>
+<thumbnail>http://4.bp.blogspot.com/-wyqLDsNMiik/TkFsMo2QVhI/AAAAAAAAAZE/_wqzrao583Q/s1600/vtvcantho2.gif</thumbnail>
+</item>
+
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>HTVC - ThuanViet TV</title>
+<link>rtmp://203.205.0.60:1935/live/thuanviet swfUrl=http://www.htvc.vn/swfs/StrobeMediaPlayback.swf pageUrl=http://www.htvc.vn live=true</link>
+<thumbnail>http://www.htvc.vn/files/banner/67/68/thuanviet_tt.gif</thumbnail>
+</item>
+
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>HTVC-  Phim</title>
+<link>rtmp://203.205.0.60:1935/live/phim swfUrl=http://www.htvc.vn/swfs/StrobeMediaPlayback.swf pageUrl=http://www.htvc.vn/ live=true</link>
+<thumbnail>http://3.bp.blogspot.com/-I-d-ig3l-eA/TkNFLJJJA7I/AAAAAAAAAa4/2VN8pbbL404/s1600/htv1.PNG</thumbnail>
+</item>
+
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>HTVC - Ca Nhac</title>
+<link>rtmp://203.205.0.60:1935/live/canhac swfUrl=http://www.htvc.vn/swfs/StrobeMediaPlayback.swf pageUrl=http://www.htvc.vn/ live=true</link>
+<thumbnail>http://2.bp.blogspot.com/-6kckH68O7mo/TtcajHPZ0TI/AAAAAAAAAhE/PkeeJp0m5vE/s1600/HTV2.gif</thumbnail>
+</item>
+
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>HTVC - Gia Đinh</title>
+<link>rtmp://203.205.0.60:1935/live/giadinh swfUrl=http://www.htvc.vn/swfs/StrobeMediaPlayback.swf pageUrl=http://www.htvc.vn/ live=true</link>
+<thumbnail>http://2.bp.blogspot.com/-Z2a6p47GYOE/TtcajzGqGtI/AAAAAAAAAhM/KkaEjNfndbA/s1600/HTV3.gif</thumbnail>
+</item>
+
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>HTVC - Du Lich va Cuoc Song</title>
+<link>rtmp://203.205.0.60:1935/live/dulich swfUrl=http://www.htvc.vn/swfs/StrobeMediaPlayback.swf pageUrl=http://www.htvc.vn/ live=true</link>
+<thumbnail>http://1.bp.blogspot.com/-XougkSm2GG8/TkNFL8Q5-cI/AAAAAAAAAa8/NniQoXdQ57k/s1600/htv4.PNG</thumbnail>
+</item>
+
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>HTVC - Phu Nu </title>
+<link>rtmp://203.205.0.60:1935/live/phunu swfUrl=http://www.htvc.vn/swfs/StrobeMediaPlayback.swf pageUrl=http://www.htvc.vn/ live=true</link>
+<thumbnail>http://2.bp.blogspot.com/-Re2v12BkHao/TtchNbSA8pI/AAAAAAAAAhs/ms02VVTponc/s1600/HTV7.gif</thumbnail>
+</item>
+
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>HTV4</title>
+<link>rtmp://203.205.0.60:1935/live/htv4 swfUrl=http://www.htvc.vn/swfs/StrobeMediaPlayback.swf pageUrl=http://www.htvc.vn/ live=true</link>
+<thumbnail>http://2.bp.blogspot.com/-pHkUD6S4ES8/TtchN38eIhI/AAAAAAAAAhw/YBn6_bLMiPM/s1600/HTV9.gif</thumbnail>
+</item>
+
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>SCTV 1 - Hai</title>
+<link>http://112.197.2.16:1935/live/SDsctv1.stream/playlist.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-_py2zcV1OUU/TexjT58wesI/AAAAAAAAAUA/jEdkMWakm5E/s1600/sctv1.jpg</thumbnail>
+</item>
+ 
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>SCTV 2 - Am Nhac Quoc Te</title>
+<link>http://112.197.2.16:1935/live/SDsctv2.stream/playlist.m3u8</link>
+<thumbnail>http://3.bp.blogspot.com/-x7mfg7oUNIE/TexjUWF1GGI/AAAAAAAAAUE/WGmCcndbnbg/s1600/sctv2.jpg</thumbnail>
+</item>
+ 
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>SCTV 4 - Kenh Tong Hop</title>
+<link>http://112.197.2.16:1935/live/SDsctv4.stream/playlist.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-aK9IKreVWFc/TexjVbp3NTI/AAAAAAAAAUM/4Lf_qmHQ_4o/s1600/sctv4.jpg</thumbnail>
+</item>
+
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>SCTV 6 - Kenh Song Nhac</title>
+<link>http://112.197.2.16:1935/live/SDsctv6.stream/playlist.m3u8</link>
+<thumbnail>http://3.bp.blogspot.com/-IIjtP_rnmP4/TexjWQh4PFI/AAAAAAAAAUU/VvILXiZLMrQ/s1600/sctv6.jpg</thumbnail>
+</item>
+ 
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>SCTV 7 - San Khau Van Nghe Tong Hop</title>
+<link>http://112.197.2.16:1935/live/SDsctv7.stream/playlist.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-ocktnMqBnpI/TexjWzVfTpI/AAAAAAAAAUY/MnkKeg_THfg/s1600/sctv7.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>SCTV 9 - Kenh Phim Chau A</title>
+<link>http://112.197.2.16:1935/live/SDsctv9.stream/playlist.m3u8</link>
+<thumbnail>http://3.bp.blogspot.com/-iqv41PQaYTw/TexjX8c3V7I/AAAAAAAAAUg/mD7H3h4J5eg/s1600/sctv9.jpg</thumbnail>
+</item>
+
+<item>
+<title>SCTV 11 - Hat Tren Truyen Hinh</title>
+<link>http://112.197.2.16:1935/live/SDsctv11.stream/playlist.m3u8</link>
+<thumbnail>http://luaviet.co/content/uploads/2011/10/Logo-SCTV11.jpg</thumbnail>
+</item>
+
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>SCTV 14 - Kenh Phim Tieng Viet</title>
+<link>http://112.197.2.16:1935/live/SDsctv14.stream/playlist.m3u8</link>
+<thumbnail>http://image2.vctv.vn/Images/Uploaded/Share/2011/11/09/SCTV14.jpg</thumbnail>
+</item>
+ 
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>SCTV 15 - Kenh The Thao</title>
+<link>http://112.197.2.16:1935/live/SDsctv15.stream/playlist.m3u8</link>
+<thumbnail>http://liveradio.super-resources.com/wp-content/uploads/2011/12/sctv15.jpg</thumbnail>
+</item>
+ 
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>SCTV 16 - Kenh Phim Truyen</title>
+<link>http://112.197.2.16:1935/live/SDsctv16.stream/playlist.m3u8</link>
+<thumbnail>http://www.dailytv.net/uploads/thumbs/592050dda-1.jpg</thumbnail>
+</item>
+ 
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>SCTV 17 - Kenh Phim Truyen Chon Loc</title>
+<link>http://112.197.2.16:1935/live/SDsctv17.stream/playlist.m3u8</link>
+<thumbnail>http://www.dailytv.net/uploads/thumbs/238545668-1.jpg</thumbnail>
+</item>
+ 
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>SCTV 18 - Kenh The Thao HD</title>
+<link>http://112.197.2.16:1935/live/SDsctv18.stream/playlist.m3u8</link>
+<thumbnail>http://www.dailytv.net/uploads/thumbs/d93043d8b-1.jpg</thumbnail>
+</item>
+ 
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>VTV 1</title>
+<link>rtmp://66.160.142.201:1935/live/vtv11_h swfUrl=http://www.vtc.com.vn/player_31_01_2013.swf pageUrl=http://www.vtc.com.vn/ live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtv1_vn.jpg</thumbnail>
+<epg>http://vtv.vn/LichPS/Index</epg>
+</item>
+ 
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>VTV 2</title>
+<link>rtmp://111.91.233.197:1935/live/vtv2_h swfUrl=http://www.vtc.com.vn/player_31_01_2013.swf pageUrl=http://vtc.com.vn/ live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtv2_vn.jpg</thumbnail>
+</item>
+
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>VTV 3</title>
+<link>rtmp://66.160.142.201:1935/live/vtv31_h swfUrl=http://www.vtc.com.vn/player_31_01_2013.swf pageUrl=http://www.vtc.com.vn/ live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtv3_vn.jpg</thumbnail>
+</item>
+ 
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>VTV 4</title>
+<link>rtmp://66.160.142.201:1935/live/vtv4_h swfUrl=http://www.vtc.com.vn/player_31_01_2013.swf pageUrl=http://vtc.com.vn live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtv4_vn.jpg</thumbnail>
+</item>
+ 
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>VTV 6</title>
+<link>rtmp://m22.megafun.vn/hctv/vstv014</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtv6_vn.jpg</thumbnail>
+</item>
+ 
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>VTC 1</title>
+<link>rtmp://66.160.142.201:1935/live playpath=vtc11_l swfUrl=http://www.vtc.com.vn/player_akamai_low.swf live=true pageUrl=http://www.vtc.com.vn/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtc_1.jpg</thumbnail>
+</item>
+
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>VTC2</title>
+<link>rtmp://66.160.142.201:1935/live playpath=vtc21_l swfUrl=http://www.vtc.com.vn/player_akamai_low.swf live=true pageUrl=http://www.vtc.com.vn/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtc_2.jpg</thumbnail>
+</item>
+
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>VTC10</title>
+<link>rtmp://66.160.142.201:1935/live playpath=vtc101_l swfUrl=http://www.vtc.com.vn/player_akamai_low.swf live=true pageUrl=http://www.vtc.com.vn/</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtc_10.jpg</thumbnail>
+</item> 
+ 
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>TRT 1 Thua Thien Hue</title>
+<link>rtmp://118.69.176.149/live/trt swfUrl=http://tv.xunghe.vn/player.swf pageUrl=http://tv.xunghe.vn/ live=true</link>
+<thumbnail>http://tv.xunghe.vn/images/logo/hue.gif</thumbnail>
+</item>
+ 
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>THTG</title>
+<link>mms://118.69.201.97/rtv</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tien_giang_tv.jpg</thumbnail>
+</item>
+
+</items>
+</channel>
+
+<!-- ============================3==== 
+-->
+
+<channel>
+<name>3->> Movies Channels - Phim Truc Tuyen</name>
+<thumbnail>http://www.directstartv.com/images/package_pages/pkg_ultimate_logos.png</thumbnail>
+
+<items>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Cinemax</title>
+<link>rtmp://142.4.216.145/edge/nl1yg9ant34fy93 swfUrl=http://cdn.static.ilive.to/jwplayer/player.swf live=1 pageUrl=http://www.ilive.to/view/44972/watch-live-Cinemax-channel-for-free</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cinemax_ce.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>HBO HD Low</title>
+<link>http://203.162.16.22/lives/origin03/hbohdmb.isml/hbohdmb-596k.m3u8</link>
+<thumbnail>http://img.hayhaytv.vn/livetv/12032013/hbo_57651363082608.png</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>HBO HD High</title>
+<link>http://113.160.49.34/lives/origin01/bts-hbohd.isml/bts-hbohd-2096k.m3u8</link>
+<thumbnail>http://img.hayhaytv.vn/livetv/12032013/hbo_57651363082608.png</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>HBO SD</title>
+<link>http://livemobi.hayhaytv.vn:1935/hayhaytv_live/mp4:hbo.360p/playlist.m3u8</link>
+<thumbnail>http://img.hayhaytv.vn/livetv/12032013/hbo_57651363082608.png</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>HBO HD 1 Vietnam</title>
+<link>http://203.162.16.22/lives/origin01/bts-hbohd.isml/bts-hbohd-2096k.m3u8</link>
+<thumbnail>http://img.hayhaytv.vn/livetv/12032013/hbo_57651363082608.png</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>AXN SD</title>
+<link>http://livemobi.hayhaytv.vn:1935/hayhaytv_live/mp4:axn.360p/playlist.m3u8</link>
+<thumbnail>http://img.hayhaytv.vn/livetv/12042013/axn_69561365741858.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.13.2013 by Silverfox -->
+<title>AXN HD Low</title>
+<link>http://203.162.16.22/lives/origin03/axnhdmb.isml/axnhdmb-596k.m3u8</link>
+<thumbnail>http://img.hayhaytv.vn/livetv/12042013/axn_69561365741858.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>AXN HD High S1</title>
+<link>http://203.162.235.26/lives/origin01/bts-axnhd.isml/bts-axnhd-2096k.m3u8</link>
+<thumbnail>http://img.hayhaytv.vn/livetv/12042013/axn_69561365741858.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>AXN HD High S2</title>
+<link>http://113.160.49.34/lives/origin01/bts-axnhd.isml/bts-axnhd-2096k.m3u8</link>
+<thumbnail>http://img.hayhaytv.vn/livetv/12042013/axn_69561365741858.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>AXN HD Vietnam</title>
+<link>http://113.160.49.34/lives/origin01/bts-axnhd.isml/bts-axnhd-2096k.m3u8</link>
+<thumbnail>http://img.hayhaytv.vn/livetv/12042013/axn_69561365741858.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Star Movie</title>
+<link>http://livemobi.hayhaytv.vn:1935/hayhaytv_live/mp4:star.movie.360p/playlist.m3u8</link>
+<thumbnail>http://img.hayhaytv.vn/livetv/14032013/starmovie_63621363228262.png</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Star World</title>
+<link>http://livemobi.hayhaytv.vn:1935/hayhaytv_live/mp4:star.world.360p/playlist.m3u8</link>
+<thumbnail>http://img.hayhaytv.vn/livetv/10012013/star-world-hd_96091357791081.png</thumbnail>
+</item>
+
+
+</items>
+</channel>
+
+<!-- ================================================================================4==== 
+-->
+<channel>
+<name>4->> Sports Channels - The Thao</name>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/extreme_sports.png</thumbnail>
+<info>
+Mời các bạn xem các chương trình truyền hình Thể Thao. Nếu bạn thích TV, bạn có thể donate tặng tiền qua Paypal đến địa chỉ: http://langsongviet.com/fta4vnForum/upload/awcl_dsl.php?do=donation
+Dù ít hay nhiều không quan trọng, chúng tôi đều cảm tạ, tiền quyên tặng giúp chúng tôi phát triển các kênh TV ngày càng tốt hơn.
+</info>
+<items>
+<item>
+<title>Chelsea TV</title>
+<link>rtmp://cp96798.live.edgefcs.net:1935/live playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://sapiens.bplaced.net/data/StrobeMediaPlayback.swf pageUrl=http://www.time4tv.net/2011/09/chelsea-tv.html swfVfy=true live=true</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.12.2013 by Silverfox -->
+<title>Eurosport HD</title>
+<link>http://esioslive2-i.akamaihd.net/hls/live/201149/AL_ESP1_INT_ENG/playlist_1800.m3u8</link>
+<thumbnail>http://images.nintendolife.com/news/2011/10/eurosport_red_bull_and_aardman_3d_content_coming_to_3ds/attachment/0/large.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.12.2013 by Silverfox -->
+<title>EuroSport2 HD</title>
+<link>http://esioslive2-i.akamaihd.net/hls/live/201150/AL_ESP2_INT_ENG/playlist_1800.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport2_hd.png</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.12.2013 by Silverfox -->
+<title>Fightbox HD</title>
+<link>http://spiinternational-i.akamaihd.net/hls/live/204308/FIGHTBOXHD_MT_HLS/once1200.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fight_box_hd.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.12.2013 by Silverfox -->
+<title>NBA TV</title>
+<link>rtmp://46.19.141.138:1935/stream//f2OI8s.stream playpath=f2OI8s.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageurl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=b444m3r494l4z364y2x2r2q26433p2p21394q2u23334&adx=&stream=03j5w28474w26444z23384x2b4e4v2l2c454n3i323w5m284q2x2m22414d4v2t213c4v274e4y2r2f4v2x4g3a4t373u5w5l4b4d2o3j5e444i4f4w3p2s4r2y3m23434v2r2g5h584y264x2b4e4m5b4e4a4d4232474i5a45434a4z2w264s2l594x224r204p2q2r2y3m27664p4l2y3g566&sooor=Ng==&str=is&idom=www.firstrow1.eu live=true timeout=9</link>
+<thumbnail>http://i2.cdn.turner.com/nba/nba/dam/assets/130407142114-carmelo-drives-vs-ibaka-040713.home-t3.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.12.2013 by Silverfox -->
+<title>NFL TV</title>
+<link>rtmp://213.163.64.239:80/liverepeater/26 playpath=26 swfUrl=http://cdn.goodcast.org/player.swf pageurl=http://goodcast.org/stream.php?id=26&width=640&height=460 live=true timeout=9</link>
+<thumbnail>http://cdn3.sbnation.com/uploads/chorus_image/image/10972909/20130110_mje_se2_1119.0_standard_730.0.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.12.2013 by Silverfox -->
+<title>Golf Channel</title>
+<link>rtmp://89.248.172.202:443/liverepeater/4013 playpath=4013 swfUrl=http://4372f0f736b94c17980f-72149a3bba3a67bfaa92318a7ed89a98.r76.cf1.rackcdn.com/player2.swf pageurl=http://espnwatch.tv/player3.php?id=4013&width=640&height=460 live=true timeout=9</link>
+<thumbnail>http://images.thegolfchannel.com/images/sitecore/9/6/1/%7B9612C95C-EDE4-4DB7-8182-6355606C616C%7Dmcilroy_texas13_d4_swing_610.jpg?w=423&h=206&bc=white</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Fox Sports</title>
+<link>http://livemobi.hayhaytv.vn:1935/hayhaytv_live/mp4:espn.360p/playlist.m3u8</link> 
+<thumbnail>http://www.mmaplanetonline.com/wp-content/uploads/2013/03/Fox-Sports-Logo.jpg</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Fox Sports S2</title>
+<link>http://mobilestreaming.ilive.to:1935/edge/ei69bygbmitkqpi/playlist.m3u8</link> 
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlFvpUIVnJcBvJhlr8dzflF_A8Ekcn3U9LIj83yOOFHp4eZPLN</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>True Sport</title>
+<link>rtmp://m35.megafun.vn/hctv/vstv018?token=3PV-wvhxaBY9-8rWVZUZPg swfUrl=http://megafun.vn/common/player/no_logo_player.swf pageUrl="http://tv24.vn77.net/player.php?id=342</link> 
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkTGLMGMbzAqqtQy9RdkYAes3fuAQaT60qWE03pAAgb6qeWfWBjA</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Setanta Sport Canada</title>
+<link>rtmp://85.12.5.43:1935/live/_definst_ playpath=setcacac swfUrl=http://cdn.yycast.com/player/player.swf live=1  pageUrl=http://www.yycast.com/embed.php?fileid=setcacac&vw=620&vh=490</link> 
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSi2nlHIhFzh4NlcxFXgEkOsBbH-iDHU1WkKSNTZZyOG-vvGOlh0w</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Arena Sport 1</title>
+<link>rtmp://80.82.78.29/liveedge playpath=ch13-jm3drskce0d swfUrl=http://obigbrother.com/player.swf pageUrl=http://cast4you.tv/show.php?id=ch13-jm3drskce0d%26width=100%%26height=95% live=1</link> 
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcbX2SCB6wWyqCUUHUqoMTGpExX05gi02l9Bn69isG7Qn1NZ_m</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Fox Sport Plus</title>
+<link>http://203.162.16.22/lives/origin01/bts-foxhd.isml/bts-foxhd-2096k.m3u8</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Star Sports Vietnam</title>
+<link>http://113.160.49.34:80/lives/origin02/starsportsd.isml/starsportsd.m3u8</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Fox Sports</title>
+<link>http://livemobi.hayhaytv.vn:1935/hayhaytv_live/mp4:espn.360p/playlist.m3u8</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Fox Sports S2</title>
+<link>http://mobilestreaming.ilive.to:1935/edge/ei69bygbmitkqpi/playlist.m3u8</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>True Sport</title>
+<link>rtmp://m35.megafun.vn/hctv/vstv018?token=3PV-wvhxaBY9-8rWVZUZPg swfUrl=http://megafun.vn/common/player/no_logo_player.swf pageUrl="http://tv24.vn77.net/player.php?id=342</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Sport-TV 2</title>
+<link>rtmp://80.82.78.30/liveedge playpath=ch2-epryawi9hp4 swfUrl=http://obigbrother.com/player.swf live=1 pageUrl=http://cast4you.tv/show.php?id=ch2-epryawi9hp4&width=100%&height=95% </link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Sport-TV 3</title>
+<link>rtmp://80.82.70.210/liveedge playpath=ch3-elfrztsusea swfUrl=http://obigbrother.com/player.swf live=1 pageUrl=http://cast4you.tv/show.php?id=ch3-elfrztsusea&width=100%&height=95%</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Sport-TV 4</title>
+<link>rtmp://80.82.70.210/liveedge playpath=ch4-z3m3zrdfvuw swfUrl=http://obigbrother.com/player.swf live=1 pageUrl=http://cast4you.tv/show.php?id=ch4-z3m3zrdfvuw&width=100%&height=95%</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Sport-TV 5</title>
+<link>rtmp://80.82.78.29/liveedge playpath=ch5-psblzd7sl27 swfUrl=http://obigbrother.com/player.swf live=1 pageUrl=http://cast4you.tv/show.php?id=ch5-psblzd7sl27&width=100%&height=95%</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Sport-TV 6</title>
+<link>rtmp://80.82.70.210/liveedge playpath=canal1-hz3qiueauzq swfUrl=http://obigbrother.com/player.swf live=1 pageUrl=http://cast4you.tv/show.php?id=canal1-hz3qiueauzq&width=100%&height=95%</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Sport-TV 7</title>
+<link>rtmp://80.82.70.210/liveedge playpath=canal2-qfytkkxhtrn swfUrl=http://obigbrother.com/player.swf live=1 pageUrl=http://cast4you.tv/show.php?id=canal2-qfytkkxhtrn&width=100%&height=95%</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Sport-TV 8</title>
+<link>rtmp://80.82.78.29/liveedge playpath=ch8-epozx3nqhdi swfUrl=http://obigbrother.com/player.swf live=1 pageUrl=http://cast4you.tv/show.php?id=ch8-epozx3nqhdi&width=100%&height=95%</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Sport-TV 9</title>
+<link>rtmp://80.82.78.29/liveedge playpath=ch9-zzheht0e5yc swfUrl=http://obigbrother.com/player.swf live=1 pageUrl=http://cast4you.tv/show.php?id=ch9-zzheht0e5yc&width=100%&height=95%</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Sport-TV 10</title>
+<link>rtmp://80.82.78.30/liveedge playpath=ch10-st7udj1dlgc swfUrl=http://obigbrother.com/player.swf live=1 pageUrl=http://cast4you.tv/show.php?id=ch10-st7udj1dlgc&width=100%&height=95%</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Sport-TV 11</title>
+<link>rtmp://80.82.78.29/liveedge playpath=ch11-azefbiulal9 swfUrl=http://obigbrother.com/player.swf live=1 pageUrl=http://cast4you.tv/show.php?id=ch11-azefbiulal9&width=100%&height=95%</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Sport-TV 12</title>
+<link>rtmp://80.82.78.30/liveedge playpath=ch12-bynyrs2pgz1 swfUrl=http://obigbrother.com/player.swf live=1 pageUrl=http://cast4you.tv/show.php?id=ch12-bynyrs2pgz1&width=100%&height=95%</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Sport-TV 13</title>
+<link>rtmp://80.82.78.30/liveedge playpath=ch13-jm3drskce0d swfUrl=http://obigbrother.com/player.swf live=1 pageUrl=http://cast4you.tv/show.php?id=ch13-jm3drskce0d&width=100%&height=95%</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Sport-TV 14</title>
+<link>rtmp://80.82.78.29/liveedge playpath=ch14-fk4dmtbvver swfUrl=http://obigbrother.com/player.swf live=1 pageUrl=http://cast4you.tv/show.php?id=ch14-fk4dmtbvver&width=100%&height=95%</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Sport-TV 15</title>
+<link>rtmp://80.82.78.29/liveedge playpath=ch15-panttq297yz swfUrl=http://obigbrother.com/player.swf live=1 pageUrl=http://cast4you.tv/show.php?id=ch15-panttq297yz&width=100%&height=95%</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Sport-TV 16</title>
+<link>rtmp://80.82.70.210/liveedge playpath=ch16-9ydhpboxq40 swfUrl=http://obigbrother.com/player.swf live=1 pageUrl=http://cast4you.tv/show.php?id=ch16-9ydhpboxq40&width=100%&height=95%</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Sport-TV 17</title>
+<link>rtmp://80.82.78.30/liveedge playpath=ch17-4e0xjxokm18 swfUrl=http://obigbrother.com/player.swf live=1 pageUrl=http://cast4you.tv/show.php?id=ch17-4e0xjxokm18&width=100%&height=95%</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Sport-TV 18</title>
+<link>rtmp://80.82.78.29/liveedge playpath=ch18-ylbo92ety1j swfUrl=http://obigbrother.com/player.swf live=1 pageUrl=http://cast4you.tv/show.php?id=ch18-ylbo92ety1j&width=100%&height=95%</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Sport-TV 19</title>
+<link>rtmp://80.82.78.29/liveedge playpath=canal3-s9i0u8nbpou swfUrl=http://obigbrother.com/player.swf live=1 pageUrl=http://cast4you.tv/show.php?id=canal3-s9i0u8nbpou&width=100%&height=95%</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Sport-TV 20</title>
+<link> http://81.18.66.155:1935/live/banat-tv/playlist.m3u8</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+</items>
+</channel>
+
+
+<!-- ================================================================================5==== 
+
+-->
+
+<channel>
+<name>5->> Cartoons Channels - Kids</name>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAyw5MKTLEts59AQ6GsnmU2FlIfBX764ROzHP69Gw11v8mOLUKXA</thumbnail>
+<items>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Cartoon Network Vietnam</title>
+<link>http://113.160.49.34/lives/origin02/cartoonsd.isml/cartoonsd-1096k.m3u8</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Discovery Channel Vietnam</title>
+<link>http://113.160.49.34/lives/origin02/discoverysd.isml/discoverysd-1096k.m3u8</link>
+<thumbnail>none</thumbnail>
+</item>
+
+
+</items>
+</channel>
+<!-- ================================================================================6==== 
+-->
+
+<channel>
+<name> 6->> English Channels - TV Tieng Anh</name>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5NY0XoQH-MgN-pG67jZMdGoinlj9DZB2Qev7F5cAmwhzFieZY</thumbnail>
+
+<items>
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>A & E</title>
+<link>rtmp://46.105.112.201:1935/edge/x99v7adz8i3ikkm pageUrl=http://www.ilive.to swfUrl=http://cdn.static.ilive.to/jwplayer/player.swf</link>
+<thumbnail>http://www.aetv.com/news-page/images/news_generic_AElogo.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>ABC</title>
+<link>rtmp://46.105.114.36/edge playpath=nz7l9vc5nv1og7b swfUrl=http://static.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/view/46476/watch-live-NBC-channel-for-free</link>
+<thumbnail>http://tvseriesfinale.com/assets/abc02aa.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>AMC</title>
+<link>rtmp://46.105.114.36/edge playpath=z4cxm7zlfyqs65m swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=660&height=495&channel=46209&autoplay=true</link>
+<thumbnail>http://brusimm.com/wp-content/uploads/2012/05/AMC-TV.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.06.2013 by Silverfox -->
+<title>Comedy Central</title>
+<link>rtmp://198.144.153.142:443/kuyo playpath=comedddd?id=3131352e36342e3138302e313138  swfUrl=http://yukons.net/yukplay.swf  pageUrl=http://yukons.net/embed/http://yukons.net/embed/36333646364436353634363436343634/3d5c0799b3c3b91fb65a9d62ff22a80f/595/380 live=1</link>
+<thumbnail>http://i1307.photobucket.com/albums/s591/DSGNavi/ComedyCentral_zps07e8e350.png:original</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>CNN News</title>
+<link>rtmp://c.cdn.msnbclive.eu/edge/cnn_live swfurl=http://msnbclive.eu/player.swf  pageUrl=http://blog.livenewschat.tv/rockinroosters/ live=1</link>
+<thumbnail>http://www.navixtreme.com.nyud.net/images/backgrounds/thumb_cnn.png</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>C-SPAN</title>
+<link>rtmp://cp82346.live.edgefcs.net:1935/live playpath=CSPAN1@14845 swfUrl="http://www.c-span.org/cspanVideoHD.swf" pageURL="http://www.c-span.org/Live-Video/C-SPAN/" swfVfy=true live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/cspan.png</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>C-SPAN1</title>
+<link>rtmp://cp82346.live.edgecfs.net/live playpath=CSPAN1@14845 swfUrl=http://www.c-span.org/cspanVideoHD.swf pageUrl=http://www.c-span.org/ swfVfy=true live=true</link>
+<link></link>
+<thumbnail>none</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>C-SPAN 2</title>
+<link>rtmp://cp82347.live.edgefcs.net:1935/live playpath=CSPAN2@14846 swfUrl="http://www.c-span.org/cspanVideoHD.swf"
+ pageURL="http://www.c-span.org/Live-Video/C-SPAN2/" swfVfy=true live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/cspan2.png</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>C-SPAN 3</title>
+<link>rtmp://cp82348.live.edgefcs.net:1935/live playpath=CSPAN3@14847 swfUrl="http://www.c-span.org/cspanVideoHD.swf"
+ pageURL="http://www.c-span.org/Live-Video/C-SPAN3/" swfVfy=true live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/cspan3.png</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.06.2013 by Silverfox -->
+<title>Discovery Channel</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=discoveryu swfUrl=http://www.ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/embed.php?u=discoveryu&vw=600&vh=430</link>
+<thumbnail>http://i1307.photobucket.com/albums/s591/DSGNavi/DiscoveryChannel_zpsb5d21b1d.png:original</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>Disney Channel</title>
+<link>rtmp://5.39.65.109/edge/2tag4dzgwof5ma2 swfUrl=http://static.ilive.to/jwplayer/player.swf pageUrl=http://www.ilive.to/view/38804/watch-live-Disney_channel-channel-for-free</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/1/15/DisneyChannel2010.png/200px-DisneyChannel2010.png</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.06.2013 by Silverfox -->
+<title>Disney Channel (2)</title>
+<link>rtmp://178.33.229.39/edge playpath=2tag4dzgwof5ma2 swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=660&height=495&channel=38804/Disney_channel&autoplay=true live=1</link>
+<thumbnail>http://i1307.photobucket.com/albums/s591/DSGNavi/DisneyChannel_zpse4d0532a.png:original</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>ESPN Sport</title>
+<link>rtmp://31.7.58.250:1935/stream/5654ygt.stream swfUrl=http://thecdn.04stream.com/p/bbp.swf live=1 pageUrl=http://thecdn.04stream.com/live=1</link>
+<thumbnail>http://www.throughrosetintedglasses.com/wp-content/uploads/2012/05/ESPN-LOGO.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>FOX Movies</title>
+<link>rtmp://46.105.112.201:1935/edge/hc992q7x7cz86t9 pageUrl=http://www.ilive.to swfUrl=http://cdn.static.ilive.to/jwplayer/player.swf</link>
+<thumbnail>http://en.kingofsat.net/jpg/foxmovies-arab.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>Free Speech TV</title>
+<link>mms://a1121.l5365237120.c53652.g.lm.akamaistream.net/D/1121/53652/v0001/reflector:37120</link>
+<thumbnail>http://thestreamdb.com/images/8gglzs.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.06.2013 by Silverfox -->
+<title>FX Channel</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=fx08 swfUrl=http://www.livecaster.tv/player/player.swf pageUrl=http://www.livecaster.tv/</link>
+<thumbnail>http://i1307.photobucket.com/albums/s591/DSGNavi/FX_zps224b0f9e.png:original</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>HBO Comedy Movies</title>
+<link>rtmp://46.105.112.201:1935/edge/a1wn1j3ra1w0cv0 pageUrl=http://www.ilive.to swfUrl=http://cdn.static.ilive.to/jwplayer/player.swf</link>
+<thumbnail>http://duels.cz/galerie/hbo_comedy.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>MSNBC News</title>
+<link>rtmp://c.cdn.msnbclive.eu/edge/msnbc_live swfurl=http://msnbclive.eu/player.swf pageUrl=http://blog.livenewschat.tv/rockinroosters/ live=1</link>
+<thumbnail>http://www.realtvcritics.com/wp-content/uploads/2011/07/msnbc-logo1.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>NASA</title>
+<link>rtmp://cp76072.live.edgefcs.net/live/ swfUrl="http://www.nasa.gov/templateimages/redesign/flash_player/swf/4.5/player.swf" pageUrl="http://www.nasa.gov/multimedia/nasatv/media_flash.html" Playpath=MED-HQ-Flash@42814 live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nasa_tv_us.png</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>NASA 2</title>
+<link>http://www.nasa.gov/145588main_Digital_Edu.asx</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nasa_tv_us.png</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>NASA 3</title>
+<link>http://www.nasa.gov/145590main_Digital_Media.asx</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nasa_tv_us.png</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>NASA HD</title>
+<link>rtmp://cp39920.live.edgefcs.net:1935/live/nasahd@55196 swfurl=http://www.ustream.tv/flash/viewer.swf live=true</link>
+<link>rtmp://ustream.fc.llnwd.net:1935/ustream/test/ swfurl=http://cdn1.ustream.tv/swf/4/viewer.rsl.604.swf playpath=ustream@llnw_1_6540154_live_1 live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nasa_tv_us.png</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>NBA TV Sport</title>
+<link>rtmp://31.7.58.122:1935/stream/I8s9S4H7.stream playpath=N1V3R0h8.stream swfUrl=http://thecdn.04stream.com/p/bbp.swf live=true  pageUrl=http://www.04stream.com/NBA TV</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nba_tv.png</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>NBC News</title>
+<link>rtmp://37.59.35.215/edge playpath=q2bufwoa7lkxds3 swfUrl=http://static.ilive.to/jwplayer/player.swf live=true  pageUrl=http://www.ilive.to/view/46459/watch-live-NBC_%28HD%29-channel-for-free</link>
+<thumbnail>http://media.cnbc.com/i/CNBC/Sections/News_And_Analysis/__Story_Inserts/graphics/__COMPANY_IMAGES/H-Q/nbc_logo1.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>NFL Network Sport</title>
+<link>rtmp://46.246.29.130:1935/stream/bdpZdSfpz0.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf live=true timeout=15 swfVfy=1 pageUrl=http://www.04stream.com</link>
+<thumbnail>http://rbr.com/wp-content/uploads/NFL1-225x180.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>Outdoor Channel Sport</title>
+<link>rtmp://lm02.everyon.tv:1935/ptv2/pld613</link>
+<thumbnail>http://www.redarrowtv.com/images/logo_OutdoorChannel_header.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.06.2013 by Silverfox -->
+<title>NHL Network Sport</title>
+<link>rtmp://37.220.36.71:443/liverepeater playpath=3994 swfUrl=http://c1776742.cdn.cloudfiles.rackspacecloud.com/flash/player.swf pageUrl=http://espnwatch.tv/player2.php?id=3994&width=640&height=460</link>
+<thumbnail>http://i1307.photobucket.com/albums/s591/DSGNavi/NHLNetwork_zps7e658635.png:original</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>PBS Channel</title>
+<link>http://winstream.kamu.tamu.edu/kamu-tv?mswmext=.asf</link>
+<thumbnail>http://blackchristiannews.com/news/s-PBS-LOGO-large.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>PBS2 Channel</title>
+<link>http://165.95.101.52:80/kamu-weather?MSWMExt=.asf</link>
+<thumbnail>http://blackchristiannews.com/news/s-PBS-LOGO-large.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>The Pentagon Channel</title>
+<link>rtmp://cp114761.live.edgefcs.net:443/live/ playpath=tpc-live_1@44263 swfUrl=http://www.pentagonchannel.mil/swf/flvPlayer.swf pageUrl=http://www.pentagonchannel.mil/library.html swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.tvyard.com/channel/picture/logo/tv/pp/pentagon_channel.jpg
+</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>Relax TV</title>
+<link>rtmp://www.planeta-online.tv:1936/live/channel_3 swfUrl=http://www.planeta-online.tv/planeta_player.swf pageUrl=http://www.planeta-online.tv/?ch=3Vfy=true live=true tcUrl=rtmp://www.planeta-online.tv:1936/live/channel_3</link>
+<thumbnail>http://ovego.3dn.ru/img2/relaxtv.gif</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>SFL TV</title>
+<link>rtmp://live.ukcast.tv/broadcast/ playpath=cw_usa.stream swfUrl=http://www.ukcast.tv/player/player.swf  pageUrl=http://www.ukcast.tv/embed.php?u=cw_usa&vw=600&vh=430 live=1</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/9/96/WSFL39.png</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>Showtime</title>
+<link>rtmp://37.59.35.215/edge playpath=bwbop58ixz281wv swfUrl=http://static.ilive.to/jwplayer/player.swf live=1 pageUrl=http://www.ilive.to/view/44126/watch-live-Showtime_movies-channel-for-free</link>
+<thumbnail>http://i254.photobucket.com/albums/hh98/justme4u2cme/Navi-X%20Playlists/500px-Showtimesvg.png</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>Spike TV</title>
+<link>rtmp://46.105.112.201:1935/edge/zmt2swezlswh9nz pageUrl=http://www.ilive.to swfUrl=http://cdn.static.ilive.to/jwplayer/player.swf</link>
+<thumbnail>http://www.navixtreme.com/justme4u2c/images/Spike_TV.png</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>Starz</title>
+<link>rtmp://46.105.112.201:1935/edge/8g7x80ozu6hz2ds pageUrl=http://www.ilive.to swfUrl=http://cdn.static.ilive.to/jwplayer/player.swf</link>
+<thumbnail>http://lifeislottery.com/images/thumbs/thumb_starz.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>SYFY Channel</title>
+<link>rtmp://46.105.112.201:1935/edge/x7uii7mll2b7lh4 pageUrl=http://www.ilive.to swfUrl=http://cdn.static.ilive.to/jwplayer/player.swf</link>
+<thumbnail>http://wormholeriders.net/wh13/wp-content/uploads/2012/07/Syfy-logo-banner-May-2012-480x261.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.06.2013 by Silverfox -->
+<title>SYFY Channel</title>
+<link>rtmp://37.59.35.214/edge playpath=x7uii7mll2b7lh4 swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=660&height=495&channel=46454&autoplay=true</link>
+<thumbnail>http://i1307.photobucket.com/albums/s591/DSGNavi/SYFY_zps5570d084.png:original</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>TBS Channel</title>
+<link>rtmp://46.105.112.201:1935/edge/rp6zlxo29ob14q1 pageUrl=http://www.ilive.to swfUrl=http://cdn.static.ilive.to/jwplayer/player.swf</link>
+<thumbnail>http://www.musikvergnuegen.com/images/uploads/tbs-network-id_final-logo_1302632143.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>TNT Channel</title>
+<link>rtmp://142.4.216.178/edge playpath=s7d8wd96rhebpng swfUrl=http://player.ilive.to/player_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=600&height=450&channel=46736&autoplay=true</link>
+<thumbnail>http://4.bp.blogspot.com/-ce5cmqwmrm8/Tw-Cuy9LelI/AAAAAAAAFPk/OaS6b0ADkp0/s1600/TNT_TV_logo.png</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>TWit TV</title>
+<link>http://bglive-a.bitgravity.com/twit/live/high</link>
+<link>rtmp://flash76.ustream.tv:1935/ustreamVideo/1524 playpath=streams/live app=ustreamVideo/1524 swfUrl="http://cdn1.ustream.tv/swf/4/viewer.rsl.558.swf" pageUrl="http://live.twit.tv/" live=true</link>
+<link>rtmp://flash76.ustream.tv:1935/ustreamVideo/1524 playpath=streams/live app=ustreamVideo/1524 swfUrl="http://cdn1.ustream.tv/swf/4/viewer.rsl.558.swf" pageUrl="http://live.twit.tv/" live=true</link>
+<thumbnail>http://www.thisweekinphoto.com/wp-content/uploads/2010/07/twit-logo.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>USA Network</title>
+<link>rtmp://46.105.112.201:1935/edge/h5eovaj1jeegluq pageUrl=http://www.ilive.to swfUrl=http://cdn.static.ilive.to/jwplayer/player.swf</link>
+<thumbnail>http://images.sodahead.com/polls/003279465/153380788_usa_network_logo_1_answer_2_xlarge.jpeg</thumbnail>
+</item>
+
+</items>
+</channel>
+
+<!-- ================================================================================7==== 
+
+-->
+
+<channel>
+
+<name>7->> International Channels - TV Quoc Te</name>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQiKczTE3qlXePNuiKo8jewWjgJofK--iQ5OfxsAvqARuhlUGak</thumbnail>
+<items>
+<item>
+<title>CNN International</title>
+<link>rtmp://media2.lsops.net/live/ playpath=cnn_en_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/channels/66-cnn-international" swfVfy=true live=true</link>
+<thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gbjm3.png</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.12.2013 by Silverfox -->
+<title>MTV Vietnam</title>
+<link>http://113.160.49.34/lives/origin02/bts-mtvsd.isml/bts-mtvsd-1096k.m3u8</link>
+<thumbnail>http://www.bangsandabun.com/wp-content/uploads/2011/04/MTV-Logo-MTV.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.12.2013 by Silverfox -->
+<title>Discovery Channel Vietnam</title>
+<link>http://113.160.49.34/lives/origin02/bts-mtvsd.isml/bts-mtvsd-1096k.m3u8</link>
+<thumbnail>http://www.navixtreme.com/images/backgrounds/thumb_discovery_dsc.png</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.12.2013 by Silverfox -->
+<title>Dance TV</title>
+<link>mms://dancetv.dyndns.org/dancetv</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.12.2013 by Silverfox -->
+<title>Dolce Sport</title>
+<link>rtmp://fms30.mediadirect.ro:1935/live3?id=14703526/dolcesport_low swfurl=http://static.mediadirect.ro/player-preload/swf/preloader/preloader.swf live=true</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.12.2013 by Silverfox -->
+<title>ESPN Plus Brazil</title>
+<link>rtmp://31.204.128.74/live/ playpath=master27 swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/ESPN HD.html</link>
+<thumbnail>http://www.info-crespo.com.ar/img/canales/espn_plus.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.12.2013 by Silverfox -->
+<title>Food Television New Zealand</title>
+<link>rtmp://46.105.112.201:1935/edge/r7oi6ylf755rcno pageUrl=http://www.ilive.to swfUrl=http://cdn.static.ilive.to/jwplayer/player.swf</link>
+<thumbnail>http://www.foodtv.co.nz/images/site/foodTv-logo.png</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.12.2013 by Silverfox -->
+<title>FOX Crime Portugal</title>
+<link>rtmp://198.7.58.79/edge/foxcrime pageUrl=http://www.zuuk.net/ swfUrl=http://s.zuuk.net/ply.swf swfVfy=true live=true /FOX CRIME</link>
+<thumbnail>http://hotvnewsimages.files.wordpress.com/2007/09/fox-crime.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.12.2013 by Silverfox -->
+<title>Luxe TV HD China</title>
+<link>rtmp://203.217.99.60:1935/live/live12_3</link>
+<thumbnail>http://livandlily.com/press/images/luxetv.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.12.2013 by Silverfox -->
+<title>Max HD Brazil</title>
+<link>rtmp://50.7.188.130/live playpath=maxhd swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/maxhd.html</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/max_br_hd.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.12.2013 by Silverfox -->
+<title>National Geographic Adventure China</title>
+<link>http://211.79.36.141/iTV/segments/ch72/03.m3u8</link>
+<thumbnail>http://www.danmorris.com/wp-content/uploads/2010/03/nat-geo-adventure.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.12.2013 by Silverfox -->
+<title>National Geographic Wild HD</title>
+<link>http://211.79.36.141/iTV/segments/ch71/03.m3u8</link>
+<thumbnail>http://www.cambiarcontenidos.com.ar/imagenes/NAT-GEO-WILD-DIRECTV.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.12.2013 by Silverfox -->
+<title>National Geographic Portugal</title>
+<link>rtmp://198.7.58.79/edge/nationalgeographic pageUrl=http://www.zuuk.net/ swfUrl=http://s.zuuk.net/ply.swf swfVfy=true live=true /NATIONAL GEOGRAPHIC</link>
+<thumbnail>http://images.wikia.com/logopedia/images/f/ff/National_Geographic_Society.png</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.12.2013 by Silverfox -->
+<title>TC Premium</title>
+<link>rtmp://46.105.112.201:1935/edge/wn5xssyos5x0yj7 pageUrl=http://www.ilive.to swfUrl=http://cdn.static.ilive.to/jwplayer/player.swf</link>
+<thumbnail>http://www.microcenterweb.com.br/viaembratel/img/pacotes/telecine_premium.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.12.2013 by Silverfox -->
+<title>TNT Portugal</title>
+<link>rtmp://178.33.234.10/edge/ftvmi59pwr6ggcx swfUrl=http://cdn.static.ilive.to/jwplayer/player.swf live=1 pageUrl=http://www.ilive.to/view/45912/watch-live-Star_Movies-channel-for-free</link>
+<thumbnail>http://4.bp.blogspot.com/-ce5cmqwmrm8/Tw-Cuy9LelI/AAAAAAAAFPk/OaS6b0ADkp0/s1600/TNT_TV_logo.png</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.12.2013 by Silverfox -->
+<title>World Fashion TV Italy</title>
+<link>rtmp://83.229.210.89/WFC_EU/BTVwfceu0
+</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ww/world_fashion_tr.jpg</thumbnail>
+</item>
+
+</items>
+</channel>
+<!-- ================================================================================8==== 
+
+-->
+
+<channel>
+
+<name>8->> Infotainment Channels - Tong Hop</name>
+<thumbnail>http://www.remotecentral.com/files/prontong/pb000005.jpg</thumbnail>
+<items>
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>Life TV</title>
+<link>rtmp://video.lifetv.vn/live/Stream1</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>MTV Asia</title>
+<link>http://113.160.49.34/lives/origin02/bts-mtvsd.isml/bts-mtvsd-1096k.m3u8</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Diva Universal</title>
+<link>http://dichvu.vtvplus.vn:1935/live/diva.stream/playlist.m3u8?token=vtvplus_live_354io4kshdohs1362823021</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cinemax_ce.jpg</thumbnail>
+</item>
+
+
+</items>
+</channel>
+<!-- ================================================================================9==== 
+-->
+<channel>
+<name>9->> Adults Channels (for 18+) - Danh Cho Nguoi Lon</name>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpSBWxjR_O0O7g4bUrObghSUhcz6pwLAauI3xR6gAfSb7wbCgB</thumbnail>
+<items>
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>Sneak around if there any children (-18)- he...he...thanks...Silverfox at Langsongviet.com</title>
+<link>///////////////////////////////////////</link>
+<thumbnail>http://langsongviet.com/fta4vnForum/upload/awcodinglite/images/misc/link2.gif</thumbnail>
+</item>
+
+<item>
+<title>Spice TV HD (Adult Sex Korea)</title>
+<link>rtmp://111.118.21.75:1935/ptv2/_definst_/phd497 swfUrl=http://tv-box.hpage.com pageUrl=http://adulttvonline.blogspot.com/ live=true</link>
+<thumbnail>http://2.bp.blogspot.com/-Z2hbmds4C9g/USYE8IuBIjI/AAAAAAAAAP0/mSpv5VNExVo/s1600/adult%2Btv%2Bonline.png</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Spice TV (Adult Sex Korea 18+)</title>
+<link>rtmp://lm02.everyon.tv:1935/ptv2/phd497</link>
+<thumbnail>http://1.bp.blogspot.com/-pqf18X1vSkg/URJdsvyC2CI/AAAAAAAAAG4/IYy9HTNekR4/s72-c/Pink%2Btv%2BKorea.png</thumbnail>
+</item>
+
+<item>
+<title>Girls TV (18+)</title>
+<link>rtmp://lm02.everyon.tv:1935/ptv2/phd501</link>
+<thumbnail>http://2.bp.blogspot.com/-Z2hbmds4C9g/USYE8IuBIjI/AAAAAAAAAP0/mSpv5VNExVo/s1600/adult%2Btv%2Bonline.png</thumbnail>
+</item>
+
+<item>
+<title>Filton-XXX-Adult Asia</title>
+<link>rtsp://live190.la3.origin.filmon.com:1935/live/198.high.stream</link>
+<thumbnail>http://1.bp.blogspot.com/-Hm5Fpu8twrs/URJlXl6OfqI/AAAAAAAAAI4/Kn7pQNbfuZE/s320/play%2Bboy%2Btv.png</thumbnail>
+</item>
+
+<item>
+<title>Playboy TV (18+)</title>
+<link>rtmp://lm02.everyon.tv:1935/ptv/phd499</link>
+<thumbnail>http://1.bp.blogspot.com/-Hm5Fpu8twrs/URJlXl6OfqI/AAAAAAAAAI4/Kn7pQNbfuZE/s320/play%2Bboy%2Btv.png</thumbnail>
+</item>
+
+<item>
+<title>FrenchLover (18+)</title>
+<link>http://178.169.66.138:4022/udp/239.255.4.5:1234</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<title>Filton-XXX-Adult M.I.L.F</title>
+<link>rtsp://live190.la3.origin.filmon.com:1935/live/247.high.stream</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<title>Filton-XXX-Adult Fetish</title>
+<link>rtsp://live190.la3.origin.filmon.com:1935/live/245.high.stream</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<title>Filton-XXX-Adult Tranny</title>
+<link>rtsp://live190.la3.origin.filmon.com:1935/live/246.high.stream</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<title>Filton-XXX-Adult Black</title>
+<link>rtsp://live190.la3.origin.filmon.com:1935/live/244.high.stream</link>
+<thumbnail>http://2.bp.blogspot.com/-Z2hbmds4C9g/USYE8IuBIjI/AAAAAAAAAP0/mSpv5VNExVo/s1600/adult%2Btv%2Bonline.png</thumbnail>
+</item>
+
+<item>
+<title>Strip TV</title>
+<link>rtmp://93.89.84.200/iptv_cellcast_24/livestream1 swfUrl=http://api.firestormmedia.tv/aff_stream/flash/player.swf pageUrl=http://www.eloantv.com/2012/01/watch-live-strip-tv-channel-live-girls-webcam-private-shows/ live=true</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<title>XXX-Bluebird 1</title>
+<link>rtsp://ovh.firestormmedia.tv:1935/iptv_freeblue/tv9541</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<title>XXX-Bluebird 3</title>
+<link>rtsp://ovh.firestormmedia.tv:1935/iptv_freeblue/tv9672</link>
+<thumbnail>http://2.bp.blogspot.com/-Z2hbmds4C9g/USYE8IuBIjI/AAAAAAAAAP0/mSpv5VNExVo/s1600/adult%2Btv%2Bonline.png</thumbnail>
+</item>
+
+<item>
+<title>XXX-Bluebird 4</title>
+<link>rtsp://ovh.firestormmedia.tv:1935/iptv_freeblue/tv9542</link>
+<thumbnail>http://2.bp.blogspot.com/-Z2hbmds4C9g/USYE8IuBIjI/AAAAAAAAAP0/mSpv5VNExVo/s1600/adult%2Btv%2Bonline.png</thumbnail>
+</item>
+
+<item>
+<title>XXX-RLC1</title>
+<link>rtmp://playback.d2see.com/wavemachine-live02/playboytv_channel1</link>
+<thumbnail>http://2.bp.blogspot.com/-Z2hbmds4C9g/USYE8IuBIjI/AAAAAAAAAP0/mSpv5VNExVo/s1600/adult%2Btv%2Bonline.png</thumbnail>
+</item>
+
+<item>
+<title>XXX-RLC2</title>
+<link>rtmp://playback.d2see.com/wavemachine-live02/playboytv_channel2</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<title>XXX-RLC3</title>
+<link>rtmp://playback.d2see.com/wavemachine-live02/playboytv_channel3</link>
+<thumbnail>http://2.bp.blogspot.com/-Z2hbmds4C9g/USYE8IuBIjI/AAAAAAAAAP0/mSpv5VNExVo/s1600/adult%2Btv%2Bonline.png</thumbnail>
+</item>
+
+<item>
+<title>XXX-RLC4</title>
+<link>rtmp://playback.d2see.com/wavemachine-live02/playboytv_channel4</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<title>XXX-Storm Babes TV</title>
+<link>rtmp://www.stormbabes.tv:1935/stormApp/storm</link>
+<thumbnail>http://2.bp.blogspot.com/-Z2hbmds4C9g/USYE8IuBIjI/AAAAAAAAAP0/mSpv5VNExVo/s1600/adult%2Btv%2Bonline.png</thumbnail>
+</item>
+
+<item>
+<title>XXX-Storm Babes TV</title>
+<link>rtmp://www.stormbabes.tv:1935/stormApp/storm</link>
+<thumbnail>http://2.bp.blogspot.com/-Z2hbmds4C9g/USYE8IuBIjI/AAAAAAAAAP0/mSpv5VNExVo/s1600/adult%2Btv%2Bonline.png</thumbnail>
+</item>
+
+<item>
+<title>XXX-STUDIO 66 TV 1</title>
+<link>rtsp://orcadigital.mpl.miisolutions.net/wavemachine-live01/studio66tv_channel1</link>
+<thumbnail>http://2.bp.blogspot.com/-Z2hbmds4C9g/USYE8IuBIjI/AAAAAAAAAP0/mSpv5VNExVo/s1600/adult%2Btv%2Bonline.png</thumbnail>
+</item>
+
+<item>
+<title>XXX-STUDIO 66 TV 2</title>
+<link>rtsp://orcadigital.mpl.miisolutions.net/wavemachine-live01/studio66tv_channel2</link>
+<thumbnail>http://2.bp.blogspot.com/-cVi0OsI8HH8/URJeiq1zwoI/AAAAAAAAAHM/qvc9NrMAFEY/s320/deep1.png</thumbnail>
+</item>
+
+<item>
+<title>XXX-STUDIO 66 TV 3</title>
+<link>rtsp://orcadigital.mpl.miisolutions.net/wavemachine-live01/studio66tv_channel3</link>
+<thumbnail>http://2.bp.blogspot.com/-cVi0OsI8HH8/URJeiq1zwoI/AAAAAAAAAHM/qvc9NrMAFEY/s320/deep1.png</thumbnail>
+</item>
+
+<item>
+<title>XXX-STUDIO 66 TV 4</title>
+<link>rtsp://orcadigital.mpl.miisolutions.net/wavemachine-live01/studio66tv_channel4</link>
+<thumbnail>http://2.bp.blogspot.com/-cVi0OsI8HH8/URJeiq1zwoI/AAAAAAAAAHM/qvc9NrMAFEY/s320/deep1.png</thumbnail>
+</item>
+
+<item>
+<title>XXX-Thai Chat</title>
+<link>rtmp://arkmk.flashwebtown.com:1935/arkmk/mpegts2.stream</link>
+<thumbnail>http://2.bp.blogspot.com/-Z2hbmds4C9g/USYE8IuBIjI/AAAAAAAAAP0/mSpv5VNExVo/s1600/adult%2Btv%2Bonline.png</thumbnail>
+</item>
+
+<item>
+<title>XXX-VISIT X TV</title>
+<link>rtmp://194.116.150.47/live/visitx.stream1</link>
+<thumbnail>http://2.bp.blogspot.com/-Z2hbmds4C9g/USYE8IuBIjI/AAAAAAAAAP0/mSpv5VNExVo/s1600/adult%2Btv%2Bonline.png</thumbnail>
+</item>
+
+<item>
+<title>Playboy1</title>
+<link>rtmp://playback.d2see.com/wavemachine-live02/playboytv_channel1</link>
+<thumbnail>http://1.bp.blogspot.com/-Hm5Fpu8twrs/URJlXl6OfqI/AAAAAAAAAI4/Kn7pQNbfuZE/s320/play%2Bboy%2Btv.png</thumbnail>
+</item>
+
+<item>
+<title>Playboy2</title>
+<link>rtmp://playback.d2see.com/wavemachine-live02/playboytv_channel2</link>
+<thumbnail>http://1.bp.blogspot.com/-Hm5Fpu8twrs/URJlXl6OfqI/AAAAAAAAAI4/Kn7pQNbfuZE/s320/play%2Bboy%2Btv.png</thumbnail>
+</item>
+
+<item>
+<title>Playboy3</title>
+<link>rtmp://playback.d2see.com/wavemachine-live02/playboytv_channel3</link>
+<thumbnail>http://1.bp.blogspot.com/-Hm5Fpu8twrs/URJlXl6OfqI/AAAAAAAAAI4/Kn7pQNbfuZE/s320/play%2Bboy%2Btv.png</thumbnail>
+</item>
+
+<item>
+<title>Playboy4</title>
+<link>rtmp://playback.d2see.com/wavemachine-live02/playboytv_channel4</link>
+<thumbnail>http://1.bp.blogspot.com/-Hm5Fpu8twrs/URJlXl6OfqI/AAAAAAAAAI4/Kn7pQNbfuZE/s320/play%2Bboy%2Btv.png</thumbnail>
+</item>
+
+<item>
+<title>Filton-P.O.V</title>
+<link>rtmp://mi5.gv.filmon.com:1935/live/_definst_/249.high.stream</link>
+<thumbnail>http://1.bp.blogspot.com/-R56MeEvZxNc/URJf5o1HeoI/AAAAAAAAAHw/0czMXZsE5y0/s72-c/n500c76bdf0ee2.jpg</thumbnail>
+</item>
+
+<item>
+<title>Filton-Barely Legal</title>
+<link>rtmp://mi5.gv.filmon.com:1935/live/_definst_/77.high.stream</link>
+<thumbnail>http://1.bp.blogspot.com/-R56MeEvZxNc/URJf5o1HeoI/AAAAAAAAAHw/0czMXZsE5y0/s72-c/n500c76bdf0ee2.jpg</thumbnail>
+</item>
+
+<item>
+<title>Filton-Adult Latina</title>
+<link>rtmp://mi5.gv.filmon.com:1935/live/_definst_/107.high.stream</link>
+<thumbnail>http://1.bp.blogspot.com/-R56MeEvZxNc/URJf5o1HeoI/AAAAAAAAAHw/0czMXZsE5y0/s72-c/n500c76bdf0ee2.jpg</thumbnail>
+</item>
+
+<item>
+<title>Filton-Girl Girl</title>
+<link>rtmp://mi5.gv.filmon.com:1935/live/_definst_/250.high.stream</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<title>Filton-Hardcore</title>
+<link>rtmp://live190.la3.origin.filmon.com:1935/live/246.high.stream</link>
+<thumbnail>http://1.bp.blogspot.com/-R56MeEvZxNc/URJf5o1HeoI/AAAAAAAAAHw/0czMXZsE5y0/s72-c/n500c76bdf0ee2.jpg</thumbnail>
+</item>
+
+<item>
+<title>XXX-Eurotic TV</title>
+<link>rtmp://5.10.77.106/livepkgr/etv-livestream_2 swfUrl=http://www.eurotic.tv/flowplayer.rtmp-3.2.1.swf pageUrl=http://www.eurotic.tv live=true</link>
+<thumbnail>http://3.bp.blogspot.com/-6JQygog_yRQ/URNWEjz_8rI/AAAAAAAAAMU/n925KeDBJYc/s72-c/EuroHot+TV+.png</thumbnail>
+</item>
+
+<item>
+<title>XXX-Sexy Sat TV</title>
+<link>rtmp://5.10.77.106/livepkgr/etv-livestream_2 swfUrl=http://www.eurotic.tv/flowplayer.rtmp-3.2.1.swf pageUrl=http://www.eurotic.tv live=1</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<title>XXX-Sex Station 1</title>
+<link>rtmp://178.33.224.86/iptv_cellcast_24/livestream2</link>
+<thumbnail>http://3.bp.blogspot.com/-6JQygog_yRQ/URNWEjz_8rI/AAAAAAAAAMU/n925KeDBJYc/s72-c/EuroHot+TV+.png</thumbnail>
+</item>
+
+<item>
+<title>XXX-Sex Station 2</title>
+<link>rtmp://178.33.224.86/iptv_cellcast_24/livestream_two</link>
+<thumbnail>http://3.bp.blogspot.com/-6JQygog_yRQ/URNWEjz_8rI/AAAAAAAAAMU/n925KeDBJYc/s72-c/EuroHot+TV+.png</thumbnail>
+</item>
+
+<item>
+<title>XXX-Sex Station 3</title>
+<link>http://77.51.249.86:8111/</link>
+<thumbnail>http://3.bp.blogspot.com/-6JQygog_yRQ/URNWEjz_8rI/AAAAAAAAAMU/n925KeDBJYc/s72-c/EuroHot+TV+.png</thumbnail>
+</item>
+
+<item>
+<title>XXX-BABE Bikini TV</title>
+<link>rtmp://arkmk.flashwebtown.com:1935/arkmk/mpegts5.stream</link>
+<thumbnail>http://3.bp.blogspot.com/-6JQygog_yRQ/URNWEjz_8rI/AAAAAAAAAMU/n925KeDBJYc/s72-c/EuroHot+TV+.png</thumbnail>
+</item>
+
+<item>
+<title>Bellaluz</title>
+<link>rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp</link>
+<thumbnail>http://3.bp.blogspot.com/-6JQygog_yRQ/URNWEjz_8rI/AAAAAAAAAMU/n925KeDBJYc/s72-c/EuroHot+TV+.png</thumbnail>
+</item>
+
+<item>
+<title>You Diva</title>
+<link>rtsp://46.249.213.87/broadcast/youdiva-tablet.3gp</link>
+<thumbnail>http://3.bp.blogspot.com/-6JQygog_yRQ/URNWEjz_8rI/AAAAAAAAAMU/n925KeDBJYc/s72-c/EuroHot+TV+.png</thumbnail>
+</item>
+
+<item>
+<title>Enough for you now!..he..he..brought to you by Silverfox at Langsongviet.com</title>
+<link>///////////////////////////////////////</link>
+<thumbnail>http://langsongviet.com/fta4vnForum/upload/awcodinglite/images/misc/link2.gif</thumbnail>
+</item>
+
+</items>
+</channel>
+</channels>
