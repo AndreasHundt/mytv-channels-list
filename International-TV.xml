@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='http://langsongviet.com/fta4vnForum/upload/forum.php'?>
+<!-- Last Update: 04.05.2013 -->
+<!-- Official Site: http://langsongviet.com/fta4vnForum/upload/forum.php -->
+<!-- Channel list: International TV -->
+<!-- Last Update: 04.07.2013 by Silverfox -->
+<info>Neu ban thich TV, ban co the donate tang tien qua Paypal den dia chi http://langsongviet.com/fta4vnForum/upload/awcl_dsl.php?do=donation, it hay nhieu khong quan trong chung toi deu cam ta, tien quyen tang giup chung toi phat trien cac kenh TV ngay cang tot hon.</info>
+<channels>
+<channel>
+<name>Sport - The Thao Quoc Te</name>
+<info>Moi cac ban xem cac kenh truyen hinh the thao va TV khap noi tren the gioi. Neu ban thich TV, ban co the donate tang tien qua Paypal den dia chi http://langsongviet.com/fta4vnForum/upload/awcl_dsl.php?do=donation, it hay nhieu khong quan trong chung toi deu cam ta, tien quyen tang giup chung toi phat trien cac kenh TV ngay cang tot hon.</info>
+<thumbnail>http://LangSongViet.com/fta4vnForum/upload/uploaded/26_1365180982.png</thumbnail>
+<language>English and others</language>
+
+<items>
+<item>
+<!--Last Update: 04.07.2013 by Silverfox -->
+<title>Sport TV</title>
+<link>rtmp://37.220.32.43:443/liverepeater/3994 playpath=3994 swfUrl=http://c1776742.cdn.cloudfiles.rackspacecloud.com/flash/player.swf pageUrl=http://espnwatch.tv/player3.php?id=3994&width=640&height=460 live=true timeout=9</link>
+<thumbnail>http://neulion.hs.llnwd.net/e1/ufc/thumbs/2010_es.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.07.2013 by Silverfox -->
+<title>At the races - Dua Xe</title>
+<link>rtmp://94.242.252.131:443/liverepeater/3903 playpath=3903 swfUrl=http://4372f0f736b94c17980f-72149a3bba3a67bfaa92318a7ed89a98.r76.cf1.rackcdn.com/player2.swf pageurl=http://espnwatch.tv/player3.php?id=3903&width=640&height=460 live=true timeout=9</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1qb_yUs4HkFzeemYpE0Rd-I0YfWugRS2P021zUcEv7gAs_aAc</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.07.2013 by Silverfox -->
+<title>Racing UK - Dua Xe</title>
+<link>rtmp://93.174.93.226:443/liverepeater/4026 playpath=4026 swfUrl=http://c1776742.cdn.cloudfiles.rackspacecloud.com/flash/player.swf pageurl=http://espnwatch.tv/player3.php?id=4026&width=640&height=460 live=true timeout=9</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4JAxwnv6JzffKEcUTGvHBgXRlxlRz8uOOp1Za7OiqWyP-JHh6</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.07.2013 by Silverfox -->
+<title>Eurosport HD</title>
+<link>http://esioslive2-i.akamaihd.net/hls/live/201149/AL_ESP1_INT_ENG/playlist_1800.m3u8</link>
+<thumbnail>http://images.nintendolife.com/news/2011/10/eurosport_red_bull_and_aardman_3d_content_coming_to_3ds/attachment/0/large.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.07.2013 by Silverfox -->
+<title>EuroSport2 HD</title>
+<link>http://esioslive2-i.akamaihd.net/hls/live/201150/AL_ESP2_INT_ENG/playlist_1800.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport2_hd.png</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.07.2013 by Silverfox -->
+<title>Fightbox HD</title>
+<link>http://spiinternational-i.akamaihd.net/hls/live/204308/FIGHTBOXHD_MT_HLS/once1200.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fight_box_hd.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.07.2013 by Silverfox -->
+<title>NBA TV</title>
+<link>rtmp://46.19.141.138:1935/stream//f2OI8s.stream playpath=f2OI8s.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageurl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=b444m3r494l4z364y2x2r2q26433p2p21394q2u23334&adx=&stream=03j5w28474w26444z23384x2b4e4v2l2c454n3i323w5m284q2x2m22414d4v2t213c4v274e4y2r2f4v2x4g3a4t373u5w5l4b4d2o3j5e444i4f4w3p2s4r2y3m23434v2r2g5h584y264x2b4e4m5b4e4a4d4232474i5a45434a4z2w264s2l594x224r204p2q2r2y3m27664p4l2y3g566&sooor=Ng==&str=is&idom=www.firstrow1.eu live=true timeout=9</link>
+<thumbnail>http://i2.cdn.turner.com/nba/nba/dam/assets/130407142114-carmelo-drives-vs-ibaka-040713.home-t3.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.07.2013 by Silverfox -->
+<title>NFL TV</title>
+<link>rtmp://213.163.64.239:80/liverepeater/26 playpath=26 swfUrl=http://cdn.goodcast.org/player.swf pageurl=http://goodcast.org/stream.php?id=26&width=640&height=460 live=true timeout=9</link>
+<thumbnail>http://cdn3.sbnation.com/uploads/chorus_image/image/10972909/20130110_mje_se2_1119.0_standard_730.0.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.07.2013 by Silverfox -->
+<title>Golf Channel</title>
+<link>rtmp://89.248.172.202:443/liverepeater/4013 playpath=4013 swfUrl=http://4372f0f736b94c17980f-72149a3bba3a67bfaa92318a7ed89a98.r76.cf1.rackcdn.com/player2.swf pageurl=http://espnwatch.tv/player3.php?id=4013&width=640&height=460 live=true timeout=9</link>
+<thumbnail>http://images.thegolfchannel.com/images/sitecore/9/6/1/%7B9612C95C-EDE4-4DB7-8182-6355606C616C%7Dmcilroy_texas13_d4_swing_610.jpg?w=423&h=206&bc=white</thumbnail>
+</item>
+</items>
+
+</channel>
+<channel>
+<name>International TV - The Gioi</name>
+<info>Moi cac ban xem cac kenh truyen hinh khap noi tren the gioi. Neu ban thich TV, ban co the donate tang tien qua Paypal den dia chi http://langsongviet.com/fta4vnForum/upload/awcl_dsl.php?do=donation, it hay nhieu khong quan trong chung toi deu cam ta, tien quyen tang giup chung toi phat trien cac kenh TV ngay cang tot hon.</info>
+<language>Vietnamese</language>
+<thumbnail>http://langsongviet.com/fta4vnForum/upload/uploaded/5_1363744171.png</thumbnail>
+
+<items>
+<item>
+<!--Last Update: 04.07.2013 by Silverfox -->
+<title>CNN International</title>
+<link>rtmp://media2.lsops.net/live/ playpath=cnn_en_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/channels/66-cnn-international" swfVfy=true live=true</link>
+<thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gbjm3.png</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.07.2013 by Silverfox -->
+<title>MTV Vietnam</title>
+<link>http://113.160.49.34/lives/origin02/bts-mtvsd.isml/bts-mtvsd-1096k.m3u8</link>
+<thumbnail>http://www.bangsandabun.com/wp-content/uploads/2011/04/MTV-Logo-MTV.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.07.2013 by Silverfox -->
+<title>Discovery Channel Vietnam</title>
+<link>http://113.160.49.34/lives/origin02/bts-mtvsd.isml/bts-mtvsd-1096k.m3u8</link>
+<thumbnail>http://www.navixtreme.com/images/backgrounds/thumb_discovery_dsc.png</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.07.2013 by Silverfox -->
+<title>Dance TV</title>
+<link>mms://dancetv.dyndns.org/dancetv</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>Life TV</title>
+<link>rtmp://video.lifetv.vn/live/Stream1</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.07.2013 by Silverfox -->
+<title>Dolce Sport</title>
+<link>rtmp://fms30.mediadirect.ro:1935/live3?id=14703526/dolcesport_low swfurl=http://static.mediadirect.ro/player-preload/swf/preloader/preloader.swf live=true</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.07.2013 by Silverfox -->
+<title>ESPN Plus Brazil</title>
+<link>rtmp://31.204.128.74/live/ playpath=master27 swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/ESPN HD.html</link>
+<thumbnail>http://www.info-crespo.com.ar/img/canales/espn_plus.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.07.2013 by Silverfox -->
+<title>Food Television New Zealand</title>
+<link>rtmp://46.105.112.201:1935/edge/r7oi6ylf755rcno pageUrl=http://www.ilive.to swfUrl=http://cdn.static.ilive.to/jwplayer/player.swf</link>
+<thumbnail>http://www.foodtv.co.nz/images/site/foodTv-logo.png</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.07.2013 by Silverfox -->
+<title>FOX Crime Portugal</title>
+<link>rtmp://198.7.58.79/edge/foxcrime pageUrl=http://www.zuuk.net/ swfUrl=http://s.zuuk.net/ply.swf swfVfy=true live=true /FOX CRIME</link>
+<thumbnail>http://hotvnewsimages.files.wordpress.com/2007/09/fox-crime.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.07.2013 by Silverfox -->
+<title>Luxe TV HD China</title>
+<link>rtmp://203.217.99.60:1935/live/live12_3</link>
+<thumbnail>http://livandlily.com/press/images/luxetv.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.07.2013 by Silverfox -->
+<title>Max HD Brazil</title>
+<link>rtmp://50.7.188.130/live playpath=maxhd swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/maxhd.html</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/max_br_hd.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.07.2013 by Silverfox -->
+<title>National Geographic Adventure China</title>
+<link>http://211.79.36.141/iTV/segments/ch72/03.m3u8</link>
+<thumbnail>http://www.danmorris.com/wp-content/uploads/2010/03/nat-geo-adventure.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.07.2013 by Silverfox -->
+<title>National Geographic Wild HD</title>
+<link>http://211.79.36.141/iTV/segments/ch71/03.m3u8</link>
+<thumbnail>http://www.cambiarcontenidos.com.ar/imagenes/NAT-GEO-WILD-DIRECTV.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.07.2013 by Silverfox -->
+<title>National Geographic Portugal</title>
+<link>rtmp://198.7.58.79/edge/nationalgeographic pageUrl=http://www.zuuk.net/ swfUrl=http://s.zuuk.net/ply.swf swfVfy=true live=true /NATIONAL GEOGRAPHIC</link>
+<thumbnail>http://images.wikia.com/logopedia/images/f/ff/National_Geographic_Society.png</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.07.2013 by Silverfox -->
+<title>TC Premium</title>
+<link>rtmp://46.105.112.201:1935/edge/wn5xssyos5x0yj7 pageUrl=http://www.ilive.to swfUrl=http://cdn.static.ilive.to/jwplayer/player.swf</link>
+<thumbnail>http://www.microcenterweb.com.br/viaembratel/img/pacotes/telecine_premium.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.07.2013 by Silverfox -->
+<title>TNT Portugal</title>
+<link>rtmp://178.33.234.10/edge/ftvmi59pwr6ggcx swfUrl=http://cdn.static.ilive.to/jwplayer/player.swf live=1 pageUrl=http://www.ilive.to/view/45912/watch-live-Star_Movies-channel-for-free</link>
+<thumbnail>http://4.bp.blogspot.com/-ce5cmqwmrm8/Tw-Cuy9LelI/AAAAAAAAFPk/OaS6b0ADkp0/s1600/TNT_TV_logo.png</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.07.2013 by Silverfox -->
+<title>World Fashion TV Italy</title>
+<link>rtmp://83.229.210.89/WFC_EU/BTVwfceu0
+</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ww/world_fashion_tr.jpg</thumbnail>
+</item>
+</items>
+<name>Adult TV Channels - (only for 18+)</name>
+<info>Moi cac ban xem cac kenh truyen hinh khap noi tren the gioi. Neu ban thich TV, ban co the donate tang tien qua Paypal den dia chi http://langsongviet.com/fta4vnForum/upload/awcl_dsl.php?do=donation, it hay nhieu khong quan trong chung toi deu cam ta, tien quyen tang giup chung toi phat trien cac kenh TV ngay cang tot hon.</info>
+<language>Foreign</language>
+<thumbnail>http://2.bp.blogspot.com/-Z2hbmds4C9g/USYE8IuBIjI/AAAAAAAAAP0/mSpv5VNExVo/s1600/adult%2Btv%2Bonline.png</thumbnail>
+<items>
+<!-- Last Update: 04.07.2013 by Silverfox -->
+<item>
+<title>Spice TV HD (Adult Korea)</title>
+<link>rtmp://111.118.21.75:1935/ptv2/_definst_/phd497 swfUrl=http://tv-box.hpage.com pageUrl=http://adulttvonline.blogspot.com/ live=true</link>
+<thumbnail>http://2.bp.blogspot.com/-Z2hbmds4C9g/USYE8IuBIjI/AAAAAAAAAP0/mSpv5VNExVo/s1600/adult%2Btv%2Bonline.png</thumbnail>
+</item>
+</items>
+</channel>
+</channels>
