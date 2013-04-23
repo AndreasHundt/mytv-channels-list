@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='http://langsongviet.com/fta4vnForum/upload/forum.php'?>
+<!-- Last Update: 04.05.2013 -->
+<!-- Official Site: http://langsongviet.com/fta4vnForum/upload/forum.php -->
+<!-- Channel list: Movies Live TV -->
+<!-- Last Update: 04.06.2013 by Silverfox -->
+<info>Neu ban thich TV, ban co the donate tang tien qua Paypal den dia chi http://langsongviet.com/fta4vnForum/upload/awcl_dsl.php?do=donation, it hay nhieu khong quan trong chung toi deu cam ta, tien quyen tang giup chung toi phat trien cac kenh TV ngay cang tot hon.</info>
+<streams>
+<stream>
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Cinemax</title>
+<link>rtmp://142.4.216.145/edge/nl1yg9ant34fy93 swfUrl=http://cdn.static.ilive.to/jwplayer/player.swf live=1 pageUrl=http://www.ilive.to/view/44972/watch-live-Cinemax-channel-for-free</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cinemax_ce.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>HBO HD Low</title>
+<link>http://203.162.16.22/lives/origin03/hbohdmb.isml/hbohdmb-596k.m3u8</link>
+<thumbnail>http://img.hayhaytv.vn/livetv/12032013/hbo_57651363082608.png</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>HBO HD High</title>
+<link>http://113.160.49.34/lives/origin01/bts-hbohd.isml/bts-hbohd-2096k.m3u8</link>
+<thumbnail>http://img.hayhaytv.vn/livetv/12032013/hbo_57651363082608.png</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>HBO SD</title>
+<link>http://livemobi.hayhaytv.vn:1935/hayhaytv_live/mp4:hbo.360p/playlist.m3u8</link>
+<thumbnail>http://img.hayhaytv.vn/livetv/12032013/hbo_57651363082608.png</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>HBO HD 1 Vietnam</title>
+<link>http://203.162.16.22/lives/origin01/bts-hbohd.isml/bts-hbohd-2096k.m3u8</link>
+<thumbnail>http://img.hayhaytv.vn/livetv/12032013/hbo_57651363082608.png</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>AXN SD</title>
+<link>http://livemobi.hayhaytv.vn:1935/hayhaytv_live/mp4:axn.360p/playlist.m3u8</link>
+<thumbnail>http://img.hayhaytv.vn/livetv/12042013/axn_69561365741858.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.13.2013 by Silverfox -->
+<title>AXN HD Low</title>
+<link>http://203.162.16.22/lives/origin03/axnhdmb.isml/axnhdmb-596k.m3u8</link>
+<thumbnail>http://img.hayhaytv.vn/livetv/12042013/axn_69561365741858.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>AXN HD High S1</title>
+<link>http://203.162.235.26/lives/origin01/bts-axnhd.isml/bts-axnhd-2096k.m3u8</link>
+<thumbnail>http://img.hayhaytv.vn/livetv/12042013/axn_69561365741858.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>AXN HD High S2</title>
+<link>http://113.160.49.34/lives/origin01/bts-axnhd.isml/bts-axnhd-2096k.m3u8</link>
+<thumbnail>http://img.hayhaytv.vn/livetv/12042013/axn_69561365741858.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>AXN HD Vietnam</title>
+<link>http://113.160.49.34/lives/origin01/bts-axnhd.isml/bts-axnhd-2096k.m3u8</link>
+<thumbnail>http://img.hayhaytv.vn/livetv/12042013/axn_69561365741858.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Star Movie</title>
+<link>http://livemobi.hayhaytv.vn:1935/hayhaytv_live/mp4:star.movie.360p/playlist.m3u8</link>
+<thumbnail>http://img.hayhaytv.vn/livetv/14032013/starmovie_63621363228262.png</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Star World</title>
+<link>http://livemobi.hayhaytv.vn:1935/hayhaytv_live/mp4:star.world.360p/playlist.m3u8</link>
+<thumbnail>http://img.hayhaytv.vn/livetv/10012013/star-world-hd_96091357791081.png</thumbnail>
+</item>
+
+</stream>
+</streams>
