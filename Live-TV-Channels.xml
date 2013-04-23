@@ -1,0 +1,396 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='http://langsongviet.com/fta4vnForum/upload/forum.php'?>
+<!-- Official Site: http://langsongviet.com/fta4vnForum/upload/forum.php -->
+<!-- Channel list: Movies Live TV -->
+<!-- Last Update: 04.22.2013 by Silverfox -->
+<info>Neu ban thich TV, ban co the donate tang tien qua Paypal den dia chi http://langsongviet.com/fta4vnForum/upload/awcl_dsl.php?do=donation, it hay nhieu khong quan trong chung toi deu cam ta, tien quyen tang giup chung toi phat trien cac kenh TV ngay cang tot hon.</info>
+<streams>
+<stream>
+
+<!--Last Update: 04.22.2013 by Silverfox -->
+<item>
+<title>Knife & Gun Show </title>
+<thumb>://letgodrockyourworld.files.wordpress.com/2012/09/satknifegunshowlogo.jpg?w=300&h=264</thumb>
+<link>mms://stream.netro.ca/thebroadcastchannel</link>
+</item>
+
+<item>
+<title>Lifetime US </title>
+<thumb>://images.all-free-download.com/images/graphiclarge/lifetime_67627.jpg
+</thumb>
+<link>rtmp://cdn.livecaster.tv/stream playpath=lifetime4 swfURL=http://www.livecaster.tv/player/player.swf pageURL=http://www.livecaster.tv/embed.php?u=lifetime4&vw=600&vh=430</link>
+</item>
+
+<item>
+<title>Lotus Macau China </title>
+<thumb>://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg
+</thumb>
+<link>rtmp://58.97.57.152/live playpath=ch33 swfURL=http://www.one2hd.com/swfs/mediaPlayer/mediaPlayer.swf pageURL=http://www.one2hd.com/</link>
+</item>
+
+<item>
+<title>Luxe TV HD China </title>
+<thumb>://livandlily.com/press/images/luxetv.jpg
+</thumb>
+<link>rtmp://203.217.99.60:1935/live/live12_3</link>
+</item>
+
+<item>
+<title>MASH </title>
+<thumb>://4.bp.blogspot.com/-4xx2-n7v5ik/UEPlvdAUyxI/AAAAAAAAMY8/h-kkp8YkIzM/s1600/MASH-TVSHow.jpg
+</thumb>
+<link>rtmp://142.4.219.190/app playpath=mash pageURL=http://www.tgun.tv/shows/ch34.php swfURL=http://www.tgun.tv/jwplayer/player.swf live=true</link>
+</item>
+
+<item>
+<title>Max HD Brazil </title>
+<thumb>://www.lyngsat-logo.com/logo/tv/mm/max_br_hd.jpg
+</thumb>
+<link>rtmp://50.7.188.130/live playpath=maxhd swfURL=http://www.tv-msn.com/player/player.swf live=1 pageURL=http://tv-msn.com/maxhd.html</link>
+</item>
+
+<item>
+<title>MBC 2 UAE </title>
+<thumb>://i229.photobucket.com/albums/ee14/FabregasQ8/MBC2.jpg
+</thumb>
+<link>rtsp://mi5.gv.filmon.com:1935/live/_definst_/368.high.stream</link>
+</item>
+
+<item>
+<title>Metropol HD </title>
+<thumb>://g1210.hizliresim.com/12/g/dxws9.png
+</thumb>
+<link>rtsp://win5.yayinda.org:1935/metro/metro</link>
+</item>
+
+<item>
+<title>MGM Portugal </title>
+<thumb>://upload.wikimedia.org/wikipedia/en/thumb/f/f2/MGM_logo.png/200px-MGM_logo.png
+</thumb>
+<link>rtmp://redirect.isearch.to/edge playpath=b0fehgu27mjkcxu swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>Motors TV </title>
+<thumb>://www.creventic.com/uploads/images/24hdubai/algemeen/Logo%20Motors%20TV.jpg
+</thumb>
+<link>rtmp://198.7.58.79/edge playpath=motorstv swfURL=http://s.zuuk.net/ply.swf pageURL=http://www.zuuk.net/motorstv swfVfy=true live=true<link>
+</item>
+
+<item>
+<title>MOV Portugal </title>
+<thumb>://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Logoprincipal.png/200px-Logoprincipal.png
+</thumb>
+<link>rtmp://198.7.58.79/edge/mov pageURL=http://www.zuuk.net/ swfURL=http://s.zuuk.net/ply.swf swfVfy=true live=true /MOV
+<link></item>
+
+<item>
+<title>MSNBC </title>
+<thumb>://www.realtvcritics.com/wp-content/uploads/2011/07/msnbc-logo1.jpg
+</thumb>
+<link>rtmp://c.cdn.msnbclive.eu/edge/msnbc_live swfURL=http://msnbclive.eu/player.swf pageURL=http://blog.livenewschat.tv/rockinroosters/ live=1<link>
+</item>
+
+<item>
+<title>MTV Latin America </title>
+<thumb>://www.bangsandabun.com/wp-content/uploads/2011/04/MTV-Logo-MTV.jpg
+</thumb>
+<link>rtmp://redirect.isearch.to/edge playpath=pluifrgyd9hwij8 swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php
+</thumb>
+
+<item>
+<title>MTV UK </title>
+<thumb>://www.bangsandabun.com/wp-content/uploads/2011/04/MTV-Logo-MTV.jpg
+</thumb>
+<link>rtsp://83.218.202.202:1935/live/wt_mtv.stream/
+</thumb>
+
+<item>
+<title>MTV Vietnam </title>
+<thumb>://www.bangsandabun.com/wp-content/uploads/2011/04/MTV-Logo-MTV.jpg
+</thumb>
+<link>http://113.160.49.34/lives/origin02/bts-mtvsd.isml/bts-mtvsd-1096k.m3u8
+</thumb>
+
+<item>
+<title>MTV Classic Brazil </title>
+<thumb>://mtv-au.mtvnimages.com/Music_Entertainment/Artists/MTC-classic-logo-281x211.jpg?height=211&quality=0.91
+</thumb>
+<link>rtmp://ev.mm.uol.com.br/liverepeater playpath=mtvcast_flash.sdp swfURL=http://bgonline-tv.com/player1.swf?streamer=rtmp://ev.mm.uol.com.br/liverepeater&image=&file=mtvcast_flash.sdp&<item>&autostart=true&stretching=exactfit&backcolor=000000&frontcolor=FFFFFF&lightcolor=66FF66 live=1 pageURL=http://bgonline-tv.com/player1.swf?streamer=rtmp://ev.mm.uol.com.br/liverepeater&image=&file=mtvcast_flash.sdp&<item>&autostart=true&stretching=exactfit&backcolor=000000&frontcolor=FFFFFF&lightcolor=66FF66
+</link>
+</item>
+
+<item>
+<title>Music Box Russia </title>
+<thumb>://www.abload.de/img/musicv0pjo.png
+</thumb>
+<link>rtmp://musicbox.cdnvideo.ru/musicbox-live playpath=musicbox.sdp swfURL=http://www.musicboxtv.ru/_front/flowplayer-3.2.7.swf live=true pageURL=http://www.musicboxtv.ru/channel/russian-musicbox/online
+</link>
+</item>
+
+<item>
+<title>Music Box Ukraine </title>
+<thumb>://www.abload.de/img/musicv0pjo.png
+</thumb>
+<link>rtmp://musicbox.cdnvideo.ru/musicbox-live/musicboxtv.sdp
+</link>
+</item>
+
+<item>
+<title>Nat Geo Adventure China </title>
+<thumb>://www.danmorris.com/wp-content/uploads/2010/03/nat-geo-adventure.jpg
+</thumb>
+<link>http://211.79.36.141/iTV/segments/ch72/03.m3u8
+</link>
+</item>
+
+<item>
+<title>Nat Geo Wild HD India </title>
+<thumb>://www.cambiarcontenidos.com.ar/imagenes/NAT-GEO-WILD-DIRECTV.jpg
+</thumb>
+<link>http://211.79.36.141/iTV/segments/ch71/03.m3u8
+</link>
+</item>
+
+<item>
+<title>National Geographic Portugal </title>
+<thumb>://images.wikia.com/logopedia/images/f/ff/National_Geographic_Society.png
+</thumb>
+<link>rtmp://198.7.58.79/edge/nationalgeographic pageURL=http://www.zuuk.net/ swfURL=http://s.zuuk.net/ply.swf swfVfy=true live=true /NATIONAL GEOGRAPHIC
+</link>
+</item>
+
+<item>
+<title>National Geographic Thailand </title>
+<thumb>://images.wikia.com/logopedia/images/f/ff/National_Geographic_Society.png
+</thumb>
+<link>rtmp://118.69.202.59:1935/hayhaytv_live playpath=mp4:national.geographic.360p swfURL=http://www.hayhaytv.vn/player/smartplayer.swf live=1 pageURL=http://www.hayhaytv.vn/livetv/national-geographic-31356E61.html token=na^tu12%28aqw
+</link>
+</item>
+
+<item>
+<title>NBA TV </title>
+<thumb>://www.lyngsat-logo.com/hires/nn/nba_tv.png
+</thumb>
+<link>rtmp://31.7.58.122:1935/stream/I8s9S4H7.stream playpath=N1V3R0h8.stream swfURL=http://thecdn.04stream.com/p/bbp.swf live=true  pageURL=http://www.04stream.com/NBA TV
+</link>
+</item>
+
+<item>
+<title>NBC US (Set Audio Offset Ahead By 0.550) </title>
+<thumb>://media.cnbc.com/i/CNBC/Sections/News_And_Analysis/__Story_Inserts/graphics/__COMPANY_IMAGES/H-Q/nbc_logo1.jpg
+</thumb>
+<link>rtmp://redirect.isearch.to/edge playpath=q2bufwoa7lkxds3 swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php
+</link>
+</item>
+
+<item>
+<title>Next Music HD </title>
+<thumb>://img440.imageshack.us/img440/7931/polsatnextmusic.png
+</thumb>
+<link>rtmp://vod.wowza.astrosa.pl/rtplive playpath=:music_540p.stream swfURL=http://tv-one.at.ua/oognet/swf/PLAYERDMINITV.swf?_=1330638312 pageURL=http://imtv.at.ua/NEXT_Music.html live=1
+</link>
+</item>
+
+<item>
+<title>NFL Network </title>
+<thumb>://rbr.com/wp-content/uploads/NFL1-225x180.jpg
+</thumb>
+<link>rtmp://46.246.29.130:1935/stream/bdpZdSfpz0.stream swfURL=http://thecdn.04stream.com/p/boopo.swf live=true timeout=15 swfVfy=1 pageURL=http://www.04stream.com
+</link>
+</item>
+
+<item>
+<title>NHK World HD </title>
+<thumb>://yonasu.com/wp-content/uploads/NHK-World-iPhone-App.png
+</thumb>
+<link>rtmp://ca-1.net.fivecool.org/nhkw pageURL=http://livetvstreaming.ucoz.com live=1 playpath=gwm
+</link>
+</item>
+
+<item>
+<title>OC16 Hawaii </title>
+<thumb>://www.oc16.tv/blogs/images/168/middle_OC16_Pic_for_Frame2.JPG?1294091832
+</thumb>
+<link>rtmp://24.165.45.209/oc16live/ swfURL=http://www.oc16.tv/videoplayer/jw/player.swf pageURL=http://www.oc16.tv/ playpath=oc16 live=true
+</link>
+</item>
+
+<item>
+<title>Ocko TV Czech Republic </title>
+<thumb>://tv-place.net/images/thumbs/ockotv.jpg
+</thumb>
+<link>http://212.79.96.134:8016
+</link>
+</item>
+
+<item>
+<title>Odisseia Portugal </title>
+<thumb>://www.lyngsat-logo.com/logo/tv/oo/odisseia.jpg
+</thumb>
+<link>rtmp://198.7.58.79/edge/odisseia pageURL=http://www.zuuk.net/ swfURL=http://s.zuuk.net/ply.swf swfVfy=true live=true /ODISSEIA
+</thumb>
+
+<item>
+<title>O2TB Russia </title>
+<thumb>://upload.wikimedia.org/wikipedia/commons/9/93/O2_TV_logo.jpg
+</thumb>
+<link>rtmp://n2.mos.cdn.online.ru/live-r playpath=udp://0.0.0.0:3096 swfURL=http://www.corbina.tv/flash/swf/player.swf live=true pageURL=http://www.corbina.tv/tv/ners
+</link>
+</item>
+
+<item>
+<title>Outdoor Channel Thailand </title>
+<thumb>://www.redarrowtv.com/images/logo_OutdoorChannel_header.jpg
+</thumb>
+<link>rtmp://lm02.everyon.tv:1935/ptv2/pld613
+</link>
+</item>
+
+<item>
+<title>PBS </title>
+<thumb>://blackchristiannews.com/news/s-PBS-LOGO-large.jpg
+</thumb>
+<link>http://winstream.kamu.tamu.edu/kamu-tv?mswmext=.asf
+player=mplayer
+</link>
+</item>
+
+<item>
+<title>PBS 2 </title>
+<thumb>://blackchristiannews.com/news/s-PBS-LOGO-large.jpg
+</thumb>
+<link>http://165.95.101.52:80/kamu-weather?MSWMExt=.asf
+</link>
+</item>
+
+<item>
+<title>Pick TV </title>
+<thumb>://skyidents.com/resources/pick%20tv%20sting%20b.jpg.opt387x212o0,0s387x212.jpg
+</thumb>
+<link>rtsp://mi5.gv.filmon.com:1935/live/_definst_/371.high.stream
+</link>
+</item>
+
+<item>
+<title>PIK HD TV </title>
+<thumb>://twimg0-a.akamaihd.net/profile_images/2158748139/fblogo.jpg
+</thumb>
+<link>rtmp://fms.pik-tv.com/live/piktv3pik3tv swfURL=http://pik-tv.com/uppod.swf
+</link>
+</item>
+
+<item>
+<title>Play Me TV Italy </title>
+<thumb>://img688.imageshack.us/img688/5632/playme2010090712330001.jpg
+</thumb>
+<link>rtmp://cp107974.live.edgefcs.net/live playpath=beep-flash-live@34654 swfURL=http://player.longtailvideo.com/player.swf pageURL=http://livetvstreaming.ucoz.com live=1
+</link>
+</item>
+
+<item>
+<title>Pro-Wrestling </title>
+<thumb>://images4.wikia.nocookie.net/__cb20110320232233/wweallstars/images/e/e5/WWE.png
+</thumb>
+<link>rtmp://80.93.53.88:1935/live/wrestling.stream
+</link>
+</item>
+
+<item>
+<title>Psychic Today TV </title>
+<thumb>://profile.ak.fbcdn.net/hprofile-ak-snc6/187951_462650017113168_1724580699_n.jpg
+</thumb>
+<link>rtmp://93.89.84.214/iptv_psychic_cc/livestream
+</link>
+</item>
+
+<item>
+<title>QVC UK </title>
+<thumb>://blog.kellyhoppeninteractive.com/wp-content/uploads/2011/03/qvc-2.png
+</thumb>
+<link>rtmp://cp79650.live.edgefcs.net/live/ playpath=QVCLive1@14308 swfURL="http://www.qvcuk.com/ondemand/flowplayer.rtmp-3.1.3.swf" pageURL="http://www.qvcuk.com/ondemand/livetv.html?cm_re=LN-_-OnQVCTV-_-QVCLive" swfVfy=true live=true timeout=10
+</link>
+</item>
+
+<item>
+<title>Really </title>
+<thumb>://www.guerillascope.co.uk/Portals/129/really-tvadvertisinglogo.jpg
+</thumb>
+<link>rtsp://mi5.gv.filmon.com:1935/live/_definst_/372.high.stream
+</link>
+</item>
+
+<item>
+<title>Redbull TV US </title>
+<thumb>://www.hdtv-pro.de/wp-content/uploads/2010/02/redbull-tv-logo.jpg
+</thumb>
+<link>http://redbulwebtvhd-f.akamaihd.net/webtvhd_3_696@54840?videoId=1389549382001&lineUpId=&pubId=710858724001&playerId=1398061561001&affiliateId=&v=2.4.5&fp=WIN%2011,1,102,55&r=ZHTCA&g=UHGDLQSEJWXL
+</link>
+</item>
+
+<item>
+<title>Relax TV </title>
+<thumb>://ovego.3dn.ru/img2/relaxtv.gif
+</thumb>
+<link>rtmp://www.planeta-online.tv:1936/live/channel_3 swfURL=http://www.planeta-online.tv/planeta_player.swf pageURL=http://www.planeta-online.tv/?ch=3Vfy=true live=true tc<link>rtmp://www.planeta-online.tv:1936/live/channel_3
+</link>
+</item>
+
+<item>
+<title>Rouge TV </title>
+<thumb>://www.lyngsat-logo.com/logo/tv/rr/rouge_tv.jpg
+</thumb>
+<link>rtmp://rtmp.infomaniak.ch/livecast playpath=rougetv swfURL=http://tvplayer.castlemedia.fr/swf/tvplayer.swf?4dadb783f0a81537187120216 pageURL=http://www.playtv.fr/television/#rouge-tv live=true
+</link>
+</item>
+
+<item>
+<title>AXN White Portugal </title>
+<thumb>://www.plus.es/recorte.php?xref=20120416pluutmifr_4&type=Ies&id=LCO413
+</thumb>
+<link>rtmp://redirect.isearch.to/edge playpath=pe94wt2bo03n4rt swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php
+</link>
+</item>
+
+<item>
+<title>BBC Two </title>
+<thumb>://img-i.zeebox.com/images/bbc_two_logo_v3.png
+</thumb>
+<link>rtmp://redirect.isearch.to/edge playpath=jkgbg7vq8fcjgjl swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php
+</link>
+</item>
+
+<item>
+<title>BBC World News </title>
+<thumb>://www.bbc.co.uk/tv/i/img/bbc-world-news-logo.png
+</thumb>
+<link>rtmp://media2.lsops.net/live/ playpath=bbcworld1_en_high.sdp swfURL="http://www.livestation.com/flash/player/5.4/player.swf" swfVfy=true live=true timeout=60
+</link>
+</item>
+
+<item>
+<title>Bloomberg </title>
+<thumb>://images.all-free-download.com/images/graphicmedium/bloomberg_61790.jpg
+</thumb>
+<link>rtmp://cp116697.live.edgefcs.net:80/live/BnazlkNDpCIcD-QkfyZCQKlRiiFnVa5I_640_360_440@18679 swfURL=http://player.ooyala.com/cacheable/c78f866930724ffedfe8cf5349712569/player_v2.swf live=true swfVfy=true pageURL=http://tvpc.com
+</link>
+</item>
+
+<item>
+<title>Bones </title>
+<thumb>://images.zap2it.com/images/tv-EP00754201/bones-0.jpg
+</thumb>
+<link>rtmp://142.4.219.190/app playpath=bones swfURL=http://tgun.tv/jwplayer/player.swf pageURL=http://tgun.tv/shows/ swfVfy=true live=true
+</link>
+</item>
+
+<item>
+<title>Bravo US </title>
+<thumb>://www.mobilemarketing.com/assets/images/bravo_logo.jpg
+</thumb>
+<link>rtmp://cdn.livecaster.tv/stream playpath=bravo9 swfURL=http://www.livecaster.tv/player/player.swf pageURL=http://www.livecaster.tv/embed.php?u=bravo9&vw=600&vh=430
+</link>
+</item>
+
+</stream>
+</streams>
