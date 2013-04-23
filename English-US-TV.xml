@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='http://langsongviet.com/fta4vnForum/upload/forum.php'?>
+<!-- Last Update: 04.05.2013 -->
+<!-- Official Site: http://langsongviet.com/fta4vnForum/upload/forum.php -->
+<!-- Channel list: English US 01 -->
+<!-- Last Update: 04.06.2013 by Silverfox -->
+<info>Neu ban thich TV, ban co the donate tang tien qua Paypal den dia chi http://langsongviet.com/fta4vnForum/upload/awcl_dsl.php?do=donation, it hay nhieu khong quan trong chung toi deu cam ta, tien quyen tang giup chung toi phat trien cac kenh TV ngay cang tot hon.</info>
+<streams>
+<stream>
+<item>
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>A & E</title>
+<link>rtmp://46.105.112.201:1935/edge/x99v7adz8i3ikkm pageUrl=http://www.ilive.to swfUrl=http://cdn.static.ilive.to/jwplayer/player.swf</link>
+<thumbnail>http://www.aetv.com/news-page/images/news_generic_AElogo.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>ABC</title>
+<link>rtmp://46.105.114.36/edge playpath=nz7l9vc5nv1og7b swfUrl=http://static.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/view/46476/watch-live-NBC-channel-for-free</link>
+<thumbnail>http://tvseriesfinale.com/assets/abc02aa.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>AMC</title>
+<link>rtmp://46.105.114.36/edge playpath=z4cxm7zlfyqs65m swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=660&height=495&channel=46209&autoplay=true</link>
+<thumbnail>http://brusimm.com/wp-content/uploads/2012/05/AMC-TV.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>BBC World News</title>
+<link>rtmp://media2.lsops.net/live/bbcworld1_en_high.sdp swfUrl=http://www.livestation.com/flash/player/5.4/player.swf pageUrl=http://www.livestation.com/</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.06.2013 by Silverfox -->
+<title>Comedy Central</title>
+<link>rtmp://198.144.153.142:443/kuyo playpath=comedddd?id=3131352e36342e3138302e313138  swfUrl=http://yukons.net/yukplay.swf  pageUrl=http://yukons.net/embed/http://yukons.net/embed/36333646364436353634363436343634/3d5c0799b3c3b91fb65a9d62ff22a80f/595/380 live=1</link>
+<thumbnail>http://i1307.photobucket.com/albums/s591/DSGNavi/ComedyCentral_zps07e8e350.png:original</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>CNN News</title>
+<link>rtmp://c.cdn.msnbclive.eu/edge/cnn_live swfurl=http://msnbclive.eu/player.swf  pageUrl=http://blog.livenewschat.tv/rockinroosters/ live=1</link>
+<thumbnail>http://www.navixtreme.com.nyud.net/images/backgrounds/thumb_cnn.png</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>C-SPAN</title>
+<link>rtmp://cp82346.live.edgefcs.net:1935/live playpath=CSPAN1@14845 swfUrl="http://www.c-span.org/cspanVideoHD.swf" pageURL="http://www.c-span.org/Live-Video/C-SPAN/" swfVfy=true live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/cspan.png</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>C-SPAN1</title>
+<link>rtmp://cp82346.live.edgecfs.net/live playpath=CSPAN1@14845 swfUrl=http://www.c-span.org/cspanVideoHD.swf pageUrl=http://www.c-span.org/ swfVfy=true live=true</link>
+<link></link>
+<thumbnail>none</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>C-SPAN 2</title>
+<link>rtmp://cp82347.live.edgefcs.net:1935/live playpath=CSPAN2@14846 swfUrl="http://www.c-span.org/cspanVideoHD.swf"
+ pageURL="http://www.c-span.org/Live-Video/C-SPAN2/" swfVfy=true live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/cspan2.png</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>C-SPAN 3</title>
+<link>rtmp://cp82348.live.edgefcs.net:1935/live playpath=CSPAN3@14847 swfUrl="http://www.c-span.org/cspanVideoHD.swf"
+ pageURL="http://www.c-span.org/Live-Video/C-SPAN3/" swfVfy=true live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/cspan3.png</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.06.2013 by Silverfox -->
+<title>Discovery Channel</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=discoveryu swfUrl=http://www.ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/embed.php?u=discoveryu&vw=600&vh=430</link>
+<thumbnail>http://i1307.photobucket.com/albums/s591/DSGNavi/DiscoveryChannel_zpsb5d21b1d.png:original</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>Disney Channel</title>
+<link>rtmp://5.39.65.109/edge/2tag4dzgwof5ma2 swfUrl=http://static.ilive.to/jwplayer/player.swf pageUrl=http://www.ilive.to/view/38804/watch-live-Disney_channel-channel-for-free</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/1/15/DisneyChannel2010.png/200px-DisneyChannel2010.png</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.06.2013 by Silverfox -->
+<title>Disney Channel (2)</title>
+<link>rtmp://178.33.229.39/edge playpath=2tag4dzgwof5ma2 swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=660&height=495&channel=38804/Disney_channel&autoplay=true live=1</link>
+<thumbnail>http://i1307.photobucket.com/albums/s591/DSGNavi/DisneyChannel_zpse4d0532a.png:original</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>ESPN Sport</title>
+<link>rtmp://31.7.58.250:1935/stream/5654ygt.stream swfUrl=http://thecdn.04stream.com/p/bbp.swf live=1 pageUrl=http://thecdn.04stream.com/live=1</link>
+<thumbnail>http://www.throughrosetintedglasses.com/wp-content/uploads/2012/05/ESPN-LOGO.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>FOX Movies</title>
+<link>rtmp://46.105.112.201:1935/edge/hc992q7x7cz86t9 pageUrl=http://www.ilive.to swfUrl=http://cdn.static.ilive.to/jwplayer/player.swf</link>
+<thumbnail>http://en.kingofsat.net/jpg/foxmovies-arab.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>Free Speech TV</title>
+<link>mms://a1121.l5365237120.c53652.g.lm.akamaistream.net/D/1121/53652/v0001/reflector:37120</link>
+<thumbnail>http://thestreamdb.com/images/8gglzs.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.06.2013 by Silverfox -->
+<title>FX Channel</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=fx08 swfUrl=http://www.livecaster.tv/player/player.swf pageUrl=http://www.livecaster.tv/</link>
+<thumbnail>http://i1307.photobucket.com/albums/s591/DSGNavi/FX_zps224b0f9e.png:original</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>HBO Comedy Movies</title>
+<link>rtmp://46.105.112.201:1935/edge/a1wn1j3ra1w0cv0 pageUrl=http://www.ilive.to swfUrl=http://cdn.static.ilive.to/jwplayer/player.swf</link>
+<thumbnail>http://duels.cz/galerie/hbo_comedy.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>MSNBC News</title>
+<link>rtmp://c.cdn.msnbclive.eu/edge/msnbc_live swfurl=http://msnbclive.eu/player.swf pageUrl=http://blog.livenewschat.tv/rockinroosters/ live=1</link>
+<thumbnail>http://www.realtvcritics.com/wp-content/uploads/2011/07/msnbc-logo1.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>NASA</title>
+<link>rtmp://cp76072.live.edgefcs.net/live/ swfUrl="http://www.nasa.gov/templateimages/redesign/flash_player/swf/4.5/player.swf" pageUrl="http://www.nasa.gov/multimedia/nasatv/media_flash.html" Playpath=MED-HQ-Flash@42814 live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nasa_tv_us.png</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>NASA 2</title>
+<link>http://www.nasa.gov/145588main_Digital_Edu.asx</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nasa_tv_us.png</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>NASA 3</title>
+<link>http://www.nasa.gov/145590main_Digital_Media.asx</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nasa_tv_us.png</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>NASA HD</title>
+<link>rtmp://cp39920.live.edgefcs.net:1935/live/nasahd@55196 swfurl=http://www.ustream.tv/flash/viewer.swf live=true</link>
+<link>rtmp://ustream.fc.llnwd.net:1935/ustream/test/ swfurl=http://cdn1.ustream.tv/swf/4/viewer.rsl.604.swf playpath=ustream@llnw_1_6540154_live_1 live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nasa_tv_us.png</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>NBA TV Sport</title>
+<link>rtmp://31.7.58.122:1935/stream/I8s9S4H7.stream playpath=N1V3R0h8.stream swfUrl=http://thecdn.04stream.com/p/bbp.swf live=true  pageUrl=http://www.04stream.com/NBA TV</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nba_tv.png</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>NBC News</title>
+<link>rtmp://37.59.35.215/edge playpath=q2bufwoa7lkxds3 swfUrl=http://static.ilive.to/jwplayer/player.swf live=true  pageUrl=http://www.ilive.to/view/46459/watch-live-NBC_%28HD%29-channel-for-free</link>
+<thumbnail>http://media.cnbc.com/i/CNBC/Sections/News_And_Analysis/__Story_Inserts/graphics/__COMPANY_IMAGES/H-Q/nbc_logo1.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>NFL Network Sport</title>
+<link>rtmp://46.246.29.130:1935/stream/bdpZdSfpz0.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf live=true timeout=15 swfVfy=1 pageUrl=http://www.04stream.com</link>
+<thumbnail>http://rbr.com/wp-content/uploads/NFL1-225x180.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>Outdoor Channel Sport</title>
+<link>rtmp://lm02.everyon.tv:1935/ptv2/pld613</link>
+<thumbnail>http://www.redarrowtv.com/images/logo_OutdoorChannel_header.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.06.2013 by Silverfox -->
+<title>NHL Network Sport</title>
+<link>rtmp://37.220.36.71:443/liverepeater playpath=3994 swfUrl=http://c1776742.cdn.cloudfiles.rackspacecloud.com/flash/player.swf pageUrl=http://espnwatch.tv/player2.php?id=3994&width=640&height=460</link>
+<thumbnail>http://i1307.photobucket.com/albums/s591/DSGNavi/NHLNetwork_zps7e658635.png:original</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>PBS Channel</title>
+<link>http://winstream.kamu.tamu.edu/kamu-tv?mswmext=.asf</link>
+<thumbnail>http://blackchristiannews.com/news/s-PBS-LOGO-large.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>PBS2 Channel</title>
+<link>http://165.95.101.52:80/kamu-weather?MSWMExt=.asf</link>
+<thumbnail>http://blackchristiannews.com/news/s-PBS-LOGO-large.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>The Pentagon Channel</title>
+<link>rtmp://cp114761.live.edgefcs.net:443/live/ playpath=tpc-live_1@44263 swfUrl=http://www.pentagonchannel.mil/swf/flvPlayer.swf pageUrl=http://www.pentagonchannel.mil/library.html swfVfy=true live=true timeout=60</link>
+<thumbnail>http://www.tvyard.com/channel/picture/logo/tv/pp/pentagon_channel.jpg
+</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>Relax TV</title>
+<link>rtmp://www.planeta-online.tv:1936/live/channel_3 swfUrl=http://www.planeta-online.tv/planeta_player.swf pageUrl=http://www.planeta-online.tv/?ch=3Vfy=true live=true tcUrl=rtmp://www.planeta-online.tv:1936/live/channel_3</link>
+<thumbnail>http://ovego.3dn.ru/img2/relaxtv.gif</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>SFL TV</title>
+<link>rtmp://live.ukcast.tv/broadcast/ playpath=cw_usa.stream swfUrl=http://www.ukcast.tv/player/player.swf  pageUrl=http://www.ukcast.tv/embed.php?u=cw_usa&vw=600&vh=430 live=1</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/9/96/WSFL39.png</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>Showtime</title>
+<link>rtmp://37.59.35.215/edge playpath=bwbop58ixz281wv swfUrl=http://static.ilive.to/jwplayer/player.swf live=1 pageUrl=http://www.ilive.to/view/44126/watch-live-Showtime_movies-channel-for-free</link>
+<thumbnail>http://i254.photobucket.com/albums/hh98/justme4u2cme/Navi-X%20Playlists/500px-Showtimesvg.png</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>Spike TV</title>
+<link>rtmp://46.105.112.201:1935/edge/zmt2swezlswh9nz pageUrl=http://www.ilive.to swfUrl=http://cdn.static.ilive.to/jwplayer/player.swf</link>
+<thumbnail>http://www.navixtreme.com/justme4u2c/images/Spike_TV.png</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>Starz</title>
+<link>rtmp://46.105.112.201:1935/edge/8g7x80ozu6hz2ds pageUrl=http://www.ilive.to swfUrl=http://cdn.static.ilive.to/jwplayer/player.swf</link>
+<thumbnail>http://lifeislottery.com/images/thumbs/thumb_starz.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>SYFY Channel</title>
+<link>rtmp://46.105.112.201:1935/edge/x7uii7mll2b7lh4 pageUrl=http://www.ilive.to swfUrl=http://cdn.static.ilive.to/jwplayer/player.swf</link>
+<thumbnail>http://wormholeriders.net/wh13/wp-content/uploads/2012/07/Syfy-logo-banner-May-2012-480x261.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.06.2013 by Silverfox -->
+<title>SYFY Channel</title>
+<link>rtmp://37.59.35.214/edge playpath=x7uii7mll2b7lh4 swfUrl=http://static.ilive.to/jwplayer/player_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=660&height=495&channel=46454&autoplay=true</link>
+<thumbnail>http://i1307.photobucket.com/albums/s591/DSGNavi/SYFY_zps5570d084.png:original</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>TBS Channel</title>
+<link>rtmp://46.105.112.201:1935/edge/rp6zlxo29ob14q1 pageUrl=http://www.ilive.to swfUrl=http://cdn.static.ilive.to/jwplayer/player.swf</link>
+<thumbnail>http://www.musikvergnuegen.com/images/uploads/tbs-network-id_final-logo_1302632143.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>TNT Channel</title>
+<link>rtmp://142.4.216.178/edge playpath=s7d8wd96rhebpng swfUrl=http://player.ilive.to/player_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=600&height=450&channel=46736&autoplay=true</link>
+<thumbnail>http://4.bp.blogspot.com/-ce5cmqwmrm8/Tw-Cuy9LelI/AAAAAAAAFPk/OaS6b0ADkp0/s1600/TNT_TV_logo.png</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>TWit TV</title>
+<link>http://bglive-a.bitgravity.com/twit/live/high</link>
+<link>rtmp://flash76.ustream.tv:1935/ustreamVideo/1524 playpath=streams/live app=ustreamVideo/1524 swfUrl="http://cdn1.ustream.tv/swf/4/viewer.rsl.558.swf" pageUrl="http://live.twit.tv/" live=true</link>
+<link>rtmp://flash76.ustream.tv:1935/ustreamVideo/1524 playpath=streams/live app=ustreamVideo/1524 swfUrl="http://cdn1.ustream.tv/swf/4/viewer.rsl.558.swf" pageUrl="http://live.twit.tv/" live=true</link>
+<thumbnail>http://www.thisweekinphoto.com/wp-content/uploads/2010/07/twit-logo.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>USA Network</title>
+<link>rtmp://46.105.112.201:1935/edge/h5eovaj1jeegluq pageUrl=http://www.ilive.to swfUrl=http://cdn.static.ilive.to/jwplayer/player.swf</link>
+<thumbnail>http://images.sodahead.com/polls/003279465/153380788_usa_network_logo_1_answer_2_xlarge.jpeg</thumbnail>
+</item>
+
+</stream>
+</streams>
