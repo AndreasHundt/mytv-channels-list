@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='http://langsongviet.com/fta4vnForum/upload/forum.php'?>
+<!-- Last Update: 04.13.2013 -->
+<!-- Official Site: http://langsongviet.com/fta4vnForum/upload/forum.php -->
+<!-- Channel list: Adult Channels -->
+<!-- Last Update: 04.13.2013 by Silverfox -->
+
+<info>Moi cac ban xem cac kenh truyen hinh khap noi tren the gioi. Neu ban thich TV, ban co the donate tang tien qua Paypal den dia chi http://langsongviet.com/fta4vnForum/upload/awcl_dsl.php?do=donation, it hay nhieu khong quan trong chung toi deu cam ta, tien quyen tang giup chung toi phat trien cac kenh TV ngay cang tot hon.</info>
+
+<language>Foreign</language>
+<thumbnail>http://2.bp.blogspot.com/-Z2hbmds4C9g/USYE8IuBIjI/AAAAAAAAAP0/mSpv5VNExVo/s1600/adult%2Btv%2Bonline.png</thumbnail>
+<streams>
+<stream>
+
+<item>
+<title>Chelsea TV</title>
+<link>rtmp://cp96798.live.edgefcs.net:1935/live playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://sapiens.bplaced.net/data/StrobeMediaPlayback.swf pageUrl=http://www.time4tv.net/2011/09/chelsea-tv.html swfVfy=true live=true</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.12.2013 by Silverfox -->
+<title>Eurosport HD</title>
+<link>http://esioslive2-i.akamaihd.net/hls/live/201149/AL_ESP1_INT_ENG/playlist_1800.m3u8</link>
+<thumbnail>http://images.nintendolife.com/news/2011/10/eurosport_red_bull_and_aardman_3d_content_coming_to_3ds/attachment/0/large.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.12.2013 by Silverfox -->
+<title>EuroSport2 HD</title>
+<link>http://esioslive2-i.akamaihd.net/hls/live/201150/AL_ESP2_INT_ENG/playlist_1800.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport2_hd.png</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.12.2013 by Silverfox -->
+<title>Fightbox HD</title>
+<link>http://spiinternational-i.akamaihd.net/hls/live/204308/FIGHTBOXHD_MT_HLS/once1200.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fight_box_hd.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.12.2013 by Silverfox -->
+<title>NBA TV</title>
+<link>rtmp://46.19.141.138:1935/stream//f2OI8s.stream playpath=f2OI8s.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageurl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=b444m3r494l4z364y2x2r2q26433p2p21394q2u23334&adx=&stream=03j5w28474w26444z23384x2b4e4v2l2c454n3i323w5m284q2x2m22414d4v2t213c4v274e4y2r2f4v2x4g3a4t373u5w5l4b4d2o3j5e444i4f4w3p2s4r2y3m23434v2r2g5h584y264x2b4e4m5b4e4a4d4232474i5a45434a4z2w264s2l594x224r204p2q2r2y3m27664p4l2y3g566&sooor=Ng==&str=is&idom=www.firstrow1.eu live=true timeout=9</link>
+<thumbnail>http://i2.cdn.turner.com/nba/nba/dam/assets/130407142114-carmelo-drives-vs-ibaka-040713.home-t3.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.12.2013 by Silverfox -->
+<title>NFL TV</title>
+<link>rtmp://213.163.64.239:80/liverepeater/26 playpath=26 swfUrl=http://cdn.goodcast.org/player.swf pageurl=http://goodcast.org/stream.php?id=26&width=640&height=460 live=true timeout=9</link>
+<thumbnail>http://cdn3.sbnation.com/uploads/chorus_image/image/10972909/20130110_mje_se2_1119.0_standard_730.0.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.12.2013 by Silverfox -->
+<title>Golf Channel</title>
+<link>rtmp://89.248.172.202:443/liverepeater/4013 playpath=4013 swfUrl=http://4372f0f736b94c17980f-72149a3bba3a67bfaa92318a7ed89a98.r76.cf1.rackcdn.com/player2.swf pageurl=http://espnwatch.tv/player3.php?id=4013&width=640&height=460 live=true timeout=9</link>
+<thumbnail>http://images.thegolfchannel.com/images/sitecore/9/6/1/%7B9612C95C-EDE4-4DB7-8182-6355606C616C%7Dmcilroy_texas13_d4_swing_610.jpg?w=423&h=206&bc=white</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Fox Sports</title>
+<link>http://livemobi.hayhaytv.vn:1935/hayhaytv_live/mp4:espn.360p/playlist.m3u8</link> 
+<thumbnail>http://www.mmaplanetonline.com/wp-content/uploads/2013/03/Fox-Sports-Logo.jpg</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Fox Sports S2</title>
+<link>http://mobilestreaming.ilive.to:1935/edge/ei69bygbmitkqpi/playlist.m3u8</link> 
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlFvpUIVnJcBvJhlr8dzflF_A8Ekcn3U9LIj83yOOFHp4eZPLN</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>True Sport</title>
+<link>rtmp://m35.megafun.vn/hctv/vstv018?token=3PV-wvhxaBY9-8rWVZUZPg swfUrl=http://megafun.vn/common/player/no_logo_player.swf pageUrl="http://tv24.vn77.net/player.php?id=342</link> 
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkTGLMGMbzAqqtQy9RdkYAes3fuAQaT60qWE03pAAgb6qeWfWBjA</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Setanta Sport Canada</title>
+<link>rtmp://85.12.5.43:1935/live/_definst_ playpath=setcacac swfUrl=http://cdn.yycast.com/player/player.swf live=1  pageUrl=http://www.yycast.com/embed.php?fileid=setcacac&vw=620&vh=490</link> 
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSi2nlHIhFzh4NlcxFXgEkOsBbH-iDHU1WkKSNTZZyOG-vvGOlh0w</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Arena Sport 1</title>
+<link>rtmp://80.82.78.29/liveedge playpath=ch13-jm3drskce0d swfUrl=http://obigbrother.com/player.swf pageUrl=http://cast4you.tv/show.php?id=ch13-jm3drskce0d%26width=100%%26height=95% live=1</link> 
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcbX2SCB6wWyqCUUHUqoMTGpExX05gi02l9Bn69isG7Qn1NZ_m</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Fox Sport Plus</title>
+<link>http://203.162.16.22/lives/origin01/bts-foxhd.isml/bts-foxhd-2096k.m3u8</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Star Sports Vietnam</title>
+<link>http://113.160.49.34:80/lives/origin02/starsportsd.isml/starsportsd.m3u8</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Fox Sports</title>
+<link>http://livemobi.hayhaytv.vn:1935/hayhaytv_live/mp4:espn.360p/playlist.m3u8</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Fox Sports S2</title>
+<link>http://mobilestreaming.ilive.to:1935/edge/ei69bygbmitkqpi/playlist.m3u8</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>True Sport 4</title>
+<link>rtmp://m35.megafun.vn/hctv/vstv018?token=3PV-wvhxaBY9-8rWVZUZPg swfUrl=http://megafun.vn/common/player/no_logo_player.swf pageUrl="http://tv24.vn77.net/player.php?id=342</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Sport-TV 2</title>
+<link>rtmp://80.82.78.30/liveedge playpath=ch2-epryawi9hp4 swfUrl=http://obigbrother.com/player.swf live=1 pageUrl=http://cast4you.tv/show.php?id=ch2-epryawi9hp4&width=100%&height=95% </link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Sport-TV 3</title>
+<link>rtmp://80.82.70.210/liveedge playpath=ch3-elfrztsusea swfUrl=http://obigbrother.com/player.swf live=1 pageUrl=http://cast4you.tv/show.php?id=ch3-elfrztsusea&width=100%&height=95%</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Sport-TV 4</title>
+<link>rtmp://80.82.70.210/liveedge playpath=ch4-z3m3zrdfvuw swfUrl=http://obigbrother.com/player.swf live=1 pageUrl=http://cast4you.tv/show.php?id=ch4-z3m3zrdfvuw&width=100%&height=95%</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Sport-TV 5</title>
+<link>rtmp://80.82.78.29/liveedge playpath=ch5-psblzd7sl27 swfUrl=http://obigbrother.com/player.swf live=1 pageUrl=http://cast4you.tv/show.php?id=ch5-psblzd7sl27&width=100%&height=95%</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Sport-TV 6</title>
+<link>rtmp://80.82.70.210/liveedge playpath=canal1-hz3qiueauzq swfUrl=http://obigbrother.com/player.swf live=1 pageUrl=http://cast4you.tv/show.php?id=canal1-hz3qiueauzq&width=100%&height=95%</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Sport-TV 7</title>
+<link>rtmp://80.82.70.210/liveedge playpath=canal2-qfytkkxhtrn swfUrl=http://obigbrother.com/player.swf live=1 pageUrl=http://cast4you.tv/show.php?id=canal2-qfytkkxhtrn&width=100%&height=95%</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Sport-TV 8</title>
+<link>rtmp://80.82.78.29/liveedge playpath=ch8-epozx3nqhdi swfUrl=http://obigbrother.com/player.swf live=1 pageUrl=http://cast4you.tv/show.php?id=ch8-epozx3nqhdi&width=100%&height=95%</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Sport-TV 9</title>
+<link>rtmp://80.82.78.29/liveedge playpath=ch9-zzheht0e5yc swfUrl=http://obigbrother.com/player.swf live=1 pageUrl=http://cast4you.tv/show.php?id=ch9-zzheht0e5yc&width=100%&height=95%</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Sport-TV 10</title>
+<link>rtmp://80.82.78.30/liveedge playpath=ch10-st7udj1dlgc swfUrl=http://obigbrother.com/player.swf live=1 pageUrl=http://cast4you.tv/show.php?id=ch10-st7udj1dlgc&width=100%&height=95%</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Sport-TV 11</title>
+<link>rtmp://80.82.78.29/liveedge playpath=ch11-azefbiulal9 swfUrl=http://obigbrother.com/player.swf live=1 pageUrl=http://cast4you.tv/show.php?id=ch11-azefbiulal9&width=100%&height=95%</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Sport-TV 12</title>
+<link>rtmp://80.82.78.30/liveedge playpath=ch12-bynyrs2pgz1 swfUrl=http://obigbrother.com/player.swf live=1 pageUrl=http://cast4you.tv/show.php?id=ch12-bynyrs2pgz1&width=100%&height=95%</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Sport-TV 13</title>
+<link>rtmp://80.82.78.30/liveedge playpath=ch13-jm3drskce0d swfUrl=http://obigbrother.com/player.swf live=1 pageUrl=http://cast4you.tv/show.php?id=ch13-jm3drskce0d&width=100%&height=95%</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Sport-TV 14</title>
+<link>rtmp://80.82.78.29/liveedge playpath=ch14-fk4dmtbvver swfUrl=http://obigbrother.com/player.swf live=1 pageUrl=http://cast4you.tv/show.php?id=ch14-fk4dmtbvver&width=100%&height=95%</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Sport-TV 15</title>
+<link>rtmp://80.82.78.29/liveedge playpath=ch15-panttq297yz swfUrl=http://obigbrother.com/player.swf live=1 pageUrl=http://cast4you.tv/show.php?id=ch15-panttq297yz&width=100%&height=95%</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Sport-TV 16</title>
+<link>rtmp://80.82.70.210/liveedge playpath=ch16-9ydhpboxq40 swfUrl=http://obigbrother.com/player.swf live=1 pageUrl=http://cast4you.tv/show.php?id=ch16-9ydhpboxq40&width=100%&height=95%</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Sport-TV 17</title>
+<link>rtmp://80.82.78.30/liveedge playpath=ch17-4e0xjxokm18 swfUrl=http://obigbrother.com/player.swf live=1 pageUrl=http://cast4you.tv/show.php?id=ch17-4e0xjxokm18&width=100%&height=95%</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Sport-TV 18</title>
+<link>rtmp://80.82.78.29/liveedge playpath=ch18-ylbo92ety1j swfUrl=http://obigbrother.com/player.swf live=1 pageUrl=http://cast4you.tv/show.php?id=ch18-ylbo92ety1j&width=100%&height=95%</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Sport-TV 19</title>
+<link>rtmp://80.82.78.29/liveedge playpath=canal3-s9i0u8nbpou swfUrl=http://obigbrother.com/player.swf live=1 pageUrl=http://cast4you.tv/show.php?id=canal3-s9i0u8nbpou&width=100%&height=95%</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Sport-TV 20</title>
+<link> http://81.18.66.155:1935/live/banat-tv/playlist.m3u8</link> 
+<thumbnail>none</thumbnail>
+</item>
+</stream>
+</streams>
