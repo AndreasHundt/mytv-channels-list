@@ -1,0 +1,531 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='http://langsongviet.com/fta4vnForum/upload/forum.php'?>
+<!-- Official Site: http://langsongviet.com/fta4vnForum/upload/forum.php -->
+<!-- Channel list: Movies Live TV -->
+<!-- Last Update: 04.26.2013 by Silverfox -->
+<info>Neu ban thich TV, ban co the donate tang tien qua Paypal den dia chi http://langsongviet.com/fta4vnForum/upload/awcl_dsl.php?do=donation, it hay nhieu khong quan trong chung toi deu cam ta, tien quyen tang giup chung toi phat trien cac kenh TV ngay cang tot hon.</info>
+<streams>
+<stream>
+
+<!-- Last Update: 04.26.2013 by Silverfox -->
+
+<item><Title>ABC S1</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=nz7l9vc5nv1og7b swfUrl=http://player.ilive.to/player_ilive_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=600&height=450&channel=46476&autoplay=true</link></item>
+
+<item>
+<Title>ABC S2</Title>
+<link>http://mobilestreaming1.ilive.to:1935/mobile/nz7l9vc5nv1og7b/playplist.m3u8</link></item>
+
+<item>
+<Title>ABC10 S1</Title>
+<link>rtmp://198.100.149.81/live/abc10/abc10.video swfUrl=http://www.livecupbrazil.com/player/player.swf live=1 pageUrl=http://livecupbrazil.com/stream.php?n=abc10&vw=600&vh=450</link></item>
+
+<item>
+<Title>ABC10 S2</Title>
+<link>rtmpe://198.100.149.81/live/abc10/abc10.video swfUrl=http://www.skyonelive.com/player/player.swf live=1 pageUrl=http://www.skyonelive.com/sports.php?n=abc10</link></item>
+
+<item>
+<Title>ABC10 S3</Title>
+<link>rtmpe://198.100.149.81/live/abc10/abc10.video swfUrl=http://www.skyliveradio.com/player/player.swf live=1 pageUrl=http://www.skyliveradio.com/sports.php?n=abc10</link></item>
+
+<item>
+<Title>ABC10 S4 </Title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=abc_usa.stream swfUrl=http://www.ukcast.tv/player/player.swf live=1 pageUrl=http://www.ukcast.tv/embed.php?u=abc_usa&vw=670&vh=410</link></item>
+
+<item>
+<Title>ABC27 <Title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=abc9 swfUrl=http://www.livecaster.tv/player/player.swf live=1 pageUrl=http://www.livecaster.tv/embed.php?u=abc9&vw=670&vh=410</link></item>
+
+<item>
+<Title>AMC S1</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=z4cxm7zlfyqs65m swfUrl=http://player.ilive.to/player_ilive_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=520&height=370&channel=46209&autoplay=true</link></item>
+
+<item>
+<Title>AMC S2</Title>
+<link>rtmp://198.100.149.81/live/amc/amc.video swfUrl=http://www.livecupbrazil.com/player/player.swf live=1 pageUrl=http://livecupbrazil.com/stream.php?n=amc&vw=600&vh=450</link></item>
+
+<item>
+<Title>AMC S4</Title>
+<link>rtmpe://198.100.149.81/live/amc/amc.video swfUrl=http://www.skyonelive.com/player/player.swf live=1 pageUrl=http://www.skyonelive.com/sports.php?n=amc</link></item>
+
+<item>
+<Title>AMC HD S5</Title>
+<link>rtmp://fmsedge2.tikilive.com:1935/view/25503_162/ playpath=stream25503 swfUrl=http://www.tikilive.com/public/flash/viewerModules/player/PlayerModule.swf?version=2.10.10 live=1 pageUrl=http://tklist.net/tklist/hgtv1.php</link></item>
+
+<item>
+<Title>AMC S6</Title>
+<link>http://mobilestreaming1.ilive.to:1935/mobile/z4cxm7zlfyqs65m/playplist.m3u8</link></item>
+
+<item>
+<Title>Animal Planet S1</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=41i3ymbmum28xfk swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=680&height=446&channel=42027&autoplay=true</link></item>
+
+<item>
+<Title>AlJazeera S2</Title>
+<link>rtmp://ca-edge-4.cdn2.streamago.tv:1935/streamagoedge/1914?idutente=1914&idcanale=807&pwd=/807 swfUrl=http://www.streamago.tv/app/StreamVideo.swf?xml=/xml/1914 live=1 pageUrl=http://www.streamago.tv/app/StreamVideo.swf?xml=/xml/1914</link></item>
+
+<item>
+<Title>BLOOMBERG</Title>
+<link>rtmp://cp116697.live.edgefcs.net:80/live playpath=BnazlkNDpCIcD-QkfyZCQKlRiiFnVa5I_640_360_440@18679 swfUrl=http://player.longtailvideo.com/player.swf live=1</link></item>
+
+<item>
+<Title>BRAVO S1</Title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=bravo9 swfUrl=http://www.livecaster.tv/player/player.swf live=1 pageUrl=http://www.livecaster.tv/embed.php?u=bravo9&vw=670&vh=410</link></item>
+
+<item>
+<Title>BRAVO S2</Title>
+<link> http://mobilestreaming1.ilive.to:1935/mobile/zqr56sq58858qgu/playplist.m3u8</link></item>
+
+<item>
+<Title>CARTOON NETWORK</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=91cqbvxhp3098vf swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=600&height=450&channel=48101&autoplay=true</link></item>
+
+<item>
+<Title>CARTOON NETWORK S2</Title>
+<link>rtsp://198.144.158.137:80/pub/CCxGWxMfHUepCCHIT9Bk</link></item>
+
+<item>
+<Title>CARTOON NETWORK S3</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=xwuqdagbkffuj5w swfUrl=http://player.ilive.to/player.swf live=1 pageUrl=http://www.ilive.to/view/48048/watch-live-Cartoon_Network_(HD)-channel-for-free</link></item>
+
+<item>
+<Title>CARTOON NETWORK S4</Title>
+http://mobilestreaming1.ilive.to:1935/mobile/xwuqdagbkffuj5w/playplist.m3u8</link></item>
+
+<item>
+<Title>CBS S1</Title>
+<link>rtmp://198.100.149.81/live/cbs/cbs.video swfUrl=http://livecupbrazil.com/player/player.swf live=1 pageUrl=http://livecupbrazil.com/channel.php?n=cbs</link></item>
+
+<item>
+<Title>CBS S2</Title>
+<link>rtmpe://198.100.149.81/live/cbs/cbs.video swfUrl=http://www.skyonelive.com/player/player.swf live=1 pageUrl=http://www.skyonelive.com/sports.php?n=cbs</link></item>
+
+<item>
+<Title>CBS S3</Title>
+<link>rtmp://cp56371.live.edgefcs.net:1935/live/ playpath=CBSnews2_live_800@50979 swfUrl=http://static-cdn1.ustream.tv/swf/live/viewer.rsl:449.swf live=1 pageUrl=http://www.viponlinesports.eu/</link></item>
+
+<item>
+<Title>CBS21 S4</Title>
+<link>http://mobilestreaming1.ilive.to:1935/mobile/z3fwvcohtijp3fe/playplist.m3u8</link></item>
+
+<item>
+<Title>CNBC S1</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=awr6lcvpdkxdjh0 swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=600&height=450&channel=48208&autoplay=true</link></item>
+
+<item>
+<Title>CNBC S2</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=awr6lcvpdkxdjh0 swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=600&height=450&channel=48208&autoplay=true</link></item>
+
+<item>
+<Title>CNBC S3</Title>
+<link>http://media4.lsops.net/live/cnbc_en_high.sdp/chunklist.m3u8</link></item>
+
+<item>
+<Title>CNN USA </Title>
+<link>rtmp://redirect.isearch.to/edge playpath=rjxo8hz17q9waiq swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=520&height=370&channel=46461&autoplay=true</link></item>
+
+<item>
+<Title>CNN International S1</Title>
+<link>rtsp://media7.lsops.net:554/live/cnn_en_high.sdp</link></item>
+
+<item>
+<Title>CNN International S2</Title>
+<link>http://fms3.mediadirect.ro/live3/_definst_/cnn/chunklist.m3u8</link></item>
+
+<item>
+<Title>CNN International S3</Title>
+http://media7.lsops.net:554/live/cnn_en_high.sdp/chunklist.m3u8</link></item>
+
+<item>
+<Title>COMEDY CENTRAL</Title>
+<link>rtmp://198.144.153.138:443/kuyo playpath=comedddd?id=3131352e3235322e39342e3339 swfUrl=http://yukons.net/yukp.swf live=1 pageUrl=http://yukons.net/embed/36333646364436353634363436343634/3c8b4d33f5e0ede5330d1bf03651ebd7/595/380 conn=S:OK</link></item>
+
+<item><Title>COMEDY CENTRAL</Title>
+<link>http://mobilestreaming1.ilive.to:1935/mobile/k9p6hysquua5vw7/playplist.m3u8</link></item>
+
+<item><Title>C-SPAN</Title>
+<link>rtmp://cp82346.live.edgefcs.net/live/CSPAN1@14845</link></item>
+
+<item><Title>C-SPAN 2</Title>
+<link>rtmp://cp82347.live.edgefcs.net/live/CSPAN2@14846</link></item>
+
+<item><Title>C-SPAN 3</Title>
+<link>rtmp://cp82348.live.edgefcs.net/live/CSPAN3@14847</link></item>
+
+<item><Title>CW S1</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=kcizip7f2d6zh6l swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=600&height=450&channel=48102&autoplay=true</link></item>
+
+<item><Title>CW S2</Title>
+<link>rtmp://198.100.149.81/live/cw/cw.video swfUrl=http://livecupbrazil.com/player/player.swf live=1 pageUrl=http://livecupbrazil.com/channel.php?n=cw</link></item>
+
+<item><Title>CW S3</Title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=cw_usa.stream swfUrl=http://www.ukcast.tv/player/player.swf live=1 pageUrl=http://www.ukcast.tv/embed.php?u=cw_usa&vw=670&vh=410</link></item>
+
+<item><Title>CW S4</Title>
+<link>rtmpe://198.100.149.81/live/cw/cw.video swfUrl=http://www.skyonelive.com/player/player.swf live=1 pageUrl=http://www.skyonelive.com/sports.php?n=cw</link></item>
+
+<item><Title>CW S5</Title>
+<link>rtmpe://198.100.149.81/live/cw/cw.video swfUrl=http://www.skyliveradio.com/player/player.swf live=1 pageUrl=http://www.skyliveradio.com/sports.php?n=cw</link></item>
+
+<item><Title>CW S6</Title>
+<link>http://mobilestreaming1.ilive.to:1935/mobile/kcizip7f2d6zh6l/playplist.m3u8</link></item>
+
+<item><Title>CW15 S1</Title>
+<link>rtmp://85.12.5.152:1935/live/_definst_ playpath=tokyo swfUrl=http://cdn.yycast.com/player/player.swf live=1 pageUrl=http://www.limev.com/embed.php?fileid=tokyo&vw=600&vh=450</link></item>
+
+<item><Title>CW15 S2</Title>
+<link>http://mobilestreaming1.ilive.to:1935/mobile/01byc65rgikmew8/playplist.m3u8</link></item>
+
+<item><Title>Discovery S1</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=it82brayqtelkyi swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=520&height=370&channel=38810&autoplay=true</link></item>
+
+<item><Title>Discovery S2</Title>
+<link>rtmp://live.ukcast.tv/broadcast/discoveryu swfUrl=http://www.ukcast.tv/player/player.swf pageUrl=http://www.ukcast.tv/embed.php?u=discoveryu&vw=670&vh=410 live=1</link></item>
+
+<item><Title>Discovery S3</Title>
+<link>http://mobilestreaming1.ilive.to:1935/mobile/pzzhl9914uivaxf/playplist.m3u8</link></item>
+
+<item><Title>Discovery S4</Title>
+<link>http://mobilestreaming1.ilive.to:1935/mobile/it82brayqtelkyi/playplist.m3u8</link></item>
+
+<item><Title>Disney S1</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=2tag4dzgwof5ma2 swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=520&height=370&channel=38804&autoplay=true</link></item>
+
+<item><Title>Disney S2</Title>
+<link>http://mobilestreaming1.ilive.to:1935/mobile/2tag4dzgwof5ma2/playplist.m3u8</link></item>
+
+<item><Title>ESPN S1</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=vzs8o5v8vkyztba swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=520&height=370&channel=45128&autoplay=true</link></item>
+
+<item><Title>ESPN S2</Title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=espn_usa.stream swfUrl=http://www.ukcast.tv/player/player.swf live=1 pageUrl=http://www.ukcast.tv/embed.php?u=espn_usa&vw=670&vh=410</link></item>
+
+<item><Title>ESPN S3</Title>
+<link>rtmp://198.100.149.81/live/espn/espn.video swfUrl=http://livecupbrazil.com/player/player.swf live=1 pageUrl=http://livecupbrazil.com/sports.php?n=espn</link></item>
+
+<item><Title>ESPN S4</Title>
+<link>rtmp://198.100.149.81/live/espn/espn.video swfUrl=http://www.skyonelive.com/player/player.swf live=1 pageUrl=http://www.skyonelive.com/sports.php?n=espn</link></item>
+
+<item><Title>ESPN S5</Title>
+<link>rtmp://198.100.149.81/live/espn/espn.video swfUrl=http://www.skyliveradio.com/player/player.swf live=1 pageUrl=http://www.skyliveradio.com/sports.php?n=espn</link></item>
+
+<item><Title>ESPN S6</Title>
+<link>http://mobilestreaming1.ilive.to:1935/mobile/vzs8o5v8vkyztba/playplist.m3u8</link></item>
+
+<item><Title>ESPN2 S1</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=r0an48lzpf3fd6t swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=600&height=450&channel=47542&autoplay=true</link></item>
+
+<item><Title>ESPN2 S2</Title>
+<link>http://mobilestreaming1.ilive.to:1935/mobile/r0an48lzpf3fd6t/playplist.m3u8</link></item>
+
+<item><Title>Food S1</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=y60lx8lkyexxnry swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=520&height=370&channel=48211&autoplay=true</link></item>
+
+<item><Title>Food S2</Title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=food_6 swfUrl=http://www.livecaster.tv/player/player.swf live=1 pageUrl=http://www.livecaster.tv/embed.php?u=food_6&vw=670&vh=410</link></item>
+
+<item><Title>Food S3</Title>
+<link>http://mobilestreaming1.ilive.to:1935/mobile/y60lx8lkyexxnry/playlist.m3u8</link></item>
+
+<item><Title>Fox News S1</Title>
+<link>rtmp://85.12.5.34/vl/_definst_ playpath=urfav16 swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/embed.php?v=urfav16&vw=600&vh=400&domain=www.urfavchannels.in</link></item>
+
+<item><Title>Fox News S</Title>
+<link>http://live.veemi.com:1935/live/_definst_/urfav16/playlist.m3u8</link></item>
+
+<item><Title>Fox Business S1</Title>
+<link>rtmp://live.veemi.com/vlb playpath=urfav16 swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/embed.php?v=urfav16&vw=600&vh=400&domain=www.urfavchannels.in</link></item>
+
+<item><Title>Fox Business S2</Title>
+<link>http://live.webcaston.com:1935/live/channel/aaj01/playlist.m3u8</link></item>
+
+<item><Title>Fox Business S3</Title>
+<link>http://184.22.182.186/wl/channel/aaj01/playlist.m3u8</link></item>
+
+<item><Title>Fox Sports S1</Title>
+<link>rtmp://198.100.149.81/live/fsw/fsw.video swfUrl=http://www.skyliveradio.com/player/player.swf live=1 pageUrl=http://www.skyliveradio.com/stream.php?n=fsw&vw=650&vh=450</link></item>
+
+<item><Title>Fox Sports S2</Title>
+<link>rtmp://198.100.149.81/live/fsw/fsw.video swfUrl=http://www.skyonelive.com/player/player.swf live=1 pageUrl=http://www.skyliveradio.com/stream.php?n=fsw&vw=650&vh=450</link></item>
+
+<item><Title>Fox5-Atlanta</Title>
+<link>rtmp://cp154696.live.edgefcs.net:443/live/WAGA_N1@42590</link></item>
+
+<item><Title>Fox5-NY</Title>
+<link>rtmp://cp156347.live.edgefcs.net:1935/live/WNYW_N1@27995</link></item>
+
+<item><Title>Fox7 S1</Title>
+<link>rtmp://198.100.149.81/live/fxo7/fxo7.video swfUrl=http://www.skyliveradio.com/player/player.swf live=1 pageUrl=http://www.skyliveradio.com/sports.php?n=fxo7</link></item>
+
+<item><Title>Fox7 S2</Title>
+<link>rtmp://198.100.149.81/live/fxo7/fxo7.video swfUrl=http://www.skyonelive.com/player/player.swf live=1 pageUrl=http://www.skyonelive.com/sports.php?n=fxo7</link></item>
+
+<item><Title>Fox11 S1</Title>
+<link>rtmp://198.100.149.81/live/fox11/fox11.video swfUrl=http://www.skyonelive.com/player/player.swf live=1 pageUrl=http://www.skyonelive.com/sports.php?n=fox11</link></item>
+
+<item><Title>Fox11 S2</Title>
+<link>rtmp://198.100.149.81/live/fox11/fox11.video swfUrl=http://www.skyliveradio.com/player/player.swf live=1 pageUrl=http://www.skyliveradio.com/sports.php?n=fox11</link></item>
+
+<item><Title>Fox13</Title>
+<link>http://mobilestreaming1.ilive.to:1935/mobile/siifcf90wqcvt9d/playplist.m3u8</link></item>
+
+<item><Title>Fox13 Utah</Title>
+<link>rtmp://195.245.125.14/live?_fcs_vhost=cp76676.live.edgefcs.net playpath=xoNnM3NDph5RVf-Ka8JcvJxxTUdI1oRS_640_360_400@43082 swfUrl=http://player.ooyala.com/static/cacheable/e976e6d3f2884b0a00ee1f7aa081e7c5/player_v2.swf?version=2&embedType=nuplayer&embedStyle=mjolnir/[[DYNAMIC]]/6 live=1 pageUrl=http://fox13now.com/on-air/live-streaming/</link></item>
+
+<item><Title>Fox43</Title>
+<link>rtmp://tribunewpmt.mpl.miisolutions.net/wpmt-live01/_definst_ playpath=mp4:wpmt-live01 swfUrl=http://cdn.tribtv.com/jwplayer/player.swf live=1 pageUrl=http://fox43.com/live/</link></item>
+
+<item><Title>FX WEST S1</Title>
+<link>rtmp://198.100.149.81/live/fxwest/fxwest.video swfUrl=http://livecupbrazil.com/player/player.swf live=1 pageUrl=http://livecupbrazil.com/channel.php?n=fxwest</link></item>
+
+<item><Title>FX WEST S2</Title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=fx08 swfUrl=http://www.livecaster.tv/player/player.swf live=1 pageUrl=http://www.livecaster.tv/embed.php?u=fx08&vw=670&vh=410</link></item>
+
+<item><Title>FX WEST S3</Title>
+<link>rtmp://198.100.149.81/live/fxwest/fxwest.video swfUrl=http://www.skyonelive.com/player/player.swf live=1 pageUrl=http://www.skyonelive.com/sports.php?n=fxwest</link></item>
+
+<item><Title>FX WEST S4</Title>
+<link>rtmp://198.100.149.81/live/fxwest/fxwest.video swfUrl=http://www.skyliveradio.com/player/player.swf live=1 pageUrl=http://www.skyliveradio.com/sports.php?n=fxwest</link></item>
+
+<item><Title>FX</Title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=fx_usa.stream swfUrl=http://www.ukcast.tv/player/player.swf live=1 pageUrl=http://www.ukcast.tv/embed.php?u=fx_usa&vw=670&vh=410</link></item>
+
+<item><Title>Fox Sports West</Title>
+<link>rtmp://198.100.149.81/live/fsw/fsw.video swfUrl=http://livecupbrazil.com/player/player.swf live=1 pageUrl=http://www.livecupbrazil.com/sports.php?n=fsw</link></item>
+
+ 
+
+<item><Title>Golf Channel S1</Title>
+<link>rtmp://37.220.32.56:443/liverepeater playpath=4013 swfUrl=http://c1776742.cdn.cloudfiles.rackspacecloud.com/flash/player.swf live=1 pageUrl=http://orbitztv.co.uk/player3.php?id=4013&width=640&height=460</link></item>
+
+<item><Title>Golf Channel S2</Title>
+<link>rtmp://94.102.49.151:443/liverepeater playpath=4013 swfUrl=http://c1776742.cdn.cloudfiles.rackspacecloud.com/flash/player.swf live=1 pageUrl=http://orbitztv.co.uk/player2.php?id=4013&width=640&height=460</link></item>
+
+ 
+
+<item><Title>HBO USA S1</Title>
+<link>rtmp://198.100.149.81/live/hbo/hbo.video swfUrl=http://www.skyonelive.com/player/player.swf live=1 pageUrl=http://www.skyonelive.com/sports.php?n=hbo</link></item>
+
+<item><Title>HBO USA S2</Title>
+<link>rtmp://198.100.149.81/live/hbo/hbo.video swfUrl=http://www.skyliveradio.com/player/player.swf live=1 pageUrl=http://www.skyliveradio.com/sports.php?n=hbo</link></item>
+
+<item><Title>History Channel</Title>
+<link>http://mobilestreaming1.ilive.to:1935/mobile/cpurxuuwv3ljnji/playplist.m3u8</link></item>
+
+<item><Title>HLN</Title>
+<link>rtmp://206.190.128.116/live playpath=ciniestro?id=150370 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/ciniestro/1/600/380 conn=S:OK</link></item>
+
+<item><Title>HSN</Title>
+<link>rtmp://hsn.mpl.miisolutions.net/hsn-live01/_definst_/mp4:420p500kB31/mp4:420p500kB3</link></item>
+
+<item><Title>ION S1</Title>
+<link>rtmp://198.100.149.81/live/ion/ion.video swfUrl=http://www.livecupbrazil.com/player/player.swf live=1 pageUrl=http://www.livecupbrazil.com/embed.php?n=ion&vw=650&vh=450</link></item>
+
+<item><Title>ION S2</Title>
+<link>rtmp://198.100.149.81/live/ion/ion.video swfUrl=http://www.skyonelive.com/player/player.swf live=1 pageUrl=http://www.skyonelive.com/embed.php?n=ion&vw=650&vh=450</link></item>
+
+<item><Title>ION S3</Title>
+<link>rtmp://198.100.149.81/live/ion/ion.video swfUrl=http://www.skyliveradio.com/player/player.swf live=1 pageUrl=http://www.skyliveradio.com/embed.php?n=ion&vw=650&vh=450</link></item>
+
+<item><Title>Lifetime S1</Title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=lifetime4 swfUrl=http://www.livecaster.tv/player/player.swf live=1 pageUrl=http://www.livecaster.tv/embed.php?u=lifetime4</link></item>
+
+<item><Title>Lifetime S2</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=cexop1sm47oqcrh swfUrl=http://player.ilive.to/player.swf live=1 pageUrl=http://www.ilive.to/view/48348/watch-live-Lifetime_(HD)-channel-for-free</link></item>
+
+<item><Title>MSNBC S1</Title>
+<link>rtmp://50.23.115.84/live playpath=tracataca?id=160284 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/tracataca/1/600/380 conn=S:OK</link></item>
+
+<item><Title>MSNBC S2</Title>
+<link>rtmp://198.100.149.81/live/msnbc/msnbc.video swfUrl=http://www.livecupbrazil.com/player/player.swf live=1 pageUrl=http://livecupbrazil.com/stream.php?n=msnbc&vw=600&vh=450</link></item>
+
+<item><Title>MSNBC S3</Title>
+<link>rtmp://199.189.110.172/stream playpath=msnbcn?id=89670 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/embedplayer/msnbcn/1/500/400 conn=S:OK</link></item>
+
+<item><Title>MSNBC S4</Title>
+<link>rtmp://198.100.149.81/live/msnbc/msnbc.video swfUrl=http://www.skyonelive.com/player/player.swf live=1 pageUrl=http://www.skyonelive.com/sports.php?n=msnbc</link></item>
+
+<item><Title>MSNBC S5</Title>
+<link>rtmp://198.100.149.81/live/msnbc/msnbc.video swfUrl=http://www.skyliveradio.com/player/player.swf live=1 pageUrl=http://www.skyliveradio.com/sports.php?n=msnbc</link></item>
+
+<item><Title>MTV S1</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=y96hrc1tcg0vtcg swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=600&height=450&channel=39948&autoplay=true</link></item>
+
+<item><Title>MTV S2</Title>
+<link>rtmp://198.100.149.81/live/mtv/mtv.video swfUrl=http://livecupbrazil.com/player/player.swf live=1 pageUrl=http://www.livecupbrazil.com/sports.php?n=mtv&ckattempt=1</link></item>
+
+<item><Title>MTV S3</Title>
+<link>rtmp://198.100.149.81/live/mtv/mtv.video swfUrl=http://www.skyonelive.com/player/player.swf live=1 pageUrl=http://www.skyonelive.com/sports.php?n=mtv</link></item>
+
+<item><Title>MTV S4</Title>
+<link>rtmp://198.100.149.81/live/mtv/mtv.video swfUrl=http://www.skyliveradio.com/player/player.swf live=1 pageUrl=http://www.skyliveradio.com/sports.php?n=mtv</link></item>
+
+<item><Title>MTV S5</Title>
+http://mobilestreaming1.ilive.to:1935/mobile/y96hrc1tcg0vtcg/playplist.m3u8</link></item>
+
+<item><Title>MyTv Network</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=vo6q1zm4ibi7zkc swfUrl=http://player.ilive.to/player.swf live=1 pageUrl=http://www.ilive.to/view/48206/watch-live-MyTV_Network_(HD)-channel-for-free</link></item>
+ 
+
+<Title>Nat Geo S1</Title>
+<link>rtmp://198.100.149.81/live/natgeo/natgeo.video swfUrl=http://www.skyonelive.com/player/player.swf live=1 pageUrl=http://www.skyonelive.com/sports.php?n=natgeo</link></item>
+
+<Title>Nat Geo S2</Title>
+<link>rtmp://198.100.149.81/live/natgeo/natgeo.video swfUrl=http://www.skyliveradio.com/player/player.swf live=1 pageUrl=http://www.skyliveradio.com/sports.php?n=natgeo</link></item>
+
+<item><Title>NBA S1</Title>
+<link>rtmp://37.220.32.43:443/liverepeater playpath=218 swfUrl=http://c1776742.cdn.cloudfiles.rackspacecloud.com/flash/player.swf live=1 pageUrl=http://orbitztv.co.uk/player2.php?id=218&width=640&height=460</link></item>
+
+<item><Title>NBC S1</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=q2bufwoa7lkxds3 swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=520&height=370&channel=46459&autoplay=true</link></item>
+
+<item><Title>NBC6 S1</Title>
+<link>rtmp://198.100.149.81/live/nbc/nbc.video swfUrl=http://www.livecupbrazil.com/player/player.swf live=1 pageUrl=http://livecupbrazil.com/stream.php?n=nbc&vw=600&vh=450&ckattempt=1</link></item>
+
+<item><Title>NBC6 S2</Title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=nbc_usa.stream swfUrl=http://www.ukcast.tv/player/player.swf live=1 pageUrl=http://www.ukcast.tv/embed.php?u=nbc_usa&vw=670&vh=410</link></item>
+
+<item><Title>NBC6 S3</Title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=nbc9 swfUrl=http://www.livecaster.tv/player/player.swf live=1 pageUrl=http://www.livecaster.tv/embed.php?u=nbc9&vw=670&vh=410</link></item>
+
+<item><Title>NBC6 S4</Title>
+<link>rtmp://198.100.149.81/live/nbc/nbc.video swfUrl=http://www.skyliveradio.com/player/player.swf live=1 pageUrl=http://www.skyliveradio.com/sports.php?n=nbc</link></item>
+
+<item><Title>NBC6 S5</Title>
+<link>rtmp://198.100.149.81/live/nbc/nbc.video swfUrl=http://www.skyonelive.com/player/player.swf live=1 pageUrl=http://www.skyonelive.com/sports.php?n=nbc</link></item>
+
+<item><Title>NBC8 Lancaster<Title>
+http://mobilestreaming1.ilive.to:1935/mobile/cqhm3klmkzmbrez/playplist.m3u8<link>
+
+<item><Title>NBC <Title>
+http://mobilestreaming1.ilive.to:1935/mobile/q2bufwoa7lkxds3/playplist.m3u8<link>
+
+<item><Title>NFL Network</Title>
+<link>rtmp://89.248.168.42:443/liverepeater playpath=1490 swfUrl=http://c1776742.cdn.cloudfiles.rackspacecloud.com/flash/player.swf live=1 pageUrl=http://orbitztv.co.uk/player2.php?id=1490&width=640&height=460</link></item>
+
+<item><Title>NHL</Title>
+<link>rtmp://37.220.36.64:443/liverepeater playpath=3994 swfUrl=http://c1776742.cdn.cloudfiles.rackspacecloud.com/flash/player.swf live=1 pageUrl=http://orbitztv.co.uk/player2.php?id=3994&width=640&height=460</link></item>
+
+<item><Title>Nickelodean S1</Title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=nickkp swfUrl=http://www.livecaster.tv/player/player.swf live=1 pageUrl=http://www.livecaster.tv/embed.php?u=nickkp&vw=670&vh=410</link></item>
+
+<item><Title>Nickelodean S2</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=hxoq929n5q4a9u3 swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=530&height=370&channel=48100&autoplay=true</link></item>
+
+<item><Title>Nickelodean S3</Title>
+http://mobilestreaming1.ilive.to:1935/mobile/132l9313j4zqnkd/playplist.m3u8<link>
+
+<item><Title>Retro Tv</Title>
+<link>rtmp://fmsedge1.tikilive.com:1935/view/31830_171/ playpath=stream31830 swfUrl=http://www.tikilive.com/public/flash/viewerModules/player/PlayerModule.swf?version=2.10.10 live=1 pageUrl=http://www.tikilive.com/embed?scheme=embedChannel&channelId=31830&showChat=0&pwidth=660&pheight=495&autoplay=yes&wmode=transparent</link></item>
+
+<item><Title>RT News America Medium</Title>
+<link>rtmp://rt.fms-04.visionip.tv/live playpath=RT_US_2 swfUrl=http://rt.com/s/swf/player5.4.viral.swf live=1 pageUrl=http://rt.com/on-air/rt-america-air/</link></item>
+
+EXTINF:-1,USA:RT News America High</Title>
+<link>rtmp://rt.fms-04.visionip.tv/live playpath=RT_US_3 swfUrl=http://rt.com/s/swf/player5.4.viral.swf live=1 pageUrl=http://rt.com/on-air/rt-america-air/</link></item>
+
+<item><Title>RT News America HD <Title>
+<link>rtmp://rt.fms-04.visionip.tv/live playpath=rt-america-live-HD swfUrl=http://rt.com/s/swf/player5.4.viral.swf live=1 pageUrl=http://rt.com/on-air/rt-america-air/</link></item>
+
+<item><Title>Showtime S1</Title>
+<link>rtmp://198.100.149.81/live/showtime/showtime.video swfUrl=http://livecupbrazil.com/player/player.swf live=1 pageUrl=http://www.livecupbrazil.com/sports.php?n=showtime&ckattempt=1</link></item>
+
+<item><Title>Showtime S2</Title>
+<link>rtmp://198.100.149.81/live/showtime/showtime.video swfUrl=http://www.skyonelive.com/player/player.swf live=1 pageUrl=http://www.skyonelive.com/sports.php?n=showtime</link></item>
+
+<item><Title>Showtime S3</Title>
+<link>rtmp://198.100.149.81/live/showtime/showtime.video swfUrl=http://www.skyliveradio.com/player/player.swf live=1 pageUrl=http://www.skyliveradio.com/sports.php?n=showtime</link></item>
+
+<item><Title>Speed</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=e161et412blgh3t swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=530&height=370&channel=47830&autoplay=true</link></item>
+
+<item><Title>Spike S1</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=m5bn1sv1r8644m6 swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=600&height=450&channel=48351&autoplay=true</link></item>
+
+<item><Title>Spike S2</Title>
+<link>http://mobilestreaming1.ilive.to:1935/mobile/m5bn1sv1r8644m6/playplist.m3u8</link></item>
+
+<item><Title>STARZ S1</Title>
+<link>rtmp://198.100.149.81/live/starz/starz.video swfUrl=http://www.livecupbrazil.com/player/player.swf live=1 pageUrl=http://livecupbrazil.com/embed.php?n=starz&vw=530&vh=370</link></item>
+
+<item><Title>STARZ S2</Title>
+<link>rtsp://198.100.149.81:1935/live/starz/starz.video</link></item>
+
+<item><Title>STARZ S3</Title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=starz.stream swfUrl=http://www.ukcast.tv/player/player.swf live=1 pageUrl=http://www.ukcast.tv/embed.php?u=starz&vw=670&vh=410</link></item>
+
+<item><Title>STARZ S4</Title>
+<link>rtmp://198.100.149.81/live/starz/starz.video swfUrl=http://www.skyliveradio.com/player/player.swf live=1 pageUrl=http://www.skyliveradio.com/sports.php?n=starz</link></item>
+
+<Title>STARZ S5</Title>
+<link>rtmp://198.100.149.81/live/starz/starz.video swfUrl=http://www.skyonelive.com/player/player.swf live=1 pageUrl=http://www.skyonelive.com/sports.php?n=starz</link></item>
+
+<item><Title>Syfy S1</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=x7uii7mll2b7lh4 swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=600&height=450&channel=46454&autoplay=true</link></item>
+
+<item><Title>Syfy S2</Title>
+<link>rtmp://198.100.149.81/live/syfy/syfy.video swfUrl=http://livecupbrazil.com/player/player.swf live=1 pageUrl=http://livecupbrazil.com/channel.php?n=syfy</link></item>
+
+<item><Title>Syfy S3</Title>
+<link>rtmp://198.100.149.81/live/syfy/syfy.video swfUrl=http://www.skyliveradio.com/player/player.swf live=1 pageUrl=http://www.skyliveradio.com/sports.php?n=syfy</link></item>
+
+<item><Title>Syfy S4</Title>
+<link>rtmp://198.100.149.81/live/syfy/syfy.video swfUrl=http://www.skyonelive.com/player/player.swf live=1 pageUrl=http://www.skyliveradio.com/sports.php?n=syfy</link></item>
+
+<item><Title>TBS S1</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=rp6zlxo29ob14q1 swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=600&height=450&channel=40300/TBS&autoplay=true</link></item>
+
+<item><Title>TBS S2</Title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=tbsuu swfUrl=http://www.livecaster.tv/player/player.swf live=1 pageUrl=http://www.livecaster.tv/embed.php?u=tbsuu&vw=600&vh=430</link></item>
+
+<item><Title>TBS S3</Title>
+<link>http://mobilestreaming1.ilive.to:1935/mobile/b7ad6lk5ramikmp/playplist.m3u8<link>
+
+<item><Title>TLC S1</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=x99v7adz8i3ikkm swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=600&height=450&channel=38765&autoplay=true</link></item>
+
+<item><Title>TLC S2</Title>
+http://mobilestreaming1.ilive.to:1935/mobile/x99v7adz8i3ikkm/playplist.m3u8<link>
+
+<item><Title>TNT S1</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=s7d8wd96rhebpng swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=600&height=450&channel=46736&autoplay=true</link></item>
+
+<item><Title>TNT S2</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=rpinavv9wdnj3bj swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=600&height=450&channel=48353&autoplay=true</link></item>
+
+<item><Title>TNT S3</Title>
+<link>rtmp://198.100.149.81/live/tnt/tnt.video swfUrl=http://livecupbrazil.com/player/player.swf live=1 pageUrl=http://livecupbrazil.com/channel.php?n=tnt</link></item>
+
+<item><Title>TNT S4</Title>
+<link>rtmp://198.100.149.81/live/tnt/tnt.video swfUrl=http://www.skyliveradio.com/player/player.swf live=1 pageUrl=http://www.skyliveradio.com/sports.php?n=tnt</link></item>
+
+<item><Title>TNT S5</Title>
+<link>rtmp://198.100.149.81/live/tnt/tnt.video swfUrl=http://www.skyonelive.com/player/player.swf live=1 pageUrl=http://www.skyonelive.com/sports.php?n=tnt</link></item>
+
+<item><Title>TNT S6</Title>
+<link>http://mobilestreaming1.ilive.to:1935/mobile/s7d8wd96rhebpng/playplist.m3u8</link></item>
+
+<item><Title>Trutv S1</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=sfkua8d8yo8jmut swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=600&height=450&channel=45279&autoplay=true</link></item>
+
+<item><Title>Trutv S2</Title>
+<link>http://mobilestreaming1.ilive.to:1935/mobile/sfkua8d8yo8jmut/playplist.m3u8</link></item>
+
+<item><Title>USA S1</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=h5eovaj1jeegluq swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=600&height=450&channel=38768&autoplay=true</link></item>
+
+<item><Title>USA S2</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=ahwcx2k56oitbkk swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=600&height=450&channel=48103&autoplay=true</link></item>
+
+<item><Title>USA S3</Title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=usa9 swfUrl=http://www.livecaster.tv/player/player.swf live=1 pageUrl=http://www.livecaster.tv/embed.php?u=usa9&vw=670&vh=410</link></item>
+
+<item><Title>USA S4</Title>
+<link>http://mobilestreaming1.ilive.to:1935/mobile/mrkk3an9lndeeit/playplist.m3u8<link>
+
+<item><Title>Weather Nation</Title>
+<link>rtmp://cp77659.live.edgefcs.net/live playpath=0_c6zkpyg0_1@2781 swfUrl=http://cdnbakmi.kaltura.com/p/931702/sp/93170200/flash/kdp3/v3.6.17/kdp3.swf live=1 </link></item>
+
+<!-- Last Update: 04.26.2013 by Silverfox -->
+</stream>
+</streams>
