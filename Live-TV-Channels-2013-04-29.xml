@@ -1,0 +1,287 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='http://langsongviet.com/fta4vnForum/upload/forum.php'?>
+<!-- Official Site: http://langsongviet.com/fta4vnForum/upload/forum.php -->
+<!-- Channel list: Movies Live TV -->
+<!-- Last Update: 04.29.2013 by Silverfox -->
+<info>Neu ban thich TV, ban co the donate tang tien qua Paypal den dia chi http://langsongviet.com/fta4vnForum/upload/awcl_dsl.php?do=donation, it hay nhieu khong quan trong chung toi deu cam ta, tien quyen tang giup chung toi phat trien cac kenh TV ngay cang tot hon.</info>
+<streams>
+<stream>
+
+<!-- Last Update: 04.29.2013 by Silverfox -->
+<item>
+<title>A&E US  
+</title>none</thumbnail>
+<link>rtmp://redirect.isearch.to/edge playpath=oanry4s71cylxxb swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<Title>ABC<Title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=abc9 swfUrl=http://www.livecaster.tv/player/player.swf live=1 pageUrl=http://www.livecaster.tv/embed.php?u=abc9&vw=670&vh=410</link></item>
+
+<item>
+<Title>AMC HD S5</Title>
+<link>rtmp://fmsedge2.tikilive.com:1935/view/25503_162/ playpath=stream25503 swfUrl=http://www.tikilive.com/public/flash/viewerModules/player/PlayerModule.swf?version=2.10.10 live=1 pageUrl=http://tklist.net/tklist/hgtv1.php</link></item>
+
+<item>
+<Title>Animal Planet S1</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=41i3ymbmum28xfk swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=680&height=446&channel=42027&autoplay=true</link></item>
+
+<item>
+<Title>AlJazeera S2</Title>
+<link>rtmp://ca-edge-4.cdn2.streamago.tv:1935/streamagoedge/1914?idutente=1914&idcanale=807&pwd=/807 swfUrl=http://www.streamago.tv/app/StreamVideo.swf?xml=/xml/1914 live=1 pageUrl=http://www.streamago.tv/app/StreamVideo.swf?xml=/xml/1914</link></item>
+
+<item>
+<title>AT THE RACES - Sport Channel  
+</title><thumbnail>http://upload.wikimedia.org/wikipedia/en/b/b6/New_at_the_races_logo_2008.png</thumbnail>
+<link>rtmp://rtmp.catstream.pw:1935/liverepeater/_definst_/3903</link>
+</item>
+
+<item>
+<title>AXN SD Vietnam 
+</title><thumbnail>none</thumbnail>
+<link>http://113.160.49.34/lives/origin03/axnhdmb.isml/axnhdmb-596k.m3u8</link>
+</item>
+
+<item>
+<title>RACING UK - Sport Channel 
+</title><thumbnail>http://www.contact-centres.com/c.com%20-%20Design_files/images/racing.uk.logo.jpg</thumbnail>
+<link>rtmp://rtmp.catstream.pw:1935/liverepeater/_definst_/6087</link>
+</item>
+
+<item>
+<title>Bio Channel  
+</title><thumbnail>none</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live/169a149fd1ef40edba0bbfc8e0f1bdd1.m3u8</link>
+</item>
+
+<item>
+<Title>BLOOMBERG</Title>
+<link>rtmp://cp116697.live.edgefcs.net:80/live playpath=BnazlkNDpCIcD-QkfyZCQKlRiiFnVa5I_640_360_440@18679 swfUrl=http://player.longtailvideo.com/player.swf live=1</link></item>
+
+<item>
+<Title>CARTOON NETWORK 1</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=xwuqdagbkffuj5w swfUrl=http://player.ilive.to/player.swf live=1 pageUrl=http://www.ilive.to/view/48048/watch-live-Cartoon_Network_(HD)-channel-for-free</link></item>
+
+<item>
+<title>CARTOON NETWORK 2 ( USA)  
+</title>http://www.thedigitalorchard.co.uk/wp-content/uploads/2012/04/Cartoon-Network-Logo-01.jpg</thumbnail>
+<link>rtmp://redirect.isearch.to/edge playpath=xwuqdagbkffuj5w swfUrl=http://player.ilive.to/player.swf live=1 pageUrl=http://www.ilive.to/view/48048/watch-live-Cartoon_Network_(HD)-channel-for-free</link>
+</item>
+
+<item>
+<title>Cartoon Network 3
+</title><thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRFj6-qbtysR58FDoixOjW-n_uhAizQUCqoUJ48e9P4f5DQrZUIg</thumbnail>
+<link>rtmp://142.4.216.148/edge playpath=xwuqdagbkffuj5w swfUrl=http://static.ilive.to/jwplayer/player.swf pageUrl=http://www.ilive.to/view/37002/watch-live</link>
+</item>
+
+<item>
+<Title>CBS S3</Title>
+<link>rtmp://cp56371.live.edgefcs.net:1935/live/ playpath=CBSnews2_live_800@50979 swfUrl=http://static-cdn1.ustream.tv/swf/live/viewer.rsl:449.swf live=1 pageUrl=http://www.viponlinesports.eu/</link></item>
+
+<item>
+<Title>CNBC S1</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=awr6lcvpdkxdjh0 swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=600&height=450&channel=48208&autoplay=true</link></item>
+
+<item>
+<Title>CNBC S2</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=awr6lcvpdkxdjh0 swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=600&height=450&channel=48208&autoplay=true</link></item>
+
+<item>
+<Title>CNBC S3</Title>
+<link>http://media4.lsops.net/live/cnbc_en_high.sdp/chunklist.m3u8</link></item>
+
+<item>
+<title> CNN Live US </title>
+<link>rtmp://a.cdn.msnbclive.eu/edge/cnn_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://blog.livenewschat.tv/situation-chatroom/ swfVfy=true live=true</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cnn_usa.jpg</thumbnail>
+</item>
+
+<item>
+<Title>CNN International S1</Title>
+<link>rtsp://media7.lsops.net:554/live/cnn_en_high.sdp</link></item>
+
+<item>
+<Title>CNN International S2</Title>
+<link>http://media7.lsops.net:554/live/cnn_en_high.sdp/chunklist.m3u8</link></item>
+
+<item>
+<title>CI  
+</title><thumbnail>none</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live/9961a963920f45f4bc0d81c3e478b334.m3u8</link>
+</item>
+
+<item>
+<Title>COMEDY CENTRAL</Title>
+<link>rtmp://198.144.153.138:443/kuyo playpath=comedddd?id=3131352e3235322e39342e3339 swfUrl=http://yukons.net/yukp.swf live=1 pageUrl=http://yukons.net/embed/36333646364436353634363436343634/3c8b4d33f5e0ede5330d1bf03651ebd7/595/380 conn=S:OK</link></item>
+
+<item>
+<title>Comedy Central  
+</title><thumbnail>none</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live/2f18d4ba25224edaa8bb9aac94b00d4f.m3u8
+</link></item>
+
+<item><Title>CW S1</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=kcizip7f2d6zh6l swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=600&height=450&channel=48102&autoplay=true</link></item>
+
+<item>
+<title>CRIME INVESTIGATION 
+</title><thumbnail>http://cdn.dstv.com/www.dstv.com/DStvChannels/crimeinvestigation_large.jpg</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live/9961a963920f45f4bc0d81c3e478b334.m3u8</link>
+</item>
+
+<item>
+<title>DISNEY CHANNEL (USA)  
+</title><thumbnail>http://upload.wikimedia.org/wikipedia/de/thumb/f/f2/Disney-Channel-Logo.svg/351px-Disney-Channel-Logo.svg.png</thumbnail>
+<link>rtmp://redirect.isearch.to/edge playpath=2tag4dzgwof5ma2 swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=520&height=370&channel=38804&autoplay=true</link>
+</item>
+
+<item><Title>Discovery S1</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=it82brayqtelkyi swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=520&height=370&channel=38810&autoplay=true</link></item>
+
+<item><Title>ESPN - Sport</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=vzs8o5v8vkyztba swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=520&height=370&channel=45128&autoplay=true</link></item>
+
+<item><Title>ESPN2 S1</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=r0an48lzpf3fd6t swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=600&height=450&channel=47542&autoplay=true</link></item>
+
+
+<item><Title>Fox Business -News</Title>
+<link>http://live.webcaston.com:1935/live/channel/aaj01/playlist.m3u8</link></item>
+
+<item><Title>Fox13 Utah</Title>
+<link>rtmp://195.245.125.14/live?_fcs_vhost=cp76676.live.edgefcs.net playpath=xoNnM3NDph5RVf-Ka8JcvJxxTUdI1oRS_640_360_400@43082 swfUrl=http://player.ooyala.com/static/cacheable/e976e6d3f2884b0a00ee1f7aa081e7c5/player_v2.swf?version=2&embedType=nuplayer&embedStyle=mjolnir/[[DYNAMIC]]/6 live=1 pageUrl=http://fox13now.com/on-air/live-streaming/</link></item>
+
+<item>
+<title>FX  
+</title><thumbnail>none</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live/2e0e4b05aa6e428593f3b45b710045b7.m3u8</link>
+</item>
+
+<item>
+<title>Fox Crime  
+</title><thumbnail>none</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live/5028f7ff1d1b4d5f8189690233364737.m3u8
+</link></item>
+
+<item>
+<title>Fox News 
+</title><thumbnail>http://4.bp.blogspot.com/-N0svZX2xtxc/Tv_SQw2sYHI/AAAAAAAAB1o/cT6jxZ95N_U/s1600/foxmoviehd.jpg</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live/1e2041858ca543fa90ec95d28197e907.m3u8</link>
+</item>
+
+<item>
+<title>FX HD 
+</title><thumbnail>http://www.ecklend360.com/_include/images/logos/logo-fx-hd.jpg</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live/2e0e4b05aa6e428593f3b45b710045b7.m3u8</link>
+</item>
+
+
+<item><Title>Lifetime S1</Title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=lifetime4 swfUrl=http://www.livecaster.tv/player/player.swf live=1 pageUrl=http://www.livecaster.tv/embed.php?u=lifetime4</link></item>
+
+<item><Title>Lifetime S2</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=cexop1sm47oqcrh swfUrl=http://player.ilive.to/player.swf live=1 pageUrl=http://www.ilive.to/view/48348/watch-live-Lifetime_(HD)-channel-for-free</link></item>
+
+<item>
+<title>MSNBC HD - News 
+</title><thumbnail>http://www.blogcdn.com/www.engadgethd.com/media/2008/10/msnbc.jpg</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live/7f2989e3f87e4efdb36bac56b64dca62.m3u8</link>
+</item>
+
+<item><Title>MTV</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=y96hrc1tcg0vtcg swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=600&height=450&channel=39948&autoplay=true</link></item>
+
+<item><Title>MyTv Network</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=vo6q1zm4ibi7zkc swfUrl=http://player.ilive.to/player.swf live=1 pageUrl=http://www.ilive.to/view/48206/watch-live-MyTV_Network_(HD)-channel-for-free</link></item>
+ 
+<item><Title>NBC S1</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=q2bufwoa7lkxds3 swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=520&height=370&channel=46459&autoplay=true</link></item>
+
+<item><Title>Nickelodean</Title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=nickkp swfUrl=http://www.livecaster.tv/player/player.swf live=1 pageUrl=http://www.livecaster.tv/embed.php?u=nickkp&vw=670&vh=410</link></item>
+
+<item>
+<title>Nat Geo Wild 
+</title><thumbnail>none</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8</link>
+</item>
+
+<item>
+<title>Nat Geo Adventure 
+</title><thumbnail>none</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8</link>
+</item>
+
+<item><Title>RT News America Medium</Title>
+<link>rtmp://rt.fms-04.visionip.tv/live playpath=RT_US_2 swfUrl=http://rt.com/s/swf/player5.4.viral.swf live=1 pageUrl=http://rt.com/on-air/rt-america-air/</link></item>
+
+<item><Title>RT News America High</Title>
+<link>rtmp://rt.fms-04.visionip.tv/live playpath=RT_US_3 swfUrl=http://rt.com/s/swf/player5.4.viral.swf live=1 pageUrl=http://rt.com/on-air/rt-america-air/</link></item>
+
+<item><Title>RT News America HD <Title>
+<link>rtmp://rt.fms-04.visionip.tv/live playpath=rt-america-live-HD swfUrl=http://rt.com/s/swf/player5.4.viral.swf live=1 pageUrl=http://rt.com/on-air/rt-america-air/</link></item>
+
+<item><Title>Syfy</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=x7uii7mll2b7lh4 swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=600&height=450&channel=46454&autoplay=true</link></item>
+
+<item>
+<title>SKY NEWS HD 
+</title><thumbnail>http://www.imediamonkey.com/wp-content/uploads/2012/09/skynews_tothrefreshresized-266x150.jpg</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live/31b003ab7e7749a798fe00424e3dd9ff.m3u8</link>
+</item>
+
+<item>
+<title>Star World HD 
+</title><thumbnail>none</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live/65f7358b813048a0898f5677e1793cf9.m3u8</link>
+</item>
+
+<item>
+<title>SYFY  
+</title><thumbnail>none</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live/71f197de056e499a85265c03b44bdab1.m3u8</link>
+</item>
+
+<item><Title>TBS</Title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=tbsuu swfUrl=http://www.livecaster.tv/player/player.swf live=1 pageUrl=http://www.livecaster.tv/embed.php?u=tbsuu&vw=600&vh=430</link></item>
+
+<item><Title>TLC</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=x99v7adz8i3ikkm swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=600&height=450&channel=38765&autoplay=true</link></item>
+
+<item><Title>TNT</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=s7d8wd96rhebpng swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=600&height=450&channel=46736&autoplay=true</link></item>
+
+<item><Title>TNT S2</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=rpinavv9wdnj3bj swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=600&height=450&channel=48353&autoplay=true</link></item>
+
+<item><Title>TruTV</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=sfkua8d8yo8jmut swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=600&height=450&channel=45279&autoplay=true</link></item>
+
+<item>
+<title>Travel Channel 
+</title><thumbnail>none</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live/4c136f4cb1fd4f62a583a029c2eb6c77.m3u8</link>
+</item>
+
+<item>
+<title>Trill  
+</title><thumbnail>none</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live/c316ed9333e54442b25077f0bb3cc269.m3u8</link>
+</item>
+
+<item><Title>USA S1</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=h5eovaj1jeegluq swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=600&height=450&channel=38768&autoplay=true</link></item>
+
+<item><Title>USA S2</Title>
+<link>rtmp://redirect.isearch.to/edge playpath=ahwcx2k56oitbkk swfUrl=http://player.ilive.to/player_embed.swf live=1 pageUrl=http://www.ilive.to/embedplayer.php?width=600&height=450&channel=48103&autoplay=true</link></item>
+
+<item><Title>USA S3</Title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=usa9 swfUrl=http://www.livecaster.tv/player/player.swf live=1 pageUrl=http://www.livecaster.tv/embed.php?u=usa9&vw=670&vh=410</link></item>
+
+<item><Title>Weather Nation</Title>
+<link>rtmp://cp77659.live.edgefcs.net/live playpath=0_c6zkpyg0_1@2781 swfUrl=http://cdnbakmi.kaltura.com/p/931702/sp/93170200/flash/kdp3/v3.6.17/kdp3.swf live=1 </link></item>
+
+
+<!-- Last Update: 04.29.2013 by Silverfox -->
+</stream>
+</streams>
