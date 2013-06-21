@@ -1,0 +1,4135 @@
+﻿<?xml version="1.0" ?> 
+<?xml-stylesheet type='text/xsl' href='http://langsongviet.com/fta4vnForum/upload/forum.php'?>
+<!-- Date Created: 05.18.2013 -->
+<!-- Official Site: http://langsongviet.com/fta4vnForum/upload/forum.php -->
+<!-- Channel List: Live TV All Channels -->
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTO1NYMEy48ojK3FeVHHL-C9LE84qImGLFqeeZQ5CS8BCcBD6xg</thumbnail>
+<!-- Last Updated: 06.13.2013 by Silverfox -->
+<channels>
+<channel>
+<name> ->>Vietnam TV - (TV Hai Ngoai)</name>
+<thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcRga29rOEae4t3HwWbTthflaiIwbQI0uQXfX-6OpoiYm_zS6SOQ</thumbnail>
+<info>
+Mời các bạn xem các chương trình truyền hình Thể Thao. Nếu bạn thích TV, bạn có thể donate tặng tiền qua Paypal đến địa chỉ: http://langsongviet.com/fta4vnForum/upload/awcl_dsl.php?do=donation
+Dù ít hay nhiều không quan trọng, chúng tôi đều cảm tạ, tiền quyên tặng giúp chúng tôi phát triển các kênh TV ngày càng tốt hơn.
+</info>
+<items>
+
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>Global TV</title>
+<link>rtmp://unirtmp.tulix.tv/globaltv/myStream.sdp live=1 timeout=10</link>
+<thumbnail>http://www.globaltv.com/uploadedimages/content/schedule/default.jpg?size=140x90</thumbnail>
+</item>
+
+<item>
+<title>IBC Channel 56.5</title>
+<link>rtmp://unirtmp.tulix.tv:1935/globaltv15 playpath=myStream.sdp swfUrl=http://www.streamwebtown.com/mediaplayer/player.swf pageUrl=http://globaltvlive.net/IptvLive/GlobalChannels.htm live=1 timeout=10</link>
+<thumbnail>http://globaltvlive.net/IptvLive/image-GreenGlobal/channels/B-ibc.jpg</thumbnail>
+</item>
+
+<!--Little Saigon TV: Last Update: 06.12.2013 by Silverfox -->
+<item>
+<title>Little Saigon TV</title>
+<link>rtmp://stream.s15.cpanelservices.com/lstvlive/ playpath=livestream swfUrl=http://lstv.mediaserve.tv/player.swf pageUrl=http://lstv.mediaserve.tv/sample_players/live.html live=1 timeout=10</link>
+<thumbnail>http://LangSongViet.com/fta4vnForum/upload/uploaded/26_1371063741.jpg</thumbnail>
+</item>
+
+<!-- Last Update: 05.09.2013 by Silverfox -->
+<item>
+<title>NT TV – Nhat Truong Channel 51.5 – Houston, TX</title>
+<link>rtmp://206.217.221.127/nhattruong/ playpath=ttt_1 swfUrl=http://thvl.vn/vplayer.swf pageUrl=http://nguoiviet.tv/nhat-truong-channel-515/ live=1 timeout=10</link>
+<thumbnail>http://www.viettv24.com/main/images/NhatTruong.JPG</thumbnail>
+</item>
+
+<!-- Last Update: 05.09.2013 by Silverfox -->
+<item>
+<title>Phat Tu Bi TV</title>
+<link>rtmp://206.217.221.127/liveStream/ playpath=ptb_1 swfUrl=http://thvl.vn/vplayer.swf pageUrl=http://nguoiviet.tv/phat-tu-bi/ live=1 timeout=10</link>
+<thumbnail>https://lh3.ggpht.com/n99gSE9Y4gPvG5nz8XhlqRGE8BvEBm3l_h9XodBRZ6KmHjj889V63WC2-oeeCJuVLLU=w124</thumbnail>
+</item>
+
+<!-- Last Update: 05.09.2013 by Silverfox -->
+<item>
+<title>Pho Viet TV – Nam California</title>
+<link>rtmp://unirtmp.tulix.tv:1935/globaltv9 playpath=myStream.sdp swfUrl=http://www.streamwebtown.com/mediaplayer/player.swf  pageUrl=http://nguoiviet.tv/phoviettv/ live=1 timeout=10</link>
+<thumbnail>http://nguoiviet.tv/images/tv/phoviettv70x40.png</thumbnail>
+</item>
+
+<!-- Last Update: 06.12.2013 by Silverfox -->
+<item>
+<title>Saigon TV</title>
+<link>rtmp://74.63.219.99:1935/sgvp playpath=myStream.sdp swfUrl=http://saigontv.us/includes/flash/saigontv.swf pageUrl=http://saigontv.us/ live=1 timeout=10</link>
+<thumbnail>http://www.vietfilmfest.com/2011/images/saigon-tv-logo.jpg</thumbnail>
+</item>
+
+<!-- Last Update: 06.12.2013 by Silverfox -->
+<item>
+<title>SET TV – Channel 57.4</title>
+<link>rtmp://206.217.221.127/set/ playpath=set_1 swfUrl=http://thvl.vn/vplayer.swf pageUrl=http://set574.com/ live=1 timeout=10</link>
+<thumbnail>http://googletivi.com/images/tv/setv.jpg</thumbnail>
+</item>
+
+<item>
+<title>TU BI TV</title>
+<link>rtmp://unirtmp.tulix.tv:1935/globaltv4 playpath=myStream.sdp swfUrl=http://www.streamwebtown.com/mediaplayer/player.swf pageUrl=http://globaltvlive.net/IptvLive/pages/tubi.htm</link>
+<thumbnail>http://globaltvlive.net/IptvLive/image-GreenGlobal/channels/B-tubi.jpg</thumbnail>
+</item>
+
+<!-- Last Update: 06.12.2013 by Silverfox -->
+<item>
+<title>VAN TV - Houston 55.2</title>
+<link>rtmp://live245.4ktech.net/ivan playpath=livestream?adbe-live-event=liveevent  swfUrl=http://vantvonline.com/player/4ktech.commercial-3.2.5.swf?0.5163125977961689 pageUrl=http://vantv552.com/ live=1 timeout=10</link>
+<thumbnail>http://www.552vantv.com/Van_TV_Logo__1.png</thumbnail>
+</item>
+
+<!-- Last Update: 06.12.2013 by Silverfox -->
+<item>
+<title>VBS TV - Channel 57.6 </title>
+<link>rtmp://74.63.219.99:1935/vbsvp playpath=myStream.sdp swfUrl=http://vietpho.com/ext/js/3/mediaplayer.swf pageUrl=http://vietpho.com/online-channels.php?id=6&gID=0&page=1 live=1 timeout=10</link>
+<thumbnail>http://vbsdistribution.com/images/forms/vbs_logo.png</thumbnail>
+</item>
+
+<!--Viettv24 BOLSA: Last Update: 06.12.2013 by Silverfox -->
+<item>
+<title>Viettv24 - Viet Bolsa</title>
+<link>rtmp://206.217.221.127/vietbolsa playpath=vbolsa_1 swfUrl=http://www.viettv24.com/player.swf pageUrl=http://www.viettv24.com/main/?language=vi live=1 timeout=10</link>
+<thumbnail>http://www.viettv24.com/main/images/Viet%20Bolsa.jpg</thumbnail>
+</item>
+
+<!--Viettv24 - MTV: NEED UPDATE Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>Viettv24 - MTV (Offline)</title>
+<link>rtmp://www.evietmusic.com/liveStream playpath=mtv_1 swfUrl=http://www.viettv24.com/player.swf pageUrl=http://www.viettv24.com/main/?language=vi  live=1 timeout=10</link></link>
+<thumbnail>http://www.viettv24.com/main/images/Vmusic_logo.jpg</thumbnail>
+</item>
+
+<!--Viettv24 Dallas Last Update: 06.13.2013 by Silverfox -->
+<item>
+<title>Viettv24 - VietDallas</title>
+<link>rtmp://206.217.221.127/vietdallas playpath=vdallas_1 swfUrl=http://www.viettv24.com/player.swf pageUrl=http://www.viettv24.com/main/?language=vi live=1 timeout=10</link>
+<thumbnail>http://www.viettv24.com/main/images/Viet%20Dallas.jpg</thumbnail>
+</item>
+
+<!--Viettv24 Florida: Last Update: 06.12.2013 by Silverfox -->
+<item>
+<title>Viettv24 - Viet Florida</title>
+<link>rtmp://206.217.221.127/vietflorida playpath=vflorida_1 swfUrl=http://www.viettv24.com/player.swf pageUrl=http://www.viettv24.com/main/?language=vi live=1 timeout=10</link>
+<thumbnail>http://www.viettv24.com/main/images/Viet%20Florida.jpg</thumbnail>
+</item>
+
+<!--Last Update: 06.13.2013 by Silverfox -->
+<item>
+<title>Viettv24 - Ngoi sao Tuong Lai</title>
+<link>rtmp://206.217.221.127/ngstl playpath=ngstl_1 swfUrl=http://www.viettv24.com/player.swf pageUrl=http://www.viettv24.com/main/?language=vi live=1 timeout=10</link>
+<thumbnail>http://www.viettv24.com/main/images/Ngoi%20sao%20tuong%20lai.jpg</thumbnail>
+</item>
+
+<!--Viettv24 Vietsaigon: Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>Viettv24 - VietSaigon</title>
+<link>rtmp://206.217.221.127/vietsaigon playpath=vsaigon_1 swfUrl=http://www.viettv24.com/player.swf pageUrl=http://www.viettv24.com/main/?language=vi live=1 timeout=10</link>
+<thumbnail>http://www.viettv24.com/main/images/Viet%20Sai%20Gon.jpg</thumbnail>
+</item>
+
+<!--Viettv24 Uc Chau: Last Update: 06.12.2013 by Silverfox -->
+<item>
+<title>Viettv24 - Viet Uc Chau</title>
+<link>rtmp://stream.s15.cpanelservices.com/lstvlive playpath=livestream swfUrl=http://www.viettv24.com/player.swf pageUrl=http://www.viettv24.com/main/?language=vi live=1 timeout=10</link>
+<thumbnail>http://www.viettv24.com/main/images/Viet%20Uc%20Chau.jpg</thumbnail>
+</item>
+
+<!--Viettv24 Toronto: Last Update: 06.12.2013 by Silverfox -->
+<item>
+<title>Viettv24 - Viet Toronto</title>
+<link>rtmp://206.217.221.127/viettoronto playpath=vtoronto_1 swfUrl=http://www.viettv24.com/player.swf pageUrl=http://www.viettv24.com/main/?language=vi live=1 timeout=10</link>
+<thumbnail>http://www.viettv24.com/main/images/Viet%20Toronto.jpg</thumbnail>
+</item>
+
+<!-- Last Update: 06.12.2013 by Silverfox -->
+<item>
+<title>Viettv24 - VpopTV</title>
+<link>rtmp://206.217.221.127/liveStream playpath=vpoptv_1 swfUrl=http://www.viettv24.com/player.swf pageUrl=http://www.viettv24.com/main/?language=vi live=1 timeout=10</link>
+<thumbnail>http://www.viettv24.com/main/images/VpopTV_logo.jpg</thumbnail>
+</item>
+
+<!-- Last Update: 04.10.2013 by Silverfox -->
+<item>
+<title>VietFace TV - US Canada</title>
+<link>rtmp://206.217.221.127/vietface/vface_1 swfUrl=http://thvl.vn/vplayer.swf pageUrl=http://nguoiviet.tv/vietfacetv live=1 timeout=10</link>
+<thumbnail>http://LangSongViet.com/fta4vnForum/upload/uploaded/26_1365560022.png</thumbnail>
+</item>
+
+<item>
+<title>VietFaceTV - Australia</title>
+<link>rtmp://206.217.221.127/vietface/ playpath=vface_1 swfUrl=http://thvl.vn/vplayer.swf pageUrl=http://nguoiviet.tv/vietface-tv-australia/ live=1 timeout=10</link>
+<thumbnail>http://LangSongViet.com/fta4vnForum/upload/uploaded/26_1365560022.png</thumbnail>
+</item>
+
+<item>
+<title>VietFaceTV - San Jose</title>
+<link>rtmp://206.217.221.127/vietface playpath=vfaces_1 swfUrl=http://www.viettv24.com/player.swf pageUrl=http://www.viettv24.com/main/?language=vi live=1 timeout=10</link>
+<thumbnail>http://LangSongViet.com/fta4vnForum/upload/uploaded/26_1365560022.png</thumbnail>
+</item>
+
+<!-- Last Update: 04.07.2013 by Silverfox -->
+<item>
+<title>Viettoday TV</title>
+<link>http://shared.streamwebtown.com/dong_sg</link>
+<thumbnail>http://LangSongViet.com/fta4vnForum/upload/uploaded/26_1371064971.png</thumbnail>
+</item>
+
+<!-- Last Update: 04.07.2013 by Silverfox -->
+<item>
+<title>Viet Christian TV</title>
+<link>mms://live.vietchristian.com/tv</link>
+<thumbnail>http://LangSongViet.com/fta4vnForum/upload/uploaded/26_1371065569.png</thumbnail>
+</item>
+
+<!-- Last Update: 05.09.2013 by Silverfox -->
+<item>
+<title>VietPower TV</title>
+<link>rtmp://unirtmp.tulix.tv:1935/globaltv3 playpath=myStream.sdp swfUrl=http://www.streamwebtown.com/mediaplayer/player.swf pageUrl=http://globaltvlive.net/IptvLive/pages/vptv.htm live=1 timeout=10</link>
+<thumbnail>http://globaltvlive.net/IptvLive/image-GreenGlobal/channels/B-vptv.jpgg</thumbnail>
+</item>
+
+<item>
+<title>VMTV - Karaoke TV HD</title>
+<link>rtmp://unirtmp.tulix.tv:1935/globaltv5 playpath=myStream.sdp swfUrl=http://www.streamwebtown.com/mediaplayer/player.swf pageUrl=http://globaltvlive.net/IptvLive/pages/vmtv.htm live=1 timeout=10</link>
+<thumbnail>http://globaltvlive.net/IptvLive/image-GreenGlobal/channels/B-vmtv.jpg</thumbnail>
+</item>
+
+<item>
+<!-- Last Update: 06.12.2013 by Silverfox -->
+<item>
+<title>VNA TV - Channel 57.3</title>
+<link>http://shared.streamwebtown.com/vnitv</link>
+<thumbnail>http://LangSongViet.com/fta4vnForum/upload/uploaded/26_1371059261.png</thumbnail>
+</item>
+
+<!-- Last Update: 06.06.2013 by Silverfox -->
+<item>
+<title>VNBC TV</title>
+<link>rtmp://unirtmp.tulix.tv:1935/globaltv6 playpath=myStream.sdp swfUrl=http://www.streamwebtown.com/mediaplayer/player.swf pageUrl=http://globaltvlive.net/IptvLive/pages/vnbc.htm live=1 timeout=10</link>
+<thumbnail>http://globaltvlive.net/IptvLive/image-GreenGlobal/channels/B-vnbc.jpg</thumbnail>
+</item>
+</items>
+</channel>
+
+<channel>
+<name> ->>TV Viet nam - (TV Trong Nuoc)</name>
+<thumbnail>http://langsongviet.com/fta4vnForum/upload/uploaded/5_1363744171.png</thumbnail>
+<info>
+Mời các bạn xem các chương trình truyền hình Thể Thao. Nếu bạn thích TV, bạn có thể donate tặng tiền qua Paypal đến địa chỉ: http://langsongviet.com/fta4vnForum/upload/awcl_dsl.php?do=donation
+Dù ít hay nhiều không quan trọng, chúng tôi đều cảm tạ, tiền quyên tặng giúp chúng tôi phát triển các kênh TV ngày càng tốt hơn.
+</info>
+<items>
+
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>Life TV</title>
+<link>rtmp://video.lifetv.vn/live/Stream1</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 05.02.2013 by Silverfox -->
+<item>
+<title>Nhac Cua Tui</title>
+<link>rtmp://123.30.134.108:1935/live/nctlive timeout=10</link>
+<thumbnail>http://www.tivi.goldpagemedia.com/images/upload/channel/20121110/logo/source/1352515330_2.jpg</thumbnail>
+</item>
+
+<!-- Last Update: 05.20.2013 by Silverfox -->
+<item>
+<title>iTV - Music</title>
+<link>rtmp://live.kenhitv.vn/live/ playpath=itvw_hhh swfUrl=http://player.longtailvideo.com/player.swf pageUrl=http://www.xemtruyenhinh.net/ live=true timeout=10</link>
+<thumbnail>http://4.bp.blogspot.com/_SSxTMXDimpc/TS6GraPp1KI/AAAAAAAAAEg/9jov2N-u4f4/s1600/itv.gif</thumbnail>
+</item>
+
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>HTVC - Phim HD Tong Hop</title>
+<link>rtmp://203.205.0.60:1935/live/phim swfUrl=http://www.htvc.vn/swfs/StrobeMediaPlayback.swf pageUrl=http://www.htvc.vn/ live=true timeout=10</link>
+<thumbnail>http://www.htvc.vn/files/banner/69/70/phim_tt.gif</thumbnail>
+</item>
+
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>HTVC - Ca Nhac</title>
+<link>rtmp://203.205.0.60:1935/live/canhac swfUrl=http://www.htvc.vn/swfs/StrobeMediaPlayback.swf pageUrl=http://www.htvc.vn/ live=true timeout=10</link>
+<thumbnail>http://2.bp.blogspot.com/-6kckH68O7mo/TtcajHPZ0TI/AAAAAAAAAhE/PkeeJp0m5vE/s1600/HTV2.gif</thumbnail>
+</item>
+
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>HTVC - Gia Đinh</title>
+<link>rtmp://203.205.0.60:1935/live/giadinh swfUrl=http://www.htvc.vn/swfs/StrobeMediaPlayback.swf pageUrl=http://www.htvc.vn/ live=true timeout=10</link>
+<thumbnail>http://2.bp.blogspot.com/-Z2a6p47GYOE/TtcajzGqGtI/AAAAAAAAAhM/KkaEjNfndbA/s1600/HTV3.gif</thumbnail>
+</item>
+
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>HTVC - Du Lich va Cuoc Song</title>
+<link>rtmp://203.205.0.60:1935/live/dulich swfUrl=http://www.htvc.vn/swfs/StrobeMediaPlayback.swf pageUrl=http://www.htvc.vn/ live=true timeout=10</link>
+<thumbnail>http://1.bp.blogspot.com/-XougkSm2GG8/TkNFL8Q5-cI/AAAAAAAAAa8/NniQoXdQ57k/s1600/htv4.PNG</thumbnail>
+</item>
+
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>HTVC - Phu Nu</title>
+<link>rtmp://203.205.0.60:1935/live/phunu swfUrl=http://www.htvc.vn/swfs/StrobeMediaPlayback.swf pageUrl=http://www.htvc.vn/ live=true timeout=10</link>
+<thumbnail>http://2.bp.blogspot.com/-Re2v12BkHao/TtchNbSA8pI/AAAAAAAAAhs/ms02VVTponc/s1600/HTV7.gif</thumbnail>
+</item>
+
+<!-- Last Update: 05.09.2013 by Silverfox -->
+<item>
+<title>HTV2 - HTV2</title>
+<link>rtmp://m35.megafun.vn/hctv playpath=vstv001 swfUrl=http://thvl.vn/vplayer.swf  pageUrl=http://www.tivi.goldpagemedia.com/channel/htv2.35A4E982.html live=true timeout=10</link>
+<thumbnail>http://www.tivi.goldpagemedia.com/images/upload/channel/20130123/logo/source/1358926156_htv2.jpg</thumbnail>
+</item>
+
+<!-- Last Update: 05.09.2013 by Silverfox -->
+<item>
+<title>HTV7 - Thong Tin, Giai Tri, The Thao</title>
+<link>rtmp://m35.megafun.vn/hctv playpath=vstv015 swfUrl=http://thvl.vn/vplayer.swf  pageUrl=http://www.tivi.goldpagemedia.com/channel/ttin-giai-tri-tthao.35A4E91D.html live=true timeout=10</link>
+<thumbnail>http://www.tivi.goldpagemedia.com/images/upload/channel/20121105/logo/source/1352111186_tv_home_12.jpg</thumbnail>
+</item>
+
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>SCTV 1 - Kenh Hai</title>
+<link>http://112.197.2.16:1935/live/SDsctv2.stream/playlist.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-_py2zcV1OUU/TexjT58wesI/AAAAAAAAAUA/jEdkMWakm5E/s1600/sctv1.jpg</thumbnail>
+</item>
+ 
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>SCTV 2 - Am Nhac Quoc Te</title>
+<link>http://112.197.2.16:1935/live/SDsctv2.stream/playlist.m3u8</link>
+<thumbnail>http://3.bp.blogspot.com/-x7mfg7oUNIE/TexjUWF1GGI/AAAAAAAAAUE/WGmCcndbnbg/s1600/sctv2.jpg</thumbnail>
+</item>
+ 
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>SCTV 4 - Kenh Tong Hop</title>
+<link>http://112.197.2.16:1935/live/SDsctv4.stream/playlist.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-aK9IKreVWFc/TexjVbp3NTI/AAAAAAAAAUM/4Lf_qmHQ_4o/s1600/sctv4.jpg</thumbnail>
+</item>
+
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>SCTV 6 - Kenh Song Nhac</title>
+<link>http://112.197.2.16:1935/live/SDsctv6.stream/playlist.m3u8</link>
+<thumbnail>http://3.bp.blogspot.com/-IIjtP_rnmP4/TexjWQh4PFI/AAAAAAAAAUU/VvILXiZLMrQ/s1600/sctv6.jpg</thumbnail>
+</item>
+ 
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>SCTV 7 - San Khau Van Nghe Tong Hop</title>
+<link>http://112.197.2.16:1935/live/SDsctv7.stream/playlist.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-ocktnMqBnpI/TexjWzVfTpI/AAAAAAAAAUY/MnkKeg_THfg/s1600/sctv7.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>SCTV 9 - Kenh Phim Chau A</title>
+<link>http://112.197.2.16:1935/live/SDsctv9.stream/playlist.m3u8</link>
+<thumbnail>http://3.bp.blogspot.com/-iqv41PQaYTw/TexjX8c3V7I/AAAAAAAAAUg/mD7H3h4J5eg/s1600/sctv9.jpg</thumbnail>
+</item>
+
+<item>
+<title>SCTV 11 - Hat Tren Truyen Hinh</title>
+<link>http://112.197.2.16:1935/live/SDsctv11.stream/playlist.m3u8</link>
+<thumbnail>http://luaviet.co/content/uploads/2011/10/Logo-SCTV11.jpg</thumbnail>
+</item>
+
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>SCTV 14 - Kenh Phim Tieng Viet</title>
+<link>http://112.197.2.16:1935/live/SDsctv14.stream/playlist.m3u8</link>
+<thumbnail>http://image2.vctv.vn/Images/Uploaded/Share/2011/11/09/SCTV14.jpg</thumbnail>
+</item>
+ 
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>SCTV 15 - Kenh The Thao</title>
+<link>http://112.197.2.16:1935/live/SDsctv15.stream/playlist.m3u8</link>
+<thumbnail>http://liveradio.super-resources.com/wp-content/uploads/2011/12/sctv15.jpg</thumbnail>
+</item>
+ 
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>SCTV 16 - Kenh Phim Truyen</title>
+<link>http://112.197.2.16:1935/live/sctv16.stream/playlist.m3u8</link>
+<thumbnail>http://www.dailytv.net/uploads/thumbs/592050dda-1.jpg</thumbnail>
+</item>
+ 
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>SCTV 17 - Kenh Phim Truyen Chon Loc</title>
+<link>http://112.197.2.16:1935/live/SDsctv17.stream/playlist.m3u8</link>
+<thumbnail>http://www.dailytv.net/uploads/thumbs/238545668-1.jpg</thumbnail>
+</item>
+ 
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>SCTV 18 - Kenh The Thao HD</title>
+<link>http://112.197.2.16:1935/live/SDsctv18.stream/playlist.m3u8</link>
+<thumbnail>http://www.dailytv.net/uploads/thumbs/d93043d8b-1.jpg</thumbnail>
+</item>
+ 
+<!-- Last Update: 05.20.2013 by Silverfox -->
+<item>
+<title>VTV 1</title>
+<link>rtmp://m35.megafun.vn/hctv playpath=vstv002  swfUrl=http://megafun.vn/common/player/player.swf pageUrl=http://www.tivi360.com/2011/07/vtv1-xem-vtv1-vtv1-online-sever-megafun.html live=true timeout=1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtv1_vn.jpg</thumbnail>
+<epg>http://vtv.vn/LichPS/Index</epg>
+</item>
+ 
+<!-- Last Update: 05.20.2013 by Silverfox -->
+<item>
+<title>VTV 2</title>
+<link>rtmp://111.91.233.198:1935/live playpath=vtv2_h swfUrl=http://www.vtc.com.vn/player_akamai_low.swf  pageUrl=http://www.vtc.com.vn/live/10/VTV2.html</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtv2_vn.jpg</thumbnail>
+</item>
+
+<!-- Last Update: 05.20.2013 by Silverfox -->
+<item>
+<title>VTV 3</title>
+<link>rtmp://m35.megafun.vn/hctv playpath=vstv004 swfUrl=http://megafun.vn/common/player/player.swf pageUrl=http://www.tivi360.com/2011/07/vtv3-kenh-vtv3-sever-megafun.html live=true timeout=1</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtv3_vn.jpg</thumbnail>
+</item>
+ 
+<!-- Last Update: 05.20.2013 by Silverfox -->
+<item>
+<title>VTV 4</title>
+<link>rtmp://111.91.233.197:1935/live playpath=vtv4_h swfUrl=http://www.vtc.com.vn/player_akamai_low.swf  pageUrl=http://www.vtc.com.vn/live/12/VTV4.html</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtv4_vn.jpg</thumbnail>
+</item>
+ 
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>VTV 6</title>
+<link>rtmp://m35.megafun.vn/hctv playpath=vstv014 swfUrl=http://megafun.vn/common/player/player.swf pageUrl=http://www.tivi360.com/2012/08/kenh-vtv6-online.html#main live=true timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtv6_vn.jpg</thumbnail>
+</item>
+ 
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>VTC 1</title>
+<link>rtmp://111.91.233.197:1935/live playpath=vtc11_h swfUrl=http://www.vtc.com.vn/player_akamai_low.swf live=true pageUrl=http://www.vtc.com.vn/ timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtc_1.jpg</thumbnail>
+</item>
+
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>VTC2</title>
+<link>rtmp://111.91.233.197:1935/live playpath=vtc21_h swfUrl=http://www.vtc.com.vn/player_akamai_low.swf live=true pageUrl=http://www.vtc.com.vn/ timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtc_2.jpg</thumbnail>
+</item>
+
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>VTC10</title>
+<link>rtmp://111.91.233.197:1935/live playpath=vtc101_h swfUrl=http://www.vtc.com.vn/player_akamai_low.swf live=true pageUrl=http://www.vtc.com.vn/ timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtc_10.jpg</thumbnail>
+</item> 
+ 
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>TRT 1 - Thua Thien Hue</title>
+<link>rtmp://118.69.176.149/live/trt swfUrl=http://tv.xunghe.vn/player.swf pageUrl=http://tv.xunghe.vn/ live=true timeout=10</link>
+<thumbnail>http://tv.xunghe.vn/images/logo/hue.gif</thumbnail>
+</item>
+ 
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>THTG - Tien Giang</title>
+<link>mms://118.69.201.97/rtv live=true timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tien_giang_tv.jpg</thumbnail>
+</item>
+</items>
+<items>
+<name>Truyen Hinh Đia Phuong (Tinh, Thanh Pho)</name>
+<info>Moi cac ban xem TV Viet Nam. Neu ban thich TV, ban co the donate tang tien qua Paypal den dia chi http://langsongviet.com/fta4vnForum/upload/awcl_dsl.php?do=donation, it hay nhieu khong quan trong chung toi deu cam ta, tien quyen tang giup chung toi phat trien cac kenh TV ngay cang tot hon.</info>
+<thumbnail>http://LangSongViet.com/fta4vnForum/upload/uploaded/26_1365180982.png</thumbnail>
+<language>Vietnamese</language>
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<items>
+<item>
+<title>VTV - Đa Nang</title>
+<link>rtmp://222.255.167.149/live/livestream swfUrl=http://megafullvn.com/playerhd/player.swf pageUrl=http://megafullvn.com/tivi/kenh/vtvdanang.php live=true timeout=10</link>
+<thumbnail>http://1.bp.blogspot.com/-FGtNN96Jgfc/TfzQX4u7kxI/AAAAAAAAAVw/gfI8DEZC52g/s1600/vtvdanang.jpg</thumbnail>
+</item>
+ 
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>VTV - Can Tho 1</title>
+<link>rtmp://113.161.204.167/live/livestream swfUrl=http://megafullvn.com/playerhd/player.swf pageUrl=http://megafullvn.com/tivi/kenh/vtvcantho1.php live=true timeout=10</link>
+<thumbnail>http://2.bp.blogspot.com/-AxH5oUnFf2o/TkFsL-aRdUI/AAAAAAAAAZA/44M1sCrmWN0/s1600/vtvcantho1.gif</thumbnail>
+</item>
+
+<!-- Last Update: 04.12.2013 by Silverfox -->
+<item>
+<title>VTV - Can Tho 2</title>
+<link>rtmp://113.161.204.168/live/livestream swfUrl=http://megafullvn.com/playerhd/player.swf pageUrl=http://megafullvn.com/tivi/kenh/vtvcantho2.php live=true timeout=10</link>
+<thumbnail>http://4.bp.blogspot.com/-wyqLDsNMiik/TkFsMo2QVhI/AAAAAAAAAZE/_wqzrao583Q/s1600/vtvcantho2.gif</thumbnail>
+</item>
+
+<!-- Last Update: 05.02.2013 by Silverfox -->
+<item>
+<title>Lam Đong TV</title>
+<link>rtmp://m22.megafun.vn/hctv/vstv022 timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/lam_dong_tv.jpg</thumbnail>
+</item>
+
+<!-- Last Update: 05.02.2013 by Silverfox -->
+<item>
+<title>Vinh Long TV</title>
+<link>rtmp://123.30.108.77/live/THVL1/THVL1 swfURL=http://www.tivi.goldpagemedia.com/static/site/flash/player2.swf pageUrl=http://www.tivi.goldpagemedia.com/channel/vinh-long.35A4E904.html live=true timeout=10</link>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/01/vinh_long_tv1.jpg</thumbnail>
+</item>
+
+</items>
+</channel>
+
+<channel>
+<name> ->> News Channels - Tin Tuc</name>
+<thumbnail>http://live-tv-stream.googlecode.com/svn/icons/news.png</thumbnail>
+<items>
+
+<item>
+<title>BBC World News </title>
+<thumbnail>http://www.bbc.co.uk/tv/i/img/bbc-world-news-logo.png</thumbnail>
+<link>rtmp://media2.lsops.net/live/ playpath=bbcworld1_en_high.sdp swfURL=http://www.livestation.com/flash/player/5.4/player.swf swfVfy=true live=true timeout=10</link>
+</item>
+
+<item>
+<title>CCTV News</title>
+<link>http://mi3.gv.filmon.com:1935/live/1675.high.stream/playlist.m3u8</link>
+</item>
+
+<item>
+<Title>COMEDY CENTRAL</Title>
+<link>rtmp://198.144.153.138:443/kuyo playpath=comedddd?id=3131352e3235322e39342e3339 swfUrl=http://yukons.net/yukp.swf live=1 pageUrl=http://yukons.net/embed/36333646364436353634363436343634/3c8b4d33f5e0ede5330d1bf03651ebd7/595/380 conn=S:OK timeout=10</link>
+</item>
+
+<item>
+<title> CNN News - US</title>
+<link>rtmp://a.cdn.msnbclive.eu/edge/cnn_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://blog.livenewschat.tv/situation-chatroom/ swfVfy=true live=true timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cnn_usa.jpg</thumbnail>
+</item>
+
+<item>  
+<title>CNN International 1</title>
+<thumbnail>http://blog.camera.org/archives/cnn-logo_1.jpg</thumbnail>
+<link>rtsp://media2.lsops.net:554/live/cnn_en_high.sdp</link>
+</item>
+
+<item>
+<title>CNN International 2</title>
+<link>rtmp://media2.lsops.net/live/ playpath=cnn_en_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/channels/66-cnn-international" swfVfy=true live=true timeout=10</link>
+<thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gbjm3.png</thumbnail>
+</item>
+
+<item>
+<Title>CNN International 3</Title>
+<link>http://media7.lsops.net:554/live/cnn_en_high.sdp/chunklist.m3u8</link>
+<thumbnail>http://maxviewmedia.com/CP/cnn.png</thumbnail>
+</item>
+
+<item>  
+<title>CNBC</title>
+<thumbnail>http://images1.wikia.nocookie.net/__cb20070810074157/wikiality/images/6/67/CNBC_Logo.jpg</thumbnail>
+<link>rtmp://edge.isearch.to/edge playpath=awr6lcvpdkxdjh0 swfURL=http://player.ilive.to/player_ilive.swf live=1 pageURL=http://www.ilive.to/view/48208/watch-livE-CNBCstreaming-channel</link>
+</item>
+
+<item>
+<title>DW TV - News</title>
+<link>rtmp://cp135358.live.edgefcs.net/live/ playpath=dw_fl_tv-asiaplus_m@s12813?auth=daEcjd5dLbodeaAaxbjanaJaCcdbraGbGaH-brVFwW-b4-vIvxqCuErlJAq&aifp=001 swfUrl=http://mediacenter.dw.de/js/jwplayer/player.swf pageUrl=http://www.tivi.goldpagemedia.com/channel/dw-tv-tin-tuc-duc.35A4E9AB.html live=1 timeout=10</link>
+<thumbnail>http://www.tivi.goldpagemedia.com/images/upload/channel/20130325/logo/source/1364185768_dwtv.jpg</thumbnail>
+</item>
+
+<item>
+<title>France 2</title>
+<thumbnail>http://www.tivi.goldpagemedia.com/images/upload/channel/20121106/logo/source/1352168970_ttv.jpg</thumbnail>
+<link>rtsp://stream1.france24.yacast.net/f24_livefr/rtx timeout=10</link>
+</item>
+
+<item>  
+<title>EURONEWS</title>
+<thumbnail>http://www.act-responsible.org/ACT/underconstruction/img/euronews.jpg</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//3F35C4428A0D4004A38FF0ADBA7664F4.m3u8?bitrate=800</link>
+</item>
+
+<title>EuroNews</title>
+<link>http://mi3.gv.filmon.com:1935/live/1672.high.stream/playlist.m3u8</link>
+</item>
+
+<item>  
+<title>FOX  NEWS</title>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Fox_News_Channel.svg/200px-Fox_News_Channel.svg.png</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//1e2041858ca543fa90ec95d28197e907.m3u8?bitrate=800</link>
+</item>
+
+<item>   
+<title>FOX</title>
+<thumbnail>http://images.bwwstatic.com/tvnetworklogos/sm13D28F41-F252-A720-A00B65900871D496.jpg</thumbnail>
+<link>rtmp://edge.isearch.to/edge playpath=68ackspem808lbf swfURL=http://player.ilive.to/player_ilive.swf live=1 pageURL=http://www.ilive.to/view/40883/watch-livE-USA_FOX.streaming-channel</link>
+</item>
+
+<item>  
+<title>FRANCE 24</title>
+<thumbnail>http://www.currybet.net/images/articles/tdf/france24-logo.gif
+</thumbnail><link>mms://stream1.france24.yacast.net/f24_liveen</link>
+</item>
+
+<item>  
+<title>FX HD</title>
+<thumbnail>http://www.ecklend360.com/_include/images/logos/logo-fx-hd.jpg
+</thumbnail><link>http://fw01.livem3u8.me.totiptv.com/live//2e0e4b05aa6e428593f3b45b710045b7.m3u8?bitrate=800</link>
+</item>
+
+<item>  
+<title>MSNBC HD</title>
+<thumbnail>http://www.blogcdn.com/www.engadgethd.com/media/2008/10/msnbc.jpg</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live/7f2989e3f87e4efdb36bac56b64dca62.m3u8</link>
+</item>
+
+<item>
+<Title>Fox Business - News</Title>
+<link>http://live.webcaston.com:1935/live/channel/aaj01/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/xx/xm_fox_business_news.png</thumbnail>
+</item>
+
+<item>
+<title>MSNBC</title>
+<link>rtmp://c.cdn.msnbclive.eu/edge/msnbc_live swfURL=http://msnbclive.eu/player.swf pageURL=http://blog.livenewschat.tv/rockinroosters/ live=1 timeout=10<link>
+<thumbnail>www.realtvcritics.com/wp-content/uploads/2011/07/msnbc-logo1.jpg</thumbnail>
+</item>
+
+<item>
+<title>NHK Wolrd HD</title>
+<link>rtmp://ny-1.srv.fivecool.net/nhkw playpath=gwm swfUrl=http://www3.nhk.or.jp/nhkworld/common/player/flv/player_live.swf?instance=23245 pageUrl=http://www.tivi.goldpagemedia.com/channel/nhk-wolrd-hd.35A4E960.html live=true timeout=10</link>
+<thumbnail>http://chclip.com/seyretfiles/localvideos/Miracle_Logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>NEWS X</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=newsx swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=16 timeout=15</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>  
+<title>NBC HD</title>
+<thumbnail>http://www.midstatetv.com/images/channel_logos/HD%20Channels/5.11_NBC_hd.jpg</thumbnail>
+<link>rtmp://edge.isearch.to/edge playpath=cqhm3klmkzmbrez swfURL=http://player.ilive.to/player_ilive.swf live=1 pageURL=http://www.ilive.to/view/48043/watch-livE-NBC_{HD}streaming-channel</link>
+</item>
+
+<item>
+<title>Press TV Global News</title>
+<link>rtmp://mtv.fms-01.visionip.tv/live playpath=mtv-ptv-live-25f-16x9-SDh?ref=www.presstv.ir&USER=MTV+-+PTV+Stream swfUrl=http://embeddedplayer.visionip.tv/data/swf/1f92659aabbee91b48fdc3022f92d553964/player.swf pageUrl=http://www.tivi.goldpagemedia.com/channel/press-tv-global-news.35A4E9A9.html live=true timeout=10</link>
+<thumbnail>http://www.tivi.goldpagemedia.com/images/upload/channel/20130325/logo/source/1364185633_presstv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Russia Today</title>
+<link>rtmp://rt.fms.visionip.tv/live playpath=RT_US_3 swfUrl=http://player.longtailvideo.com/player.swf?&streamer=rtmp://rt.fms.visionip.tv/live&file=RT_US_3.flv&autostart=true&skin=&logo=http://farm7.static.flickr.com/6204/6060918535_538d56996c_z.jpg&controlbar=over&stretching=exactfit pageUrl=http://www.tivi.goldpagemedia.com/channel/russia-today.35A4E9AA.html live=true timeout=10</link>
+<thumbnail>http://www.tivi.goldpagemedia.com/images/upload/channel/20130325/logo/source/1364185714_rttv.jpg</thumbnail>
+</item>
+
+<item>
+<Title>Russia Today - Medium</Title>
+<link>rtmp://rt.fms-04.visionip.tv/live playpath=RT_US_2 swfUrl=http://rt.com/s/swf/player5.4.viral.swf live=1 pageUrl=http://rt.com/on-air/rt-america-air/ timeout=10</link>
+<thumbnail>http://www.tivi.goldpagemedia.com/images/upload/channel/20130325/logo/source/1364185714_rttv.jpg</thumbnail>
+</item>
+
+<item>
+<Title>Russia Today - High</Title>
+<link>rtmp://rt.fms-04.visionip.tv/live playpath=RT_US_3 swfUrl=http://rt.com/s/swf/player5.4.viral.swf live=1 pageUrl=http://rt.com/on-air/rt-america-air/ timeout=10</link>
+<thumbnail>http://www.tivi.goldpagemedia.com/images/upload/channel/20130325/logo/source/1364185714_rttv.jpg</thumbnail>
+</item>
+
+<item>
+<Title>Russia Today - HD <Title>
+<link>rtmp://rt.fms-04.visionip.tv/live playpath=rt-america-live-HD swfUrl=http://rt.com/s/swf/player5.4.viral.swf live=1 pageUrl=http://rt.com/on-air/rt-america-air/ timeout=10</link>
+<thumbnail>http://www.tivi.goldpagemedia.com/images/upload/channel/20130325/logo/source/1364185714_rttv.jpg</thumbnail>
+</item>
+
+<item>  
+<title>SKY NEWS HD</title>
+<thumbnail>http://www.theidentgallery.com/skynewshd/2010/SNHD-2010-STING-1-1.jpg</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//31b003ab7e7749a798fe00424e3dd9ff.m3u8?bitrate=800</link>
+</item>
+
+</items>
+</channel>
+
+<channel>
+<name> ->> Movies Channels - Phim Truc Tuyen</name>
+<thumbnail>http://images.wikia.com/logopedia/images/3/3f/The_Movie_Channel_1982.png</thumbnail>
+
+<items>
+
+<item>
+<title>Asian Movies</title>
+<link>rtmp://edge.isearch.to/edge playpath=7rfuhjo3hs7g7tq swfUrl=http://player.ilive.to/player_ilive.swf pageUrl=http://www.ilive.to/view/38226/watch-live-Asian_Movies-streaming-channel-for-free/ live=true timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/asia_movie_channel.jpg</thumbnail>
+</item>
+
+<item>
+<title>Animated movies</title>
+<link>http://72.13.93.186/animatedfilms timeout=10</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>AXN SD</title>
+<link>http://livemobi.hayhaytv.vn:1935/hayhaytv_live/mp4:axn.360p/playlist.m3u8</link>
+<thumbnail>http://img.hayhaytv.vn/livetv/12042013/axn_69561365741858.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.13.2013 by Silverfox -->
+<title>AXN HD Low</title>
+<link>http://203.162.16.22/lives/origin03/axnhdmb.isml/axnhdmb-596k.m3u8</link>
+<thumbnail>http://img.hayhaytv.vn/livetv/12042013/axn_69561365741858.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>AXN HD High S1</title>
+<link>http://203.162.235.26/lives/origin01/bts-axnhd.isml/bts-axnhd-2096k.m3u8</link>
+<thumbnail>http://img.hayhaytv.vn/livetv/12042013/axn_69561365741858.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>AXN HD High S2</title>
+<link>http://113.160.49.34/lives/origin01/bts-axnhd.isml/bts-axnhd-2096k.m3u8</link>
+<thumbnail>http://img.hayhaytv.vn/livetv/12042013/axn_69561365741858.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>AXN HD Vietnam</title>
+<link>http://113.160.49.34/lives/origin01/bts-axnhd.isml/bts-axnhd-2096k.m3u8</link>
+<thumbnail>http://img.hayhaytv.vn/livetv/12042013/axn_69561365741858.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>HBO HD Low</title>
+<link>http://203.162.16.22/lives/origin03/hbohdmb.isml/hbohdmb-596k.m3u8</link>
+<thumbnail>http://img.hayhaytv.vn/livetv/12032013/hbo_57651363082608.png</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>HBO HD High</title>
+<link>http://113.160.49.34/lives/origin01/bts-hbohd.isml/bts-hbohd-2096k.m3u8</link>
+<thumbnail>http://img.hayhaytv.vn/livetv/12032013/hbo_57651363082608.png</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>HBO SD</title>
+<link>http://livemobi.hayhaytv.vn:1935/hayhaytv_live/mp4:hbo.360p/playlist.m3u8</link>
+<thumbnail>http://img.hayhaytv.vn/livetv/12032013/hbo_57651363082608.png</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>HBO HD 1 Vietnam</title>
+<link>http://203.162.16.22/lives/origin01/bts-hbohd.isml/bts-hbohd-2096k.m3u8</link>
+<thumbnail>http://img.hayhaytv.vn/livetv/12032013/hbo_57651363082608.png</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Star Movie</title>
+<link>http://livemobi.hayhaytv.vn:1935/hayhaytv_live/mp4:star.movie.360p/playlist.m3u8</link>
+<thumbnail>http://img.hayhaytv.vn/livetv/14032013/starmovie_63621363228262.png</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Star World</title>
+<link>http://livemobi.hayhaytv.vn:1935/hayhaytv_live/mp4:star.world.360p/playlist.m3u8</link>
+<thumbnail>http://img.hayhaytv.vn/livetv/10012013/star-world-hd_96091357791081.png</thumbnail>
+</item>
+
+<item>
+<title>Stepphen Chow Funny Movies</title>
+<link>rtmp://edge.isearch.to/edge playpath=oh462rvesmhwdps swfUrl=http://player.ilive.to/player_ilive.swf pageUrl=http://www.ilive.to/view/40733/watch-live-Stephen_Chow_funny_movies-streaming-channel-for-free/ live=true timeout=10</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/asia_movie_channel.jpg</thumbnail>
+</item>
+
+<item>
+<title>Showtime</title>
+<link>you.might.get.fucking.strangled.net:1935/live/ playpath=sho swfUrl=http://omfgstreams.com/jwplayer/jwplayer.flash.swf pageUrl=http://omfgstreams.com/forums/view.php?pg=streamcentral swfVfy=true live=true timeout=10</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<title>Kids Movies Network</title>
+<link>http://72.13.93.186/kidsmovies timeout=10</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<title>Blockbuster Stars Network</title>
+<link>http://72.13.93.186/BLOCKBUSTER timeout=10</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<title>Movies </title>
+<link>mms://174.127.91.123/starj timeout=10</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<title>History Channel Espanol</title>
+<link>46.105.115.183/edge playpath=notzlkijdubh0bd pageUrl=http://www.ilive.to/view/24819/HISTORY_CHANNEL swfUrl=http://cdn.static.ilive.to/jwplayer/player_new.swf timeout=10</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<title>Classic Movies</title>
+<link>176.31.231.57/edge playpath=6go7csop9tg5dvj pageUrl=http://www.ilive.to/view/22739/Classic_Movies swfUrl=http://cdn.static.ilive.to/jwplayer/player_new.swf timeout=10</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<title>Random Movies</title>
+<link>199.9.255.106/app playpath=jtv_k3TOL43hIcCMz66C swfUrl=http://www-cdn.jtvnw.net/widgets/live_site_player.r3ac68618da580f9780732c46a8114e04474a5c1f.swf?consumer_key=p6s7lD84REgCyxUa5Y8DdA&channel=epic_comebacks5&referer=http://www.justin.tv/epic_comebacks5 timeout=10</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<title>Lotus Macau China </title>
+<thumbnail>upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg
+</thumbnail>
+<link>rtmp://58.97.57.152/live playpath=ch33 swfURL=http://www.one2hd.com/swfs/mediaPlayer/mediaPlayer.swf pageURL=http://www.one2hd.com/</link>
+</item>
+
+<item>
+<title>MOV Portugal </title>
+<thumbnail>upload.wikimedia.org/wikipedia/en/thumb/a/a7/Logoprincipal.png/200px-Logoprincipal.png
+</thumbnail>
+<link>rtmp://198.7.58.79/edge/mov pageURL=http://www.zuuk.net/ swfURL=http://s.zuuk.net/ply.swf swfVfy=true live=true timeout=10<link>
+</item>
+
+<item>   
+<title>film1</title>
+<thumbnail>http://www.hdtvnieuws.nl/images/film1-logo.png</thumbnail><link>mms://stream.hdtv1.cz/Film1cz-live</link>
+</item>
+
+<item>   
+<title>FILMBOX BASIC</title>
+<thumbnail>http://filmtekercs.hu/wp-content/uploads/2013/02/filmbox.jpg</thumbnail>
+<link>http://spiinternational-i.akamaihd.net/hls/live/204302/FILMBOXBASIC_PL_HLS/once1200.m3u8</link>
+</item>
+
+<item>   
+<title>FILMBOX EXTRA</title>
+<thumbnail>http://cyfraplus.tv/cyfra_plus_filmbox_extra_ban.gif</thumbnail>
+<link>http://spiinternational-i.akamaihd.net/hls/live/204303/FILMBOXEXTRA_PL_HLS/once1200.m3u8</link>
+</item>
+
+<item>  
+<title>FOX CRIME HD</title>
+<thumbnail>http://www.lanostratv.it/wp-content/uploads/2012/11/foxcrime-hd-logo-sky.jpg</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//5028f7ff1d1b4d5f8189690233364737.m3u8?bitrate=800</link>
+</item>
+
+<item>   
+<title>FOX MOVIE CHANNEL</title>
+<thumbnail>http://th05.deviantart.net/fs71/200H/i/2011/257/8/9/fox_movie_channel_id_2000_by_charmedpiper1973-d49uil5.png</thumbnail>
+<link>rtmp://edge.isearch.to/edge playpath=hc992q7x7cz86t9 swfURL=http://player.ilive.to/player_ilive.swf live=1 pageURL=http://www.ilive.to/view/38449/watch-live-fox_movie_channelstreaming-channel</link>
+</item>
+
+<item>   
+<title>HBO COMEDY</title>
+<thumbnail>http://www.novahd.cz/images/stanice/hbo-comedy-ceu.jpg</thumbnail>
+<link>rtmp://edge.isearch.to/edge playpath=a1wn1j3ra1w0cv0 swfURL=http://player.ilive.to/player_ilive.swf live=1 pageURL=http://www.ilive.to/view/38214/watch-live-HBO_comedy_moviestreaming-channel</link>
+</item>
+
+<item>  
+<title>HBO HITS</title>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/archive/f/fc/20120831031056!HBOHits-ASIA.png</thumbnail>
+<link>http://v.hrtv8.com/vip.hrtv8.com/live/02.m3u8</link>
+</item>
+
+<item>  
+<title>HBO {USA}</title>
+<thumbnail>http://texasgardeninn.com/images/hbo_logo.jpg</thumbnail>
+<link>rtmp://edge.isearch.to/edge playpath=z28ie9oqoku4qoy swfURL=http://player.ilive.to/player_ilive.swf live=1 pageURL=http://www.ilive.to/view/36674/watch-live-HBO_live_stream_online-streaming-channel-for-free</link>
+</item>
+
+<item>  
+<title>HBO2 (latin america)</title>
+<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2011/07/logo_hbo2.jpg</thumbnail>
+<link>rtmp://redirect.isearch.to/edge/q370zyt153r1wl7 pageURL=http://www.ilive.to swfURL=http://player.ilive.to/player_ilive.swf</link>
+</item>
+
+<item>  
+<title>STAR WORLD HD</title>
+<thumbnail>http://images2.layoutsparks.com/1/61115/YaY-Cowboys-Rotating-stars.gif</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//65f7358b813048a0898f5677e1793cf9.m3u8?bitrate=800</link>
+</item>
+
+<item>  
+<title>STARZ HD</title>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/starz_hd.jpg</thumbnail>
+<link>rtmp://edge.isearch.to/edge playpath=jw0ygi8ojhsw1t3 swfURL=http://player.ilive.to/player_ilive.swf live=1 pageURL=http://www.ilive.to/view/48735/watch-livE-starz_USA_{HD}streaming-channel</link>
+</item>
+
+<item>  
+<title>STARZ MOVIES</title>
+<thumbnail>http://www.starz.com/SiteCollectionImages/newBrandAssets/starz_darkBkgd_685x385.jpg</thumbnail>
+<link>rtmp://edge.isearch.to/edge playpath=8g7x80ozu6hz2ds swfURL=http://player.ilive.to/player_ilive.swf live=1 pageURL=http://www.ilive.to/view/38366/watch-livE-starZ_moviesstreaming-channel</link>
+</item>
+
+<item>  
+<title>STARZ</title>
+<thumbnail>http://profile.ak.fbcdn.net/hprofile-ak-prn1/50355_135169361667_1934040_n.jpg</thumbnail>
+<link>rtmp://142.4.217.210/modelo/starz/starz.video swfURL=http://www.skyonelive.com/player/player.swf live=1 pageURL=http://www.skyonelive.com/sports.php?n=starz</link>
+</item>
+
+<item>  
+<title>THRILL MOVIE CHANNEL HD</title>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Thrill_logo.jpg/200px-Thrill_logo.jpg</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//c316ed9333e54442b25077f0bb3cc269.m3u8?bitrate=800</link>
+</item>
+
+<item>  
+<title>SHOWTIME MOVIES</title>
+<thumbnail>http://pod-design.com/wp-content/uploads/2012/07/SHOWTIME-logo.jpg</thumbnail>
+<link>rtmp://fmsnl.ilive.to:1935/app/_definst_/bwbop58ixz281wv</link>
+</item>
+
+<item>  
+<title>SKY MOVIES PREMIERE (off air}</title>
+<thumbnail>http://www.absoluteradio.co.uk/images/pages/10231.1/sky-movies-premiere.jpg</thumbnail>
+<link>rtmp://fmsnl.ilive.to:1935/app/_definst_/8w71f8zjskgmwr7</link>
+</item>
+
+<channel>
+<name> ->> Kids Zone - Cartoon Channels</name>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRmTPye_7W9JTQdyPyB_jTuuWaL8WujU8oEaq0UyYA9cAONouj1Gw</thumbnail>
+<items>
+
+<!--Last Update: 05.03.2013 by Silverfox -->
+<item>
+<title>Tom &amp; Jerry 24/7</title>
+<thumbnail>http://www.tomand-jerry.com/wp-content/uploads/2011/12/Logo-Of-Tom-and-Jerry-Wallpaper.jpg</thumbnail>
+<link>rtmp://204.45.133.154/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf live=true pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html</link>
+</item>
+
+<item>  
+<title>CARTOONITO HD</title>
+<thumbnail>http://www.novahd.cz/images/stanice/cartoonito.jpg</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//dff1502eb25c4912aea009df5d0fde9b.m3u8?bitrate=800</link>
+</item>
+
+<item>  
+<title>DISCOVERY HD</title>
+<thumbnail>http://sehartv.com/wp-content/uploads/2012/10/discovery-hd.jpg
+</thumbnail>
+<link>rtmp://50.7.168.162:80/stream13?token=10/mystream?token=10</link>
+</item>
+
+<item>  
+<title>DISNEY CHANNEL</title>
+<thumbnail>http://www.allfreelogo.com/stock/thumb-disney-channel-2002.gif</thumbnail>
+<link>rtmp://edge.isearch.to/edge playpath=2tag4dzgwof5ma2 swfURL=http://player.ilive.to/player_ilive.swf live=1 pageURL=http://www.ilive.to/view/38804/watch-livE-Disney_channelstreaming-channel</link>
+</item>
+
+<item>   
+<title>NAT GEO ADVENTURE HD</title>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/4/47/Nat_geo_wild_hd.jpg</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?bitrate=800</link>
+</item>
+
+<item>  
+<title>NAT GEO WILD HD</title>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/4/47/Nat_geo_wild_hd.jpg</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8?bitrate=800</link>
+</item>
+
+<item>
+<title>Nick Jr</title>
+<link>rtmp://extondemand.livestream.com/ondemand playpath=trans/dv01/mogulus-user-files/chkidsland/2009/06/11/a83957b6-869b-4fc3-97db-e23df6b0f3e1 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf pageUrl=http://www.epctv.com</link>
+<thumbnail>http://images4.wikia.nocookie.net/__cb20100331063126/nickelodeon/de/images/7/75/Das_ehemalige_NICK_Jr._Logo.png</thumbnail>
+</item>
+
+<item>   
+<title>FAMILY GUY 24/7</title>
+<thumbnail>http://i3.ytimg.com/vi/nlKdgZVZI34/mqdefault.jpg</thumbnail>
+<link>rtmp://edge.isearch.to/edge playpath=kq87xtlz5apu69c swfURL=http://player.ilive.to/player_ilive.swf live=1 pageURL=http://www.ilive.to/view/42957/watch-livE-family_guystreaming-channel</link>
+</item>
+
+<item>  
+<title>KIDS CO</title>
+<thumbnail>http://images3.wikia.nocookie.net/__cb62119/logopedia/images/thumb/4/44/KidsCo_TV_Channel_Logo,_updated_version_2012.png/130px-59,265,0,181-KidsCo_TV_Channel_Logo,_updated_version_2012.png</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live/fdaede40b27445ac893189bc6332c914.m3u8?bitrate=800</link>
+</item>
+
+<!--Last Update: 05.03.2013 by Silverfox -->
+
+<item>  
+<title>NICKELODEON</title>
+<thumbnail>http://profile.ak.fbcdn.net/hprofile-ak-ash3/c64.0.592.592/s160x160/40471_137661579606030_3372793_n.jpg</thumbnail>
+<link>rtmp://178.18.23.114/strm playpath=nickkp swfURL=http://www.telecast.eu/player/player.swf live=1 pageURL=http://www.telecast.eu/embed.php?u=nickkp&vw=670&vh=410</link>
+</item>
+
+</items>
+</channel>
+
+<channel>
+<name> ->> Sports Channels - The Thao</name>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/06/Live-Sport-Channel-TV.jpg</thumbnail>
+<info>
+Mời các bạn xem các chương trình truyền hình Thể Thao. Nếu bạn thích TV, bạn có thể donate tặng tiền qua Paypal đến địa chỉ: http://langsongviet.com/fta4vnForum/upload/awcl_dsl.php?do=donation
+Dù ít hay nhiều không quan trọng, chúng tôi đều cảm tạ, tiền quyên tặng giúp chúng tôi phát triển các kênh TV ngày càng tốt hơn.
+</info>
+<items>
+
+<item>  
+<title>ARENA SPORT</title>
+<thumbnail>http://www.novimagazin.rs/public/photos/2/2161/255x160_2161-arena_sport.jpg</thumbnail>
+<link>rtmp://5.63.145.188/live app=live swfURL=http://www.ezcast.tv/static/scripts/eplayer.swf pageURL=http://www.ezcast.tv/tash1 conn=S:OK live=1 playpath=tash1?id=562</link>
+</item>
+
+<item>  
+<title>BAHREEN SPORTS</title>
+<thumbnail>http://www.farmshowsusa.com/Logos/SportLogoSmall.jpg</thumbnail>
+<link>rtmp://stream.alayam.com/btv3/btv3</link>
+</item>
+
+<item>
+<!--Last Update: 04.12.2013 by Silverfox -->
+<title>Eurosport 1 HD</title>
+<link>http://esioslive2-i.akamaihd.net/hls/live/201149/AL_ESP1_INT_ENG/playlist_1800.m3u8</link>
+<thumbnail>http://images.nintendolife.com/news/2011/10/eurosport_red_bull_and_aardman_3d_content_coming_to_3ds/attachment/0/large.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.12.2013 by Silverfox -->
+<title>EuroSport 2 HD</title>
+<link>http://esioslive2-i.akamaihd.net/hls/live/201150/AL_ESP2_INT_ENG/playlist_1800.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport2_hd.png</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.12.2013 by Silverfox -->
+<title>FIGHT BOX HD</title>
+<link>http://spiinternational-i.akamaihd.net/hls/live/204308/FIGHTBOXHD_MT_HLS/once1200.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fight_box_hd.jpg</thumbnail>
+</item>
+
+<item>
+<!--Last Update: 04.12.2013 by Silverfox -->
+<title>NBA TV</title>
+<link>rtmp://46.19.141.138:1935/stream//f2OI8s.stream playpath=f2OI8s.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageurl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=b444m3r494l4z364y2x2r2q26433p2p21394q2u23334&adx=&stream=03j5w28474w26444z23384x2b4e4v2l2c454n3i323w5m284q2x2m22414d4v2t213c4v274e4y2r2f4v2x4g3a4t373u5w5l4b4d2o3j5e444i4f4w3p2s4r2y3m23434v2r2g5h584y264x2b4e4m5b4e4a4d4232474i5a45434a4z2w264s2l594x224r204p2q2r2y3m27664p4l2y3g566&sooor=Ng==&str=is&idom=www.firstrow1.eu live=true timeout=9</link>
+<thumbnail>http://i2.cdn.turner.com/nba/nba/dam/assets/130407142114-carmelo-drives-vs-ibaka-040713.home-t3.jpg</thumbnail>
+</item>
+
+<item>
+<title>NBA TV </title>
+<thumbnail>www.lyngsat-logo.com/hires/nn/nba_tv.png</thumbnail>
+<link>rtmp://31.7.58.122:1935/stream/I8s9S4H7.stream playpath=N1V3R0h8.stream swfURL=http://thecdn.04stream.com/p/bbp.swf live=true  pageURL=http://www.04stream.com/NBA TV</link>
+</item>
+
+<item>   
+<title>NBA</title>
+<thumbnail>http://lh3.ggpht.com/-ai4kNjWDfBs/UCSeKrZguJI/AAAAAAAAHP0/rETWVlOMZzw/NBA-TV-Logo%25255B6%25255D.jpg?imgmax=800</thumbnail>
+<link>rtmp://46.246.29.141:1935/stream/K8l9h6j8.stream swfURL=http://thecdn.04stream.com/p/boopo.swf pageURL=http://04stream.com/ live=true</link>
+</item>
+
+<item>  
+<title>NFL NETWORK</title>
+<thumbnail>http://cdn.newsday.com/polopoly_fs/1.3909308.1348346193!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg</thumbnail>
+<link>rtmp://37.220.32.54:443/liverepeater playpath=1490 swfURL=http://c1776742.cdn.cloudfiles.rackspacecloud.com/flash/player.swf pageURL=http://featve.com/player2.php?id=1490&width=640&height=460</link>
+</item>
+
+<item>  
+<title>NHK WORLD HD</title>
+<thumbnail>http://www.radioandtelly.co.uk/images/nhkworld_logo.jpg</thumbnail>
+<link>rtmp://ca-1.net.fivecool.org/nhkw/gwm</link>
+</item>
+
+<item>  
+<title>NHL NETWORK</title>
+<thumbnail>http://2.cdn.nhle.com/nhl/images/upload/2012/10/NewNHLNetLogo_contmod100612.jpg</thumbnail>
+<link>rtmp://37.220.32.54:443/liverepeater playpath=10213 swfURL=http://c1776742.cdn.cloudfiles.rackspacecloud.com/flash/player.swf pageURL=http://featve.com/player2.php?id=10213&width=640&height=460</link>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>ESPN Sport</title>
+<link>rtmp://31.7.58.250:1935/stream/5654ygt.stream swfUrl=http://thecdn.04stream.com/p/bbp.swf pageUrl=http://thecdn.04stream.com/ live=true timeout=10</link>
+<thumbnail>http://www.throughrosetintedglasses.com/wp-content/uploads/2012/05/ESPN-LOGO.jpg</thumbnail>
+</item>
+
+<item>  
+<title>ESPN AMERICA HD (not always online)</title>
+<thumbnail>http://www.tvcorners.com/wp-content/uploads/2012/09/Espn-America-live.jpg</thumbnail>
+<link>rtmp://edge.isearch.to/edge playpath=msfvtnib7svhh5v swfURL=http://player.ilive.to/player_ilive.swf live=1 pageURL=http://www.ilive.to/view/49093/watch-live-ESPN_real_HD_720p-streaming-channel-for-free</link>
+</item>
+
+<item>  
+<title>ESPN UK</title>
+<thumbnail>http://www.camtel.com/Images/Interior/channel%20logos/espn%20hd%20logo.jpg</thumbnail>
+<link>rtmp://85.12.5.153:1935/live/_definst_ playpath=espnukshisihs swfURL=http://www.yycast.com/playerskin/player.swf live=1 pageURL=http://www.yycast.com/embed.php?fileid=espnukshisihs&vw=620&vh=490</link>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Fox Sports</title>
+<link>http://livemobi.hayhaytv.vn:1935/hayhaytv_live/mp4:espn.360p/playlist.m3u8</link> 
+<thumbnail>http://www.mmaplanetonline.com/wp-content/uploads/2013/03/Fox-Sports-Logo.jpg</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>True Sport</title>
+<link>rtmp://m35.megafun.vn/hctv/vstv018?token=3PV-wvhxaBY9-8rWVZUZPg swfUrl=http://megafun.vn/common/player/no_logo_player.swf pageUrl="http://tv24.vn77.net/player.php?id=342</link> 
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkTGLMGMbzAqqtQy9RdkYAes3fuAQaT60qWE03pAAgb6qeWfWBjA</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Fox Sport Plus</title>
+<link>http://203.162.16.22/lives/origin01/bts-foxhd.isml/bts-foxhd-2096k.m3u8</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<!--Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Star Sports Vietnam</title>
+<link>http://113.160.49.34:80/lives/origin02/starsportsd.isml/starsportsd.m3u8</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>Fox Sports</title>
+<link>http://livemobi.hayhaytv.vn:1935/hayhaytv_live/mp4:espn.360p/playlist.m3u8</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox -->
+<item>
+<title>True Sport 4</title>
+<link>rtmp://m35.megafun.vn/hctv/vstv018?token=3PV-wvhxaBY9-8rWVZUZPg swfUrl=http://megafun.vn/common/player/no_logo_player.swf pageUrl="http://tv24.vn77.net/player.php?id=342</link> 
+<thumbnail>none</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>NFL Network Sport</title>
+<link>rtmp://46.246.29.130:1935/stream/bdpZdSfpz0.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf live=true timeout=15 swfVfy=1 pageUrl=http://www.04stream.com</link>
+<thumbnail>http://rbr.com/wp-content/uploads/NFL1-225x180.jpg</thumbnail>
+</item>
+
+<!--Last Update: 04.06.2013 by Silverfox -->
+<item>
+<title>Outdoor Channel Sport</title>
+<link>rtmp://lm02.everyon.tv:1935/ptv2/pld613</link>
+<thumbnail>http://www.redarrowtv.com/images/logo_OutdoorChannel_header.jpg</thumbnail>
+</item>
+
+<item>
+<title>Motors TV </title>
+<thumbnail>www.creventic.com/uploads/images/24hdubai/algemeen/Logo%20Motors%20TV.jpg
+</thumbnail>
+<link>rtmp://198.7.58.79/edge playpath=motorstv swfURL=http://s.zuuk.net/ply.swf pageURL=http://www.zuuk.net/motorstv swfVfy=true live=true timeout=10<link>
+</item>
+
+<item>   
+<title>MOTORS TV</title>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/9/94/MotorsTV_logo.png/200px-MotorsTV_logo.png</thumbnail>
+<link>http://webtv-aarh-11.stofa.dk/100_01.m3u8
+</link>
+
+<item>   
+<title>MOTORVISION HD
+</title><thumbnail>http://cf.juggle-images.com/fit/white/125x125/motorvision-tv-logo-primary.jpg
+</thumbnail><link>http://fw01.livem3u8.me.totiptv.com/live//4c2ebe80b19049deac5ad59b478a79ac.m3u8?bitrate=800</link>
+</item>
+
+<!-- Last Update: 05.03.2013 by Silverfox -->
+<item>
+<title>Racing</title>
+<thumbnail>http://www.tivi.goldpagemedia.com/images/upload/channel/20121106/logo/source/1352168191_15.jpg</thumbnail>
+<link>http://a3.v20473a.c20473.g.vc.akamaistream.net/7/3/20473/v0001/espn.download.akamai.com/20473/t_assets/20070217/4657511c3b57e3dc733def3701a3d94f38e6f132.wmv?s=espn360&c=Racing&MSWMExt=.asf</link>
+</item>
+
+<item>  
+<title>RACING UK AND MORE</title>
+<thumbnail>http://images2.layoutsparks.com/1/239196/for-pat-req-horse.gif</thumbnail>
+<link>rtmp://37.220.32.54:443/liverepeater playpath=10405 swfURL=http://c1776742.cdn.cloudfiles.rackspacecloud.com/flash/player.swf pageURL=http://featve.com/player2.php?id=10405&width=640&height=460</link>
+</item>
+
+<item>
+<title>Red Bull TV</title>
+<thumbnail>http://www.tivi.goldpagemedia.com/images/upload/channel/20130330/logo/source/1364613581_redbulltv.jpg</thumbnail>
+<link>rtmp://cp93704.live.edgefcs.net:443/live/redbull2@21839 swfUrl=http://www.tivi.goldpagemedia.com/slide.swf pageURL=http://www.tivi.goldpagemedia.com/channel/red-bull-tv.35A4E9B3.html live=true timeout=10</link>
+</item>
+
+<item>  
+<title>CHELSEA TV</title>
+<thumbnail>http://www.mill-tv.com/milltheme/images/canales/img_151.jpg</thumbnail>
+<link>rtmp://cp96798.live.edgefcs.net/live/ playpath=ChelTV_Ch01_1000k@26291 swfURL=http://player.tv-stream.to/player.swf live=1 pageURL=http://www.lagerassassin.eu/sport-stream/1/2650.html timeout=10</link>
+</item>
+
+<item>  
+<title>CNOPT 2</title>
+<thumbnail>http://www.abertay.ac.uk/media/Football.jpg</thumbnail>
+<link>rtmp://109.68.46.67:80/live/sport2-2.stream</link>
+</item>
+
+<item>  
+<title>CNOPT SPORT</title>
+<thumbnail>http://a0.twimg.com/profile_images/1575062958/Sport-LIVE---Logo.jpg</thumbnail>
+<link>rtmp://109.68.46.67:80/live/sport1-2.stream</link>
+</item>
+
+<item>  
+<title>EUROSPORT 2 HD (UK)</title>
+<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2011/07/Eurosport_2_HD-300x150.png</thumbnail>
+<link>http://esioslive4-i.akamaihd.net/hls/live/200736/AL_ESP2_UK_ENG/playlist_700.m3u8</link>
+</item>
+
+<item>  
+<title>EUROSPORT HD {UK}</title><thumbnail>http://www.golfblogger.co.uk/data/post_pics/2010/02/03-36a53cd448df-medium.jpg</thumbnail>
+<link>http://esioslive2-i.akamaihd.net/hls/live/200728/AL_ESP1_UK_ENG/playlist_700.m3u8</link>
+</item>
+
+<item>  
+<title>EUROSPORT HD(FOREIGN}</title>
+<thumbnail>http://www.broadbandtvnews.com/wp-content/uploads/2008/07/eurosport_hd.jpg</thumbnail>
+<link>rtmp://50.7.168.162:80/stream14?token=30/mystream?token=30</link>
+</item>
+
+<item>  
+<title>EXTREME SPORT</title>
+<thumbnail>http://logonoid.com/images/thumbs/extreme-sports-logo.jpg</thumbnail>
+<link>http://94.242.221.141/hls/a-lo/stream13.m3u8</link>
+</item>
+
+<item>  
+<title>BARCA SPORT</title>
+<thumbnail>http://www.creativesatellite.co.uk/contents/media/barca_tv.jpg</thumbnail>
+<link>rtmp://50.7.168.162:80/stream8?token=10/mystream?token=10</link>
+</item>
+
+<item>  
+<title>BARRANDOV</title>
+<thumbnail>http://www.mediaguru.cz/wp-content/uploads/2012/01/Barrandov_1.jpg</thumbnail>
+<link>http://212.79.96.134:8022</link>
+</item>
+
+<item>  
+<title>BLAST SPORT</title>
+<thumbnail>http://www.farmshowsusa.com/Logos/SportLogoSmall.jpg</thumbnail><link>http://218.202.219.67/channels/xjyx/JinBaoTiYu-Suma/flv:300k_flv
+</link>
+</item>
+
+<item>  
+<title>BEIN SPORT</title>
+<thumbnail>http://cdn.infos.fr/wp-content/uploads/2012/10/logo-bein-sport.jpg</thumbnail>
+<link>http://165739-i.akamaihd.net/hls/live/205339/bisios_ch329/index_Layer1.m3u8</link>
+</item>
+
+<item>  
+<title>FOX SPORTS PLUS HD</title>
+<thumbnail>http://www.essmediaguide.com/images/channels-logo-foxsports_plus_hd.jpg</thumbnail>
+<link>http://203.162.16.22/lives/origin01/bts-foxhd.isml/bts-foxhd-2096k.m3u8</link>
+</item>
+
+<item>   
+<title>MULTI SPORTS CHANNELS</title>
+<thumbnail>http://www.farmshowsusa.com/Logos/SportLogoSmall.jpg</thumbnail>
+<link>rtmp://31.7.58.122:1935/stream/ffe84f5ed.stream swfURL=http://thecdn.04stream.com/p/bop.swf live=true timeout=10</link>
+</item>
+
+<item>  
+<title>NOVA SPORT</title>
+<thumbnail>http://3.bp.blogspot.com/-HxG0qhyM_AE/Tme9Dx3milI/AAAAAAAABe8/Wj0s9-eJ6lw/s200/nova_sport.png</thumbnail>
+<link>http://212.79.96.134:8023</link>
+</item>
+
+<item>  
+<title>TRUE SPORT 2HD</title>
+<thumbnail>http://www.thegolfemag.com/UserFiles/image/star/1005/100519_truesport/100519_truesport01.jpg</thumbnail>
+<link>rtmp://58.97.57.150/live playpath=hd02 swfURL=http://www.one2hd.com/swfs/mediaPlayer/mediaPlayer.swf live=1 pageURL=http://www.one2hd.com</link>
+</item>
+
+<item>  
+<title>TVN SPORT</title>
+<thumbnail>http://img441.imageshack.us/img441/4647/tvnsportprojih2.png</thumbnail>
+<link>rtmp://50.7.168.162:80/stream9?token=10/mystream?token=10</link>
+</item>
+
+<item>  
+<title>SKY SPORTS 1 HD</title>
+<thumbnail>http://www.skymedia.co.uk/_downloads/96/Sky-Sports-HD-1.jpg</thumbnail>
+<link>rtmp://199.21.149.50:80/liverepeater/41798 playpath=41798 swfURL=http://cdn.goodcast.org/player.swf live=1 pageURL=http://goodcast.org/streamn.php?id=41798&width=600&height=470 conn=S:OK --live</link>
+</item>
+
+<item>  
+<title>SKY SPORTS 2</title>
+<thumbnail>http://images4.wikia.nocookie.net/__cb20111102191431/logopedia/images/a/a9/Skyhd2.png</thumbnail>
+<link>rtmp://94.242.253.139:1935/liverepeater/_definst_</link>
+</item>
+
+<item>  
+<title>SKY SPORTS 3  HD</title>
+<thumbnail>http://www.skymedia.co.uk/_downloads/96/Sky-Sports-HD-3.jpg</thumbnail>
+<link>rtmp://89.248.162.237/live/s1s1s6664 playpath=s1s1s6664 swfURL=http://www.reyhq.com/player/player-licensed.swf live=1 pageURL=http://www.reyhq.com/embed.php?live=s1s1s6664&vw=620&vh=490 conn=S:OK --live</link>
+</item>
+
+<item>  
+<title>SKY SPORTS 4</title>
+<thumbnail>http://www.wheresthematch.com/images/newchannels/skysports4.gif</thumbnail>
+<link>rtmp://93.174.93.67/live playpath=sdfsdfsaaa swfURL=http://www.reyhq.com/player/player-licensed.swf live=1 pageURL=http://www.reyhq.com/embed.php?live=sdfsdfsaaa&vw=620&vh=490</link>
+</item>
+
+<item>  
+<title>SKY SPORTS F1</title>
+<thumbnail>http://www.digitaltvselector.com/wp-content/uploads/2009/03/500px-Sky_Sports_F1_HD.svg_.png</thumbnail>
+<link>rtmp://31.7.58.122:1935/stream/ffe84f5ed.stream swfURL=http://thecdn.04stream.com/p/bop.swf</link>
+</item>
+
+<item>  
+<title>SKY SPORTS NEWS HD
+</title>
+<thumbnail>http://www.fm-base.co.uk/forum/attachments/football-manager-2012-stories/258347d1341609916-paolo-di-canio-back-into-football-satelite_tv_sky_sports_news_hd_logo.png
+</thumbnail>
+<link>rtmp://89.248.174.117/live playpath=asdasdsa11 swfURL=http://www.reyhq.com/player/player-licensed.swf live=1 pageURL=http://www.reyhq.com/embed.php?live=asdasdsa11&vw=620&vh=490
+</link>
+</item>
+
+<item>  
+<title>SPORT -TV2</title>
+<thumbnail>http://tv.onlinemoviesportsandtv.com/wp-content/uploads/2012/12/sport_tv2_pt.jpg</thumbnail>
+<link>rtmp://93.174.93.67/live playpath=ee22 swfURL=http://www.reyhq.com/player/player-licensed.swf pageURL=http://www.reyhq.com/embed.php?live=ee22&vw=640&vh=450 live=1 conn=S:OK --live</link>
+</item>
+
+<item>  
+<title>SPORT CHANNEL</title>
+<thumbnail>http://www.farmshowsusa.com/Logos/SportLogoSmall.jpg</thumbnail>
+<link>rtmp://94.242.252.134:443/liverepeater playpath=3988 swfURL=http://c1776742.cdn.cloudfiles.rackspacecloud.com/flash/player.swf pageURL=http://featve.com/player2.php?id=3988&width=640&height=460</link>
+</item>
+
+<item>  
+<title>SPORT STREAM 1</title>
+<thumbnail>http://logo-bank.com/thumbs/98927-Aljazeera-Sport.gif</thumbnail>
+<link>rtmp://80.82.78.29/liveedge playpath=ch1-u6zhxf33phi swfURL=http://obigbrother.com/player.swf live=1 pageURL=http://cast4you.tv/show.php?id=ch1-u6zhxf33phi&width=100%&height=95%</link>
+</item>
+
+<item>  
+<title>SPORT TV-1 HD</title>
+<thumbnail>http://tv.onlinemoviesportsandtv.com/wp-content/uploads/2012/12/Sport-TV1.jpg</thumbnail>
+<link>rtmp://93.174.93.67/live playpath=ee11 swfURL=http://www.reyhq.com/player/player-licensed.swf pageURL=http://www.reyhq.com/embed.php?live=ee11&vw=640&vh=450 live=1 conn=S:OK --live</link>
+</item>
+
+<item>  
+<title>SPORT TV-4</title>
+<thumbnail>http://www.cabovisao.pt/resources/logos_canais/sport_tv4_thumb7.png</thumbnail>
+<link>rtmp://89.248.162.237/live playpath=sara4 swfURL=http://www.reyhq.com/player/player-licensed.swf pageURL=http://www.reyhq.com/embed.php?live=sara4&vw=640&vh=450 live=1 conn=S:OK --live</link>
+</item>
+
+<item>  
+<title>SPORT-TV3</title>
+<thumbnail>http://2.bp.blogspot.com/-6e2hS8F1_W0/UJEkIZr0b_I/AAAAAAAAJ6Y/STuRf9soO4Q/s400/Sport+TV3+Live+%E2%80%93+Sport+TV3+Slovenia+Free+Sport+TV3+Online.jpe</thumbnail>
+<link>rtmp://redbull.micast.tv/liveedge playpath=sporttv3 swfURL=http://files.mica.st/player.swf pageURL=http://micast.tv/gens2.php?ch=sporttv3&width=640&height=450 live=1 conn=S:OK --live</link>
+</item>
+
+<item>  
+<title>WRESTLING TV</title>
+<thumbnail>http://www.blogcdn.com/www.engadget.com/media/2008/01/1-14-08-wwe_hd_logo.jpg</thumbnail>
+<link>rtmp://www.planeta-online.tv:1936/live/wrestling.stream.flv pageURL=http://www.planeta-online.tv swfURL=http://www.planeta-online.tv/planeta_player.swf?ver=457 live=1</link>
+</item>
+
+</items>
+</channel>
+
+<channel>
+<name> ->> English-US Channels - TV Tieng Anh</name>
+<thumbnail>http://www.tv14.net/wp-content/uploads/2010/06/Live-Sport-Channel-TV.jpg</thumbnail>
+<items>
+
+<item>
+<title>AFRICAN CHANNEL</title>
+<thumbnail>http://blkpreneur.files.wordpress.com/2008/01/africanchannel.gif</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//eea31a4e48aa4d51a4ce8cdaa1c3a957.m3u8?bitrate=800</link>
+</item>
+
+<item>
+<title>ALJAZEERA NEWS</title>
+<thumbnail>http://www.casavie.com/Tv/aljazeera.gif</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//EA4C9D2666BC411D8E6777E8A1D2B747.m3u8?bitrate=800</link>
+</item>
+ 
+<item>
+<title>ANIMAL PLANET HD</title>
+<thumbnail>http://images2.layoutsparks.com/1/100485/mystic-creature-tiger-animal.gif</thumbnail>
+<link>rtmp://s01.webport.tv/promo/mtv playpath=mtv pageURL=http://www.hqtv.biz/1/wp-content/themes/hqtv/player/jwplayer.flash.swf?netstreambasepath=http://hqtv.biz/&autostart=true&skin=http://www.hqtv.biz/1/wp-content/themes/hqtv/player/jwplayer.flash/skins/newtubedark.zip&streamer=rtmp://s01.webport.tv/promo/&provider=rtmp&file=mtv swfURL=http://www.hqtv.biz/1/wp-content/themes/hqtv/player/jwplayer.flash.swf?netstreambasepath=http://hqtv.biz/&autostart=true&skin=http://www.hqtv.biz/1/wp-content/themes/hqtv/player/jwplayer.flash/skins/newtubedark.zip&streamer=rtmp://s01.webport.tv/promo/&provider=rtmp&file=mtv live=true</link>
+</item>
+
+<item>
+<title>ARD</title>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/7/7b/ARD_logo.png</thumbnail>
+<link>http://webtv-aarh-9.stofa.dk:80/179_01.m3u8</link>
+</item>
+ 
+<item>
+<title>BBC WORLD</title>
+<thumbnail>http://www.bbc.co.uk/tv/i/img/bbc-world-news-logo.png</thumbnail>
+<link>rtsp://media2.lsops.net/live/bbcworld1_en_high.sdp</link>
+</item>
+
+<item>
+<title>BABY TV HD</title>
+<thumbnail>http://a3.mzstatic.com/us/r1000/065/Purple/v4/ee/a3/1e/eea31ef4-6db2-eead-8bd3-32cc4d45ad0e/mzl.vwvrpwzt.175x175-75.gif</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//7773f3cef0334a28ad248552ea63d9e7.m3u8?bitrate=800</link>
+</item>
+ 
+<item>
+<title>BAHREEN SPORTS</title>
+<thumbnail>http://www.farmshowsusa.com/Logos/SportLogoSmall.gif</thumbnail>
+<link>rtmp://stream.alayam.com/btv3/btv3</link>
+</item>
+  
+<item>
+<title>BARCA SPORT</title>
+<thumbnail>http://www.creativesatellite.co.uk/contents/media/barca_tv.gif</thumbnail>
+<link>rtmp://50.7.168.162:80/stream8?token=10/mystream?token=10</link>
+</item>
+
+<item>
+<title>BIO HD</title>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Biography_Channel_(1999-2007)_logo.svg/299px-Biography_Channel_(1999-2007)_logo.svg.png</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//169a149fd1ef40edba0bbfc8e0f1bdd1.m3u8?bitrate=800</link>
+</item>
+
+<item>
+<title>CARTOON NETWORK</title>
+<thumbnail>http://www.thedigitalorchard.co.uk/wp-content/uploads/2012/04/Cartoon-Network-Logo-01.gif</thumbnail>
+<link>rtmp://178.18.23.114/strm playpath=cartooni9 swfURL=http://www.telecast.eu/player/player.swf live=1 pageURL=http://www.telecast.eu/embed.php?u=cartooni9&vw=670&vh=410</link>
+</item>
+ 
+<item>
+<title>CARTOONITO HD</title>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/200px-Cartoonito_logo.svg.png</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//dff1502eb25c4912aea009df5d0fde9b.m3u8?bitrate=800</link>
+</item>
+ 
+<item>
+<title>CBS DRAMA</title>
+<thumbnail>http://cbsdrama.tv/grfx/pl/cbs-drama-logo-flag.png</thumbnail>
+<link>http://mi7.gv.filmon.com:1935/live/1805.low.stream/playlist.m3u8</link>
+</item>
+  
+<item>
+<title>CBS REALITY +1</title>
+<thumbnail>http://cbsreality.tv/grfx/pl/cbs-reality-logo-flag.png</thumbnail>
+<link>http://mi7.gv.filmon.com:1935/live/1811.low.stream/playlist.m3u8</link>
+</item>
+  
+<item>
+<title>CHELSEA TV</title>
+<thumbnail>http://www.mill-tv.com/milltheme/images/canales/img_151.gif</thumbnail>
+<link>rtmp://cp96798.live.edgefcs.net/live/ playpath=ChelTV_Ch01_1000k@26291 swfURL=http://player.tv-stream.to/player.swf live=1 pageURL=http://www.lagerassassin.eu/sport-stream/1/2650.html timeout=10</link>
+</item>
+
+<item>
+<title>CHICAGO POLICE AND FIRE SCANNER FEED</title>
+<thumbnail>http://images2.layoutsparks.com/1/95806/firefighter-burn-hot-death.gif</thumbnail>
+<link>http://audio4.radioreference.com/il_chicago_police2.mp3
+</link>
+</item>
+ 
+<item>
+<title>CNBC</title>
+<thumbnail>http://images1.wikia.nocookie.net/__cb20070810074157/wikiality/images/6/67/CNBC_Logo.gif</thumbnail>
+<link>rtmp://edge.isearch.to/edge playpath=awr6lcvpdkxdjh0 swfURL=http://player.ilive.to/player_ilive.swf live=1 pageURL=http://www.ilive.to/view/48208/watch-livE-CNBCstreaming-channel</link>
+</item>
+ 
+<item>
+<title>CNN</title>
+<thumbnail>http://blog.camera.org/archives/cnn-logo_1.gif</thumbnail>
+<link>rtsp://media2.lsops.net:554/live/cnn_en_high.sdp</link>
+</item>
+
+<item>
+<title>CNOPT 2</title>
+<thumbnail>http://www.abertay.ac.uk/media/Football.gif</thumbnail>
+<link>rtmp://109.68.46.67:80/live/sport2-2.stream</link>
+</item>
+
+<item>
+<title>CNOPT SPORT</title>
+<thumbnail>http://a0.twimg.com/profile_images/1575062958/Sport-LIVE---Logo.gif</thumbnail>
+<link>rtmp://109.68.46.67:80/live/sport1-2.stream</link>
+</item>
+ 
+<item>
+<title>THE COUNTRY NETWORK</title>
+<thumbnail>http://images2.layoutsparks.com/1/126195/80s-guitar-animated-red.gif</thumbnail>
+<link>rtmp://80.150.142.60/live?_fcs_vhost=cp76676.live.edgefcs.net playpath=5uMjNmMjqqV2tI5_ZzsUtHcPRTSQiUli_640_480_600@54976 swfURL=http://player.ooyala.com/static/cacheable/a07ecc85ac190725da1a984d56a64b73/player_v2.swf/[[DYNAMIC]]/3 live=1 pageURL=http://www.tcncountry.com/videos/livestream.htm</link>
+</item>
+ 
+<item>
+<title>CRIME INVESTIGATION</title>
+<thumbnail>http://sharetv.org/images/networks/crime_and_investigation_network_au.gif</thumbnail></thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//9961a963920f45f4bc0d81c3e478b334.m3u8?bitrate=800</link>
+</item>
+  
+<item>
+<title>CSI 24/7</title>
+<thumbnail>http://2.bp.blogspot.com/_Asm1iAEmZA4/SsA_UhftdKI/AAAAAAAAAXw/GJCMikgdZjM/s320/250px-Csi_logo.gif</thumbnail>
+<link>rtmp://edge.isearch.to/edge playpath=aszl8hyh5d4zdvs swfURL=http://player.ilive.to/player_ilive.swf live=1 pageURL=http://www.ilive.to/view/42532/watch-livE-CSI_24Hstreaming-channel</link>
+</item>
+  
+<item>
+<title>DARK SKIES</title>
+<thumbnail>http://images.mymovies.net/images/film/cin/350x522/fid12662.gif</thumbnail>
+<link>http://server50.stream2k.com/dl3/kpM8DhmkBF9GlssCFG2vf0d25e-oHXMQeXVikN3M-UxQh9Jt-CQJX9m9eytNZXqNDEmJIVtuburSLyezszHcmIvv56Js7cWON7pZ4kRjaMw=.flv?start=0</link>
+</item>
+
+<item>
+<title>DAVE</title>
+<thumbnail>http://cached.imagescaler.hbpl.co.uk/resize/scaleToFit/427/285/?s<link>http://offlinehbpl.hbpl.co.uk/news/OKM/DB67E05F-B8BB-8427-77036F4C527839A7.gif</thumbnail>
+<link>rtsp://mi5.gv.filmon.com:1935/live/_definst_/370.high.stream</link>
+</item>
+
+<item>
+<title>DISCOVERY HD</title>
+<thumbnail>http://sehartv.com/wp-content/uploads/2012/10/discovery-hd.gif</thumbnail>
+<link>rtmp://50.7.168.162:80/stream13?token=10/mystream?token=10</link>
+</item>
+
+<item>
+<title>DISNEY CHANNEL</title>
+<thumbnail>http://www.allfreelogo.com/stock/thumb-disney-channel-2002.gif</thumbnail>
+<link>rtmp://edge.isearch.to/edge playpath=2tag4dzgwof5ma2 swfURL=http://player.ilive.to/player_ilive.swf live=1 pageURL=http://www.ilive.to/view/38804/watch-livE-Disney_channelstreaming-channel</link>
+</item>
+
+<item>
+<title>DOCU BOX HD</title>
+<thumbnail>http://www.satellite.bg/chalog/box_docu.gif</thumbnail>
+<link>http://spiinternational-i.akamaihd.net/hls/live/204306/DOCUBOXHD_MT_HLS/once1200.m3u8</link>
+</item>
+  
+<item>
+<title>EDGE HD</title>
+<thumbnail>http://3.bp.blogspot.com/-R1dcJyci58E/TuE0Bp0AuOI/AAAAAAAAAOU/rjrnLJ-ZjrY/s1600/edge-authors-tv.gif</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live/3764586b28544a0fa379b1d4e400c100.m3u8?bitrate=800</link>
+</item>
+
+<item>
+<title>EDINBURGH ZOO PANDA CAM</title>
+<thumbnail>http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2012/4/4/1333560157610/Tian-Tian-a-female-giant--009.gif</thumbnail>
+<link>rtmp://207.198.114.241:1935/qlive/_definst_/pandas.stream</link>
+</item>
+ 
+<item>
+<title>ESPN AMERICA HD (not always online)</title>
+<thumbnail>http://www.tvcorners.com/wp-content/uploads/2012/09/Espn-America-live.gif</thumbnail>
+<link>rtmp://edge.isearch.to/edge playpath=msfvtnib7svhh5v swfURL=http://player.ilive.to/player_ilive.swf live=1 pageURL=http://www.ilive.to/view/49093/watch-live-ESPN_real_HD_720p-streaming-channel-for-free</link>
+</item>
+  
+<item>
+<title>ESPN UK</title>
+<thumbnail>http://www.camtel.com/Images/Interior/channel%20logos/espn%20hd%20logo.gif</thumbnail>
+<link>rtmp://37.140.235.22:1935/live/espndg live=1</link>
+</item>
+ 
+<item>
+<title>EURONEWS</title>
+<thumbnail>http://www.act-responsible.org/ACT/underconstruction/img/euronews.gif</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//3F35C4428A0D4004A38FF0ADBA7664F4.m3u8?bitrate=800</link>
+</item>
+ 
+<item>
+<title>EUROSPORT 2 HD (UK)</title>
+<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2011/07/Eurosport_2_HD-300x150.png</thumbnail>
+<link>http://esioslive4-i.akamaihd.net/hls/live/200736/AL_ESP2_UK_ENG/playlist_700.m3u8</link>
+</item>
+  
+<item>
+<title>EUROSPORT HD {UK}</title>
+<thumbnail>http://www.golfblogger.co.uk/data/post_pics/2010/02/03-36a53cd448df-medium.gif</thumbnail>
+<link>http://esioslive2-i.akamaihd.net/hls/live/200728/AL_ESP1_UK_ENG/playlist_700.m3u8</link>
+</item>
+ 
+<item>
+<title>EUROSPORT HD(FOREIGN}</title>
+<thumbnail>http://www.broadbandtvnews.com/wp-content/uploads/2008/07/eurosport_hd.gif</thumbnail>
+<link>rtmp://50.7.168.162:80/stream14?token=30/mystream?token=30</link>
+</item>
+
+<item>
+<title>EXTREME SPORT</title>
+<thumbnail>http://logonoid.com/images/thumbs/extreme-sports-logo.gif</thumbnail>
+<link>http://94.242.221.141/hls/a-lo/stream13.m3u8</link>
+</item>
+
+<item>
+<title>FAMILY GUY 24/7</title>
+<thumbnail>http://i3.ytimg.com/vi/nlKdgZVZI34/mqdefault.gif</thumbnail>
+<link>rtmp://edge.isearch.to/edge playpath=kq87xtlz5apu69c swfURL=http://player.ilive.to/player_ilive.swf live=1 pageURL=http://www.ilive.to/view/42957/watch-livE-family_guystreaming-channel</link>
+</item>
+
+<item>
+<title>FASHION BOX HD</title>
+<thumbnail>http://www.serbiaplus.com/wp-content/uploads/2013/03/FASHION-BOX-HD-119x125.gif</thumbnail>
+<link>http://spiinternational-i.akamaihd.net/hls/live/204307/FASHIONBOXHD_MT_HLS/once1200.m3u8</link>
+</item>
+
+<item>
+<title>FIGHT BOX HD</title>
+<thumbnail>http://www.satellite.bg/chalog/box_fight.gif</thumbnail>
+<link>http://spiinternational-i.akamaihd.net/hls/live/204308/FIGHTBOXHD_MT_HLS/once1200.m3u8</link>
+</item>
+
+<item>
+<title>film1</title>
+<thumbnail>http://www.hdtvnieuws.nl/images/film1-logo.png
+<link>mms://stream.hdtv1.cz/Film1cz-live</link>
+</item>
+
+<item>
+<title>FILMBOX BASIC</title>
+<thumbnail>http://filmtekercs.hu/wp-content/uploads/2013/02/filmbox.gif</thumbnail>
+<link>http://spiinternational-i.akamaihd.net/hls/live/204302/FILMBOXBASIC_PL_HLS/once1200.m3u8</link>
+</item>
+
+<item>
+<title>FILMBOX EXTRA</title>
+<thumbnail>http://cyfraplus.tv/cyfra_plus_filmbox_extra_ban.gif</thumbnail>
+<link>http://spiinternational-i.akamaihd.net/hls/live/204303/FILMBOXEXTRA_PL_HLS/once1200.m3u8</link>
+</item>
+  
+<item>
+<title>FOX  NEWS</title>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Fox_News_Channel.svg/200px-Fox_News_Channel.svg.png</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//1e2041858ca543fa90ec95d28197e907.m3u8?bitrate=800</link>
+</item>
+  
+<item>
+<title>FOX CRIME HD</title>
+<thumbnail>http://www.lanostratv.it/wp-content/uploads/2012/11/foxcrime-hd-logo-sky.gif</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//5028f7ff1d1b4d5f8189690233364737.m3u8?bitrate=800</link>
+</item>
+  
+<item>
+<title>FOX MOVIE CHANNEL</title>
+<thumbnail>http://th05.deviantart.net/fs71/200H/i/2011/257/8/9/fox_movie_channel_id_2000_by_charmedpiper1973-d49uil5.png
+<link>rtmp://edge.isearch.to/edge playpath=hc992q7x7cz86t9 swfURL=http://player.ilive.to/player_ilive.swf live=1 pageURL=http://www.ilive.to/view/38449/watch-live-fox_movie_channelstreaming-channel</link>
+</item>
+
+<item>
+<title>FOX SPORTS PLUS HD</title>
+<thumbnail>http://www.essmediaguide.com/images/channels-logo-foxsports_plus_hd.gif</thumbnail>
+<link>http://203.162.16.22/lives/origin01/bts-foxhd.isml/bts-foxhd-2096k.m3u8</link>
+</item>
+  
+<item>
+<title>FOX</title>
+<thumbnail>http://images.bwwstatic.com/tvnetworklogos/sm13D28F41-F252-A720-A00B65900871D496.gif</thumbnail>
+<link>rtmp://edge.isearch.to/edge playpath=68ackspem808lbf swfURL=http://player.ilive.to/player_ilive.swf live=1 pageURL=http://www.ilive.to/view/40883/watch-livE-USA_FOX.streaming-channel</link>
+</item>
+  
+<item>
+<title>FRANCE 24</title>
+<thumbnail>http://www.currybet.net/images/articles/tdf/france24-logo.gif
+<link>mms://stream1.france24.yacast.net/f24_liveen</link>
+</item>
+ 
+<item>
+<title>FX HD</title>
+<thumbnail>http://www.ecklend360.com/_include/images/logos/logo-fx-hd.gif</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//2e0e4b05aa6e428593f3b45b710045b7.m3u8?bitrate=800</link>
+</item>
+ 
+<item>
+<title>GOL TV</title>
+<thumbnail>http://tv.onlinemoviesportsandtv.com/wp-content/uploads/2012/12/Canal-+-Gol-TV.gif</thumbnail>
+<link>rtmp://159.253.143.62/live playpath=185107 swfURL=http://www.udemy.com/static/flash/player5.9.swf live=1 pageURL=http://castalba.tv/embed.php?cid=13473&wh=645&ht=395&r=tvonlinegratis .mobi --live</link>
+</item>
+ 
+<item>
+<title>GOLF CHANNEL</title>
+<thumbnail>http://www.pgawest.com/Images/Library/GolfChannel_opt.gif</thumbnail>
+<link>rtmp://37.220.32.54:443/liverepeater playpath=4013 swfURL=http://c1776742.cdn.cloudfiles.rackspacecloud.com/flash/player.swf pageURL=http://featve.com/player2.php?id=4013&width=640&height=460</link>
+</item>
+ 
+<item>
+<title>HAWAII TRAFFIC CAM</title>
+<thumbnail>http://illumination.missouri.edu/f11/images/traffic_cam.gif</thumbnail>
+date=2013-05-22
+<link>mms://207.7.154.95/G0125_017?wmcache=0</cs-url><cs-media-name>/</cs-media-name><cs-media-role>-</cs-media-role></XML>
+</link>
+</item>
+  
+<item>
+<title>HBO COMEDY</title>
+<thumbnail>http://www.novahd.cz/images/stanice/hbo-comedy-ceu.gif</thumbnail>
+<link>rtmp://edge.isearch.to/edge playpath=a1wn1j3ra1w0cv0 swfURL=http://player.ilive.to/player_ilive.swf live=1 pageURL=http://www.ilive.to/view/38214/watch-live-HBO_comedy_moviestreaming-channel
+</link>
+</item>
+ 
+<item>
+<title>HBO HITS</title>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/archive/f/fc/20120831031056!HBOHits-ASIA.png
+date=2013-05-25
+<link>http://v.hrtv8.com/vip.hrtv8.com/live/02.m3u8</link>
+</item>
+ 
+<item>
+<title>HBO {USA}</title>
+<thumbnail>http://texasgardeninn.com/images/hbo_logo.gif</thumbnail>
+<link>rtmp://edge.isearch.to/edge playpath=z28ie9oqoku4qoy swfURL=http://player.ilive.to/player_ilive.swf live=1 pageURL=http://www.ilive.to/view/36674/watch-live-HBO_live_stream_online-streaming-channel-for-free</link>
+</item>
+
+<item>
+<title>HBO2 (latin america)</title>
+<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2011/07/logo_hbo2.gif</thumbnail>
+<link>rtmp://redirect.isearch.to/edge/q370zyt153r1wl7 pageURL=http://www.ilive.to swfURL=http://player.ilive.to/player_ilive.swf</link>
+</item>
+
+<item>
+<title>HEART  MUSIC</title>
+<thumbnail>http://images2.layoutsparks.com/1/94335/heartbroken-stars-shine-pink.gif</thumbnail>
+<link>rtmp://cdn-sov-2.musicradio.com:80/LiveVideo/Heart</link>
+</item>
+
+  
+<item>
+<title>HISTORY CHANNEL HD</title>
+<thumbnail>http://i82.photobucket.com/albums/j268/andygreek1/History-Channel-Logo-new-300x300_zpscca45332.gif</thumbnail>
+<link>rtmp://edge.isearch.to/edge playpath=kpgg43eoznljrjm swfURL=http://player.ilive.to/player_ilive.swf live=1 pageURL=http://www.ilive.to/view/48214/watch-livE-history_{HD}streaming-channel</link>
+</item>
+
+<item>
+<title>ITV CHOICE HD</title>
+<thumbnail>https://si0.twimg.com/profile_images/3395181120/d012f94c0e50c9fe782ec87d7a2d7c7f.png</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//e36b99bcd26648af9db2261785c77b7a.m3u8?bitrate=800</link>
+</item>
+
+<item>
+<title>ITV</title>
+<thumbnail>http://www.itvmedia.co.uk/assets/itvmedia/content/images/300x195_newlogo_small.gif</thumbnail>
+<link>rtmp://live5.gv.edge.filmon.com:1935/live/11.high.stream</link>
+</item>
+
+<item>
+<title>ITV1+1</title>
+<thumbnail>http://www.judyplumwigs.co.uk/pix/uploaded/news/ITV1_logoSml.gif</thumbnail>
+<link>http://mi7.gv.filmon.com:1935/live/1817.low.stream/playlist.m3u8</link>
+</item>
+  
+<item>
+<title>ITV2+1</title>
+<thumbnail>http://brittany-satellites.com/images/channels/88x65_channel_logos_ITV2+1.gif</thumbnail>
+<link>http://mi7.gv.filmon.com:1935/live/1820.low.stream/playlist.m3u8</link>
+</item>
+
+<item>
+<title>ITV3+1</title>
+<thumbnail>http://satellitetveurope.co.uk/IMAGES/astra2/itv3_plus1.gif</thumbnail>
+<link>http://mi7.gv.filmon.com:1935/live/1823.low.stream/playlist.m3u8</link>
+</item>
+
+<item>
+<title>ITV4+1</title>
+<thumbnail>http://brittany-satellites.com/images/channels/88x65_itv4_1.gif</thumbnail>
+<link>http://mi7.gv.filmon.com:1935/live/1826.low.stream/playlist.m3u8</link>
+</item>
+  
+<item>
+<title>JURNAL TV</title>
+<thumbnail>http://profile.ak.fbcdn.net/hprofile-ak-prn1/s160x160/72982_10151419203825450_1253596272_a.png</thumbnail>
+<link>http://ch0.jurnaltv.md/channel0.flv</link>
+</item>
+  
+<item>
+<title>KISS TV</title>
+<thumbnail>http://www.ranklogos.com/wp-content/uploads/2012/04/kiss-tv-logo-1.gif</thumbnail>
+<link>rtmp://kisstelevision.es.flash3.glb.ipercast.net/kisstelevision.es-live/live</link>
+</item>
+
+<item>
+<title>KIDS CO</title>
+<thumbnail>http://www.ltwmag.com/images/_Dec_news_images/kidsco260.gif</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live/fdaede40b27445ac893189bc6332c914.m3u8?bitrate=800</link>
+</item>
+
+<item>
+<title>LAPD SCANNER FEED</title>
+<thumbnail>http://images2.layoutsparks.com/1/219135/police-siren-car-light.gif</thumbnail>
+<link>http://audio5.radioreference.com/346246215.mp3</link>
+</item>
+
+<item>
+<title>London area GB7OK and GB3OK Repeaters Live Audio Feed</title>
+<thumbnail>http://www.delcom-radio.com/media/catalog/product/cache/11/image/ca50353ce62313801905f6469c8a64d4/k/g/kg-uv920p-e-dual-band-cross-band-ham-vhf-uhf-amateur-radio-10.gif</thumbnail>
+<link>http://audio7.radioreference.com/852620655.mp3</link>
+</item>
+ 
+<item>
+<title>M CHANNEL HD</title>
+<thumbnail>http://www.asksaro.com/wp-content/uploads/2008/10/montreal-m-logo-blue.gif</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//8237601ce3ea4bae8332ebb0d88dba87.m3u8?bitrate=800</link>
+</item>
+
+<item>
+<title>MADLY MADAGASCAR</title>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Madly_Madagascar_DVD_Cover.gif</thumbnail>/220px-Madly_Madagascar_DVD_Cover.gif</thumbnail>
+<link>http://server48.stream2k.com/dl3/31y780dPoQ9K_zD41KMQuUjJHeH_4kQ04kAJRYqJzelKiUucubFjTeCzJ3S0kiv4XOx4Fr3kUg6AE77TNrlFRpJnxlPn2q_q3IGKpAmO-Ik=.flv?start=0</link>
+</item>
+
+<item>
+<title>MAGIC 105.4</title>
+<thumbnail>http://www.getmemedia.com/public/ideas/Opp/12216/magic105logo.gif</thumbnail>
+<link>http://91.193.246.144/magic1054.mp3</link>
+</item>
+ 
+<item>
+<title>MGM</title>
+<thumbnail>http://l1.yimg.com/nn/fp/rsz/031113/images/smush/MGM_1362996363.gif</thumbnail>
+<link>rtmp://redirect.isearch.to/edge/b0fehgu27mjkcxu pageURL=http://www.ilive.to swfURL=http://player.ilive.to/player_ilive.swf</link>
+</item>
+
+<item>
+<title>MOTORS TV</title>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/9/94/MotorsTV_logo.png/200px-MotorsTV_logo.png</thumbnail>
+<link>http://webtv-aarh-11.stofa.dk/100_01.m3u8</link>
+</item>
+
+<item>
+<title>MOTORVISION HD</title>
+<thumbnail>http://cf.juggle-images.com/fit/white/125x125/motorvision-tv-logo-primary.gif</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//4c2ebe80b19049deac5ad59b478a79ac.m3u8?bitrate=800</link>
+</item>
+  
+<item>
+<title>MOTORVISION HD</title>
+<thumbnail>http://i2.ytimg.com/vi/esdVm0cjBas/hqdefault.gif</thumbnail></thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//31b003ab7e7749a798fe00424e3dd9ff.m3u8?bitrate=800</link>
+</item>
+ 
+<item>
+<title>MSNBC HD</title>
+<thumbnail>http://www.blogcdn.com/www.engadgethd.com/media/2008/10/msnbc.gif</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live/7f2989e3f87e4efdb36bac56b64dca62.m3u8</link>
+</item>
+  
+<item>
+<title>MTV DANCE</title>
+<thumbnail>http://bambula.eu/mtv-dance2.gif</thumbnail>
+<link>http://94.242.221.141/hls/a-lo/stream80.m3u8</link>
+</item>
+
+<item>
+<title>MTV HITS</title>
+<thumbnail>http://1.bp.blogspot.com/-lvzC6POOyNM/UAiuhEdB7iI/AAAAAAAAAAs/2EhwxHjE0Nc/s1600/493px-MTV_HITS_logo.svg.png</thumbnail>
+<link>http://94.242.221.141/hls/a-lo/stream153.m3u8</link>
+</item>
+  
+<item>
+<title>MTV LIVE HD
+</title>
+<thumbnail>http://i282.photobucket.com/albums/kk266/interpol_evil_08_/mtvlivehd-li11-5.gif</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//8d45473ff4ca44d79e1abc4516c2fee0.m3u8?bitrate=800</link>
+</item>
+ 
+<item>
+<title>MTV ROCKS</title>
+<thumbnail>http://teve.ba/img/content/mtv-rocks.gif</thumbnail>
+<link>http://94.242.221.141/hls/a-lo/stream166.m3u8</link>
+</item>
+  
+<item>
+<title>MULTI SPORTS CHANNELS</title>
+<thumbnail>http://www.farmshowsusa.com/Logos/SportLogoSmall.gif</thumbnail>
+<link>rtmp://31.7.58.122:1935/stream/ffe84f5ed.stream swfURL=http://thecdn.04stream.com/p/bop.swf live=true timeout=10</link>
+</item>
+
+<item>
+<title>MUZ TV</title>
+<thumbnail>http://www.muz-tv.az/images/pleyirfon.gif</thumbnail>
+<link>rtmp://85.132.85.190:1935/live/muztv.stream</link>
+</item>
+ 
+<item>
+<title>NASA TV</title>
+<thumbnail>http://www.litchfield-park.org/images/pages/N174/NASA%20tv.gif</thumbnail>
+<link>http://nasahd-i.akamaihd.net/hls/live/203739/NASATV1_iOS_HD/Edge.m3u8</link>
+</item>
+  
+<item>
+<title>NAT GEO ADVENTURE HD</title>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/4/47/Nat_geo_wild_hd.gif</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?bitrate=800</link>
+</item>
+ 
+<item>
+<title>NAT GEO MUSIC</title>
+<thumbnail>http://cdn.americansongwriter.com/wp-content/uploads/2009/01/nat_geo_music.gif</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//69c2eab6794344619a049c5dea60ca22.m3u8?bitrate=800</link>
+</item>
+ 
+<item>
+<title>NAT GEO WILD HD</title>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/4/47/Nat_geo_wild_hd.gif</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8?bitrate=800</link>
+</item>
+
+  
+<item>
+<title>NBA</title>
+<thumbnail>http://lh3.ggpht.com/-ai4kNjWDfBs/UCSeKrZguJI/AAAAAAAAHP0/rETWVlOMZzw/NBA-TV-Logo%25255B6%25255D.gif</thumbnail>
+<link>rtmp://46.246.29.141:1935/stream/K8l9h6j8.stream swfURL=http://thecdn.04stream.com/p/boopo.swf pageURL=http://04stream.com/ live=true</link>
+</item>
+ 
+<item>
+<title>NBC HD</title>
+<thumbnail>http://www.midstatetv.com/images/channel_logos/HD%20Channels/5.11_NBC_hd.gif</thumbnail>
+<link>rtmp://edge.isearch.to/edge playpath=cqhm3klmkzmbrez swfURL=http://player.ilive.to/player_ilive.swf live=1 pageURL=http://www.ilive.to/view/48043/watch-livE-NBC_{HD}streaming-channel</link>
+</item>
+ 
+<item>
+<title>NDR</title>
+<thumbnail>http://static.traum-ferienwohnungen.de/images/about/ndr-logo.gif</thumbnail>
+<link>http://webtv-aarh-7.stofa.dk:80/186_01.m3u8</link>
+</item>
+  
+<item>
+<title>NFL NETWORK</title>
+<thumbnail>http://cdn.newsday.com/polopoly_fs/1.3909308.1348346193!/httpImage/image.gif</thumbnail>_gen/derivatives/display_600/image.gif</thumbnail>
+<link>rtmp://37.220.32.54:443/liverepeater playpath=1490 swfURL=http://c1776742.cdn.cloudfiles.rackspacecloud.com/flash/player.swf pageURL=http://featve.com/player2.php?id=1490&width=640&height=460</link>
+</item>
+ 
+<item>
+<title>NHK WORLD HD</title>
+<thumbnail>http://www.radioandtelly.co.uk/images/nhkworld_logo.gif</thumbnail>
+<link>rtmp://ca-1.net.fivecool.org/nhkw/gwm</link>
+</item>
+  
+<item>
+<title>NHL NETWORK</title>
+<thumbnail>http://2.cdn.nhle.com/nhl/images/upload/2012/10/NewNHLNetLogo_contmod100612.gif</thumbnail>
+<link>rtmp://37.220.32.54:443/liverepeater playpath=10213 swfURL=http://c1776742.cdn.cloudfiles.rackspacecloud.com/flash/player.swf pageURL=http://featve.com/player2.php?id=10213&width=640&height=460</link>
+</item>
+  
+<item>
+<title>NICKELODEON
+</title>
+<thumbnail>http://profile.ak.fbcdn.net/hprofile-ak-ash3/c64.0.592.592/s160x160/40471_137661579606030_3372793_n.gif</thumbnail>
+<link>rtmp://178.18.23.114/strm playpath=nickkp swfURL=http://www.telecast.eu/player/player.swf live=1 pageURL=http://www.telecast.eu/embed.php?u=nickkp&vw=670&vh=410</link>
+</item>
+
+<item>
+<title>NOVA CINEMA</title>
+<thumbnail>http://www.worldtvpc.com/onlinevideosites/img/novacinema.gif</thumbnail>
+<link>http://212.79.96.134:8020</link>
+</item>
+ 
+<item>
+<title>NOVA SPORT</title>
+<thumbnail>http://3.bp.blogspot.com/-HxG0qhyM_AE/Tme9Dx3milI/AAAAAAAABe8/Wj0s9-eJ6lw/s200/nova_sport.png</thumbnail>
+<link>http://212.79.96.134:8023</link>
+</item>
+
+<item>
+<title>NTV SPOR HD</title>
+<thumbnail>http://3.bp.blogspot.com/-G7WYkxx6Ua0/TfCqHc2z7iI/AAAAAAAABgA/SiodtrLqoAQ/s1600/ntv-spor-canli-izle.gif</thumbnail>
+<link>rtmpe://cp195822.live.edgefcs.net:1935/live playpath=1_d0cu2c39_1@93811 swfURL=http://dogus.kaltura.com.edgesuite.net/p/990652/sp/99065200/flash/kdp3/v3.6.12.1/kdp3.swf live=1 pageURL=http://tribun.ntvspor.net/ntvSpor/canli-yayin --live</link>
+</item>
+
+<item>
+<title>NYPD (SCANNER FEED)</title>
+<thumbnail>http://images2.layoutsparks.com/1/219135/police-siren-car-light.gif</thumbnail>
+<link>http://audio2.radioreference.com/931287466.mp3</link>
+</item>
+
+<item>
+<title>OLDIES RADIO {50s,60s,70s}
+</title><thumbnail>http://images2.layoutsparks.com/1/123781/dance-animation-man-woman.gif</thumbnail>
+<link>http://91.121.3.80:8010</link>
+</item>
+ 
+<item>
+<title>ONE HD CLASSICS</title>
+<thumbnail>http://images2.layoutsparks.com/1/137827/painted-guitar-music-notes.gif</thumbnail>
+<link>rtsp://91.213.34.18:1935/live/classicshd</link>
+</item>
+
+<item>
+<title>ONE HD DANCE</title>
+<thumbnail>http://images2.layoutsparks.com/1/59695/dance-animated-passion-image.gif</thumbnail>
+<link>rtsp://91.213.34.18:1935/live/dancehd</link>
+</item>
+
+<item>
+<title>ONE HD POP</title>
+<thumbnail>http://images2.layoutsparks.com/1/200963/girl-sound-music-volume.gif</thumbnail>
+<link>rtsp://91.213.34.18:1935/live/pophd</link>
+</item>
+ 
+<item>
+<title>ONE HD ROCK</title>
+<thumbnail>http://images2.layoutsparks.com/1/217278/rock-on-plucktrum-music.gif</thumbnail>
+<link>rtsp://91.213.34.18:1935/live/rockhd</link>
+</item>
+
+<item>
+<title>ORF SPORT</title>
+<thumbnail>http://www.ors.at/fileadmin/user_upload/bestp/orf-sport-plus_1__01.png</thumbnail>
+<link>rtsp://apasfwl.apa.at/orfs_q6a/orf.sdp
+</link>
+</item>
+ 
+<item>
+<title>OUTDOOR CHANNELHD</title>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/d/d1/Outdoor_Channel_HD.png</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//1c551f42019d40e8acf32e8218ef8703.m3u8?bitrate=800</link>
+</item>
+
+<item>
+<title>PICK TV
+</title><thumbnail>http://marketing.freeview.co.uk/var/freeview/storage/images/library/file-bank/image-bank/blogs/pick-tv_logo_black/73798-1-eng-GB/PICK-TV_LOGO_black_featureLarge.gif</thumbnail>
+<link>rtsp://mi5.gv.filmon.com:1935/live/_definst_/371.high.stream
+</link>
+</item>
+
+<item>
+<title>PRICE DROP</title>
+<thumbnail>http://www.seeklogo.com/images/P/pricedrop_TV-logo-7527B4FD03-seeklogo.com.gif
+<link>rtmp://sharprouter.sharp-stream.com:1935/pricedroptv/_definst_/pricedroptv</link>
+</item>
+
+<item>
+<title>PSYCHIC TV</title>
+<thumbnail>http://3.bp.blogspot.com/-68J9FI5zYas/USjdgHPMlsI/AAAAAAAABcE/TzrZFHisV9s/s1600/2008_08_psychic1.gif</thumbnail>
+<link>rtmp://93.89.84.214/iptv_psychic_cc/livestream</link>
+</item>
+  
+<item>
+<title>QVC</title>
+<thumbnail>http://www.imediamonkey.com/wp-content/uploads/2012/05/qvc_logo-300x180.gif</thumbnail>
+<link>http://qstream.qvcuk.com/uksegmenter/Main_iOS.m3u8</link>
+</item>
+
+<item>
+<title>RACING UK AND MORE</title>
+<thumbnail>http://images2.layoutsparks.com/1/239196/for-pat-req-horse.gif</thumbnail>
+<link>rtmp://37.220.32.54:443/liverepeater playpath=10405 swfURL=http://c1776742.cdn.cloudfiles.rackspacecloud.com/flash/player.swf pageURL=http://featve.com/player2.php?id=10405&width=640&height=460</link>
+</item>
+ 
+<item>
+<title>RAI GULP</title>
+<thumbnail>http://profile.ak.fbcdn.net/hprofile-ak-snc7/c13.0.160.160/422833_183044971796139_516321163_a.gif</thumbnail>
+<link>mmsh://212.162.68.163/Rai_gulp</link>
+</item>
+  
+<item>
+<title>RAI YOYO</title>
+<thumbnail>http://4.bp.blogspot.com/-Y1G9gxHAgqU/UQD15LCBU9I/AAAAAAAAC74/9ukzWiBwoAw/s200/rai-yoyo-tv-online.gif</thumbnail>
+<link>mmsh://212.162.68.163/Rai_yoyo</link>
+</item>
+ 
+<item>
+<title>REAL MADRID TV</title>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.gif</thumbnail>
+<link>http://rmtv1live.realmadrid.com/streams/rmtv1ipad/rmtv1ipad.m3u8</link>
+</item>
+
+<item>
+<title>REALLY</title>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Really_logo.svg/200px-Really_logo.svg.png</thumbnail>
+<link>rtsp://mi5.gv.filmon.com:1935/live/_definst_/372.high.stream</link>
+</item>
+  
+<item>
+<title>REDBULL TV</title>
+<thumbnail>http://www.appsfuze.com/static/images/apps/c/c/a/ccacf19a-e4cb-df11-9eae-00237de2db9e.png</thumbnail>
+<link>rtmp://cp93704.live.edgefcs.net:443/live playpath=redbull2@21839 swfURL=http://img.hsni.com/images/Site_Relaunch_2007/arcade/StrobeMediaPlayback_Default.swf pageURL=http://livetvcafe.net/ swfVfy=true live=true</link>
+</item>
+ 
+<item>
+<title>RTL</title>
+<thumbnail>http://www.o-ton.ch/wp-content/uploads/2008/12/rtl-logo1.gif</thumbnail>
+<link>http://Webtv-aarh-8.stofa.dk:80/187_01.m3u8</link>
+</item>
+
+<item>
+<title>S USA</title>
+<thumbnail>http://about.channel5.com/files/images/5usa_ourbrands_mainimage_v1.gif</thumbnail>
+<link>http://mi7.gv.filmon.com:1935/live/845.low.stream/playlist.m3u8</link>
+</item>
+ 
+<item>
+<title>SAT 1</title>
+<thumbnail>http://www.seeklogo.com/images/S/Sat_1-logo-FDB715D039-seeklogo.com.gif</thumbnail>
+<link>http://webtv-aarh-8.stofa.dk:80/193_01.m3u8</link>
+</item>
+  
+<item>
+<title>THE SHAWSHANK REDEMPTION</title>
+<thumbnail>http://imgc.allpostersimages.com/images/P-473-488-90/26/2651/JOTMD00Z/posters/the-shawshank-redemption.gif</thumbnail>
+<link>http://server7.stream2k.com/dl3/O97960Te2FIcNgLLWr2Li8muJig0xNHEUw8ccNd0dul0UttDruA9EAvETdGodifd-9F2jZQXtx-8dVYWVcOQp-g9OQbzDp8t3R90O1M4wsw=.flv?start=0</link>
+</item>
+
+<item>
+<title>SKY ATLANTIC</title>
+<thumbnail>http://www.tvthrong.co.uk/files/u1670/sky_atlantic_hd_logo.gif</thumbnail>
+<link>rtmp://37.140.235.22:1935/live/atlantic live=1</link>
+</item>
+
+<item>
+<title>SKY LIVING</title>
+<thumbnail>http://www.jeannettejackson.com/images/uploads/Sky-Living.png</thumbnail>
+<link>rtmp://37.140.235.22:1935/live/living live=1</link>
+</item>
+
+<item>
+<title>SKY 1</title>
+<thumbnail>http://www.radioandtelly.co.uk/images/sky1logo.gif</thumbnail>
+<link>rtmp://37.140.235.22:1935/live/sky1dg live=1</link>
+</item>
+
+<item>
+<title>SYFY UK</title>
+<thumbnail>http://graphics8.nytimes.com/images/2009/03/16/business/16adcol01-190.gif</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//71f197de056e499a85265c03b44bdab1.m3u8?bitrate=800</link>
+</item>
+
+<item>
+<title>SKY NEWS HD</title>
+<thumbnail>http://farm4.static.flickr.com/3529/3252564095_2f0c963164.gif</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//31b003ab7e7749a798fe00424e3dd9ff.m3u8?bitrate=800</link>
+</item>
+
+<item>
+<title>SKY MOVIES PREMIIERE</title>
+<thumbnail>http://www.joinskydigital.com/images/hd-movies/HD_Movies_Premiere.gif</thumbnail>
+<link>rtmp://37.140.235.22:1935/live/premdg live=1</link>
+</item>
+
+<item>
+<title>SKY MOVIES ACTION</title>
+<thumbnail>http://www.sky.com/skyloyalty/export/sites/www.sky.com/products/__Images/ChannelLogos/Movies_hd_action.png_1683959914.png</thumbnail>
+<link>rtmp://37.140.235.22:1935/live/actiondg live=1</link>
+</item>
+ 
+<item>
+<title>SHOWTIME MOVIES</title>
+<thumbnail>http://pod-design.com/wp-content/uploads/2012/07/SHOWTIME-logo.gif</thumbnail>
+<link>rtmp://fmsnl.ilive.to:1935/app/_definst_/bwbop58ixz281wv</link>
+</item>
+ 
+<item>
+<title>SKY POKER</title>
+<thumbnail>http://www.casagambling.com/Content/Operators/Images/LogoSquare_31.gif</thumbnail>
+<link>rtmp://cp67698.live.edgefcs.net/live playPath=SkyPoker_500k@9124 pageURL=http://www.estadio.in/skypoker swfURL=http://www.estadio.in/player.swf tc timeout=10 live=1</link>
+</item>
+
+<item>
+<title>SKY SPORTS 1 HD</title>
+<thumbnail>http://www.skymedia.co.uk/_downloads/96/Sky-Sports-HD-1.gif</thumbnail>
+<link>rtmp://85.12.5.153:1935/live/_definst_ playpath=sfdgfsfv swfURL=http://www.yycast.com/playerskin/player.swf live=1 pageURL=http://www.yycast.com/embed.php?fileid=sfdgfsfv&vw=620&vh=490</link>
+</item>
+ 
+<item>
+<title>SKY SPORTS 3  HD</title>
+<thumbnail>http://www.skymedia.co.uk/_downloads/96/Sky-Sports-HD-3.gif</thumbnail>
+<link>rtmp://37.140.235.22:1935/live/skysp3dg live=1</link>
+</item>
+
+<item>
+<title>SKY SPORTS 4</title>
+<thumbnail>http://www.wheresthematch.com/images/newchannels/skysports4.gifhttp://www.estadio.in/player.swf tc
+<link>rtmp://89.248.172.239/live playpath=ss432423 swfURL=http://www.reyhq.com/player/player-licensed.swf live=1 pageURL=http://www.reyhq.com/embed.php?live=ss432423&vw=620&vh=490</link>
+</item>
+  
+<item>
+<title>SKY SPORTS F1</title>
+<thumbnail>http://www.digitaltvselector.com/wp-content/uploads/2009/03/500px-Sky_Sports_F1_HD.svg_.png</thumbnail>
+<link>rtmp://93.174.93.67/live playpath=1233213123 swfURL=http://www.reyhq.com/player/player-licensed.swf live=1 pageURL=http://www.reyhq.com/embed.php?live=1233213123&vw=620&vh=490</link>
+</item>
+ 
+<item>
+<title>SKY SPORTS NEWS HD</title>
+<thumbnail>http://www.fm-base.co.uk/forum/attachments/football-manager-2012-stories/258347d1341609916-paolo-di-canio-back-into-football-satelite_tv_sky_sports_news_hd_logo.png</thumbnail>
+<link>rtmp://37.140.235.22:1935/live/skyspnews live=1</link>
+</item>
+
+<item>
+<title>SKY SPORTS 2</title>
+<thumbnail>http://images4.wikia.nocookie.net/__cb20111102191431/logopedia/images/a/a9/Skyhd2.png</thumbnail>
+<link>rtmp://37.140.235.22:1935/live/skysp2dg live=1</link>
+</item>
+
+<item>
+<title>SLAM TV</title>
+<thumbnail>http://www.medianed.com/wp-content/uploads/2008/07/slamtv.gif</thumbnail>
+<link>rtmp://video.true.nl/slamtv/ playpath=/slamtv swfURL=http://4uiptv.com/player.swf pageURL=http://imtv.at.ua/slamtv.html live=1</link>
+</item>
+ 
+<item>
+<title>SPIKE TV</title>
+<thumbnail>http://bloximages.chicago2.vip.townnews.com/thewesterlysun.com/content/tncms/assets/v3/editorial/1/f3/1f3b8dd2-2ffa-11e2-93e8-0019bb2963f4/50a64e5327f22.image.gif</thumbnail>
+<link>rtmp://edge.isearch.to/edge playpath=m5bn1sv1r8644m6 swfURL=http://player.ilive.to/player_ilive.swf live=1 pageURL=http://www.ilive.to/view/48351/watch-livE-spikeTVstreaming-channel</link>
+</item>
+ 
+<item>
+<title>SPIKE</title>
+<thumbnail>http://img3.allvoices.com/thumbs/image/609/480/65335581-spike.gif</thumbnail>
+<link>rtmp://redirect.isearch.to/edge playpath=m5bn1sv1r8644m6 swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php?width=600&height=450&channel=48351&autoplay=true</link>
+</item>
+
+<item>
+<title>SPORT -TV2</title>
+<thumbnail>http://tv.onlinemoviesportsandtv.com/wp-content/uploads/2012/12/sport_tv2_pt.gif</thumbnail>
+<link>rtmp://93.174.93.67/live playpath=ee22 swfURL=http://www.reyhq.com/player/player-licensed.swf pageURL=http://www.reyhq.com/embed.php?live=ee22&vw=640&vh=450 live=1 conn=S:OK --live</link>
+</item>
+ 
+<item>
+<title>SPORT CHANNEL</title>
+<thumbnail>http://www.farmshowsusa.com/Logos/SportLogoSmall.gif</thumbnail>
+<link>rtmp://94.242.252.134:443/liverepeater playpath=3988 swfURL=http://c1776742.cdn.cloudfiles.rackspacecloud.com/flash/player.swf pageURL=http://featve.com/player2.php?id=3988&width=640&height=460</link>
+</item>
+ 
+<item>
+<title>SPORT STREAM 1</title>
+<thumbnail>http://logo-bank.com/thumbs/98927-Aljazeera-Sport.gif
+<link>rtmp://80.82.78.29/liveedge playpath=ch1-u6zhxf33phi swfURL=http://obigbrother.com/player.swf live=1 pageURL=http://cast4you.tv/show.php?id=ch1-u6zhxf33phi&width=100%&height=95%</link>
+</item>
+ 
+<item>
+<title>SPORT TV-1 HD</title>
+<thumbnail>http://tv.onlinemoviesportsandtv.com/wp-content/uploads/2012/12/Sport-TV1.gif</thumbnail>
+<link>rtmp://93.174.93.67/live playpath=ee11 swfURL=http://www.reyhq.com/player/player-licensed.swf pageURL=http://www.reyhq.com/embed.php?live=ee11&vw=640&vh=450 live=1 conn=S:OK --live</link>
+</item>
+
+<item>
+<title>SPORT TV-4</title>
+<thumbnail>http://www.cabovisao.pt/resources/logos_canais/sport_tv4_thumb7.png</thumbnail>
+<link>rtmp://89.248.162.237/live playpath=sara4 swfURL=http://www.reyhq.com/player/player-licensed.swf pageURL=http://www.reyhq.com/embed.php?live=sara4&vw=640&vh=450 live=1 conn=S:OK --live</link>
+</item>
+ 
+<item>
+<title>SPORT-TV3</title>
+<thumbnail>http://2.bp.blogspot.com/-6e2hS8F1_W0/UJEkIZr0b_I/AAAAAAAAJ6Y/STuRf9soO4Q/s400/Sport+TV3+Live+%E2%80%93+Sport+TV3+Slovenia+Free+Sport+TV3+Online.jpeg</thumbnail>
+<link>rtmp://redbull.micast.tv/liveedge playpath=sporttv3 swfURL=http://files.mica.st/player.swf pageURL=http://micast.tv/gens2.php?ch=sporttv3&width=640&height=450 live=1 conn=S:OK --live</link>
+</item>
+  
+<item>
+<title>STAR WORLD HD</title>
+<thumbnail>http://images2.layoutsparks.com/1/61115/YaY-Cowboys-Rotating-stars.gif</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//65f7358b813048a0898f5677e1793cf9.m3u8?bitrate=800</link>
+</item>
+  
+<item>
+<title>STARZ HD</title>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/starz_hd.gif</thumbnail>
+<link>rtmp://edge.isearch.to/edge playpath=jw0ygi8ojhsw1t3 swfURL=http://player.ilive.to/player_ilive.swf live=1 pageURL=http://www.ilive.to/view/48735/watch-livE-starz_USA_{HD}streaming-channel</link>
+</item>
+ 
+<item>
+<title>STARZ MOVIES</title>
+<thumbnail>http://www.starz.com/SiteCollectionImages/newBrandAssets/starz_darkBkgd_685x385.gif</thumbnail>
+<link>rtmp://edge.isearch.to/edge playpath=8g7x80ozu6hz2ds swfURL=http://player.ilive.to/player_ilive.swf live=1 pageURL=http://www.ilive.to/view/38366/watch-livE-starZ_moviesstreaming-channel</link>
+</item>
+
+<item>
+<title>STARZ</title>
+<thumbnail>http://profile.ak.fbcdn.net/hprofile-ak-prn1/50355_135169361667_1934040_n.gif</thumbnail>
+<link>rtmp://142.4.217.210/modelo/starz/starz.video swfURL=http://www.skyonelive.com/player/player.swf live=1 pageURL=http://www.skyonelive.com/sports.php?n=starz</link>
+</item>
+
+<item>
+<title>SUPER RTL</title>
+<thumbnail>http://img4.klamm.de/news/superrtl_logo-L6.gif</thumbnail>
+<link>http://webtv-aarh-9.stofa.dk:80/189_01.m3u8</link>
+</item>
+
+<item>
+<title>SUPERMAN (1978)</title>
+<thumbnail>http://www.realityisfalse.pwp.blueyonder.co.uk/superman6.gif
+<link>http://server36.stream2k.com/dl3/cDB_LXg2bd-VZ8bsC9vOv8jcgIIaKP8MLFj5e95pD_bUHlm5j_JFnzUL27fxmKoGTfCxMr2_lOsqi2JnJkF7E8-NrVNLvL0pGo0KwdiwL8w=.flv?start=0</link>
+</item>
+
+<item>
+<title>SVT1</title>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/7/76/SVT1_logotyp.png
+<link>http://webtv-aarh-8.stofa.dk/97_01.m3u8</link>
+</item>
+ 
+<item>
+<title>SVT2</title>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/c/ce/SVT2_logotyp.png
+<link>http://webtv-aarh-8.stofa.dk:80/96_01.m3u8</link>
+</item>
+
+<item>
+<title>SYFY UK (subs)</title>
+<thumbnail>http://www.animagination.co.uk/images/syfy6_00196.gif</thumbnail>
+date=2013-05-24
+<link>http://fw01.livem3u8.me.totiptv.com/live/71f197de056e499a85265c03b44bdab1.m3u8?bitrate=800</link>
+</item>
+ 
+<item>
+<title>SYFY</title>
+<thumbnail>http://images1.wikia.nocookie.net/__cb20120420164239/logopedia/images/thumb/0/00/Syfy_logo_for_green_is_universal.png/125px-Syfy_logo_for_green_is_universal.png</thumbnail>
+<link>rtmp://142.4.217.210/modelo/syfy/syfy.video swfURL=http://www.skyonelive.com/player/player.swf live=1 pageURL=http://www.skyliveradio.com/sports.php?n=syfy</link>
+</item>
+ 
+<item>
+<title>TCM</title>
+<thumbnail>http://www.seeklogo.com/images/T/TCM-logo-6120575E07-seeklogo.com.gif</thumbnail>
+date=2013-05-22
+<link>mmst://173.208.220.150/tcm</link>
+</item>
+  
+<item>
+<title>Tele Antilles</title>
+<thumbnail>http://thewatchtv.com/wp-content/uploads/2013/03/Watch-Tele-Antilles-Live-TV-from-Haiti.gif</thumbnail>
+<link>mms://soleiltv.impek.tv/soleiltv</link>
+</item>
+ 
+<item>
+<title>TEN ACTION SPORTS</title>
+<thumbnail>http://4.bp.blogspot.com/-fsqnZ96mY-Q/UExxsXM0UeI/AAAAAAAACxM/RrNhEhiUSqk/s1600/ten_action.gif</thumbnail>
+<link>rtmp://46.23.67.58/live/asf124ffwqa?id=46194 playpath=asf124ffwqa?id=46194 swfURL=http://www.ucaster.eu/static/scripts/eplayer.swf  live=1 pageURL=http://www.ucaster.eu/embedded/asf124ffwqa/1/600/420 conn=S:OK --live</link>
+</item>
+
+<item>
+<title>THRILL MOVIE CHANNEL HD</title>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Thrill_logo.gif</thumbnail>/200px-Thrill_logo.gif</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//c316ed9333e54442b25077f0bb3cc269.m3u8?bitrate=800</link>
+</item>
+
+<item>
+<title>TNA LIVE/ REPLAYS/ WWE AND MORE</title>
+<thumbnail>http://www.wrestlesite.com/wp-content/uploads/2010/12/tna_logo_feature.gif</thumbnail>
+<link>rtmp://edge.isearch.to/edge playpath=y94xu6blgkqlbjb swfURL=http://player.ilive.to/player_ilive.swf live=1 pageURL=http://www.ilive.to/view/47991/watch-TNA_IMPACT_LIVE__ALWAYSROCKING_(WWE,TNA,ROH,WCW}-streaming-channel-for-free</link>
+</item>
+ 
+<item>
+<title>TNT</title>
+<thumbnail>http://www.uyanangenclik.com/resimlerim/menu/tnt.gif</thumbnail>
+<link>rtmp://edge.isearch.to/edge playpath=cicnt0lu5cy3sbu swfURL=http://player.ilive.to/player_ilive.swf live=1 pageURL=http://www.ilive.to/view/48069/watch-livE-TNTstreaming-channel</link>
+</item>
+
+<item>
+<title>TRAVEL CHANNEL HD</title>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Travel_Channel_(International)_logo.png/200px-Travel_Channel_(International)_logo.png</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//4c136f4cb1fd4f62a583a029c2eb6c77.m3u8?bitrate=800</link>
+</item>
+ 
+<item>
+<title>TRU TV</title>
+<thumbnail>http://www.nytvf.com//newsletter/images/trutv.gif</thumbnail>
+<link>rtmp://fmsnl.ilive.to:1935/app/_definst_/sfkua8d8yo8jmut</link>
+</item>
+
+<item>
+<title>TRUE SPORT 2HD</title>
+<thumbnail>http://www.thegolfemag.com/UserFiles/image/star/1005/100519_truesport/100519_truesport01.gif</thumbnail>
+<link>rtmp://58.97.57.150/live playpath=hd02 swfURL=http://www.one2hd.com/swfs/mediaPlayer/mediaPlayer.swf live=1 pageURL=http://www.one2hd.com</link>
+</item>
+
+<item>
+<title>Tv2N</title>
+<thumbnail>http://www.farmshowsusa.com/Logos/SportLogoSmall.gif</thumbnail>
+<link>rtmp://80.63.11.91:1935/live/_definst_/tv2nord-plus_300</link>
+</item>
+ 
+<item>
+<title>TVE</title>
+<thumbnail>http://www.celdamedia.com/capturas/tve-logo.gif</thumbnail>
+<link>http://webtv-aarh-8.stofa.dk:80/177_01.m3u8</link>
+</item>
+
+<item>
+<title>TVN SPORT</title>
+<thumbnail>http://img441.imageshack.us/img441/4647/tvnsportprojih2.png</thumbnail>
+<link>rtmp://50.7.168.162:80/stream9?token=10/mystream?token=10</link>
+</item>
+
+<item>
+<title>UNIVERSAL CHANNEL</title>
+<thumbnail>http://www.broadbandtvnews.com/wp-content/uploads/2013/05/Universal-Channel-logo-2013-300x168.gif</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live/a7105ed1bb0a44bba1f4f71f2352b892.m3u8?bitrate=800</link>
+</item>
+
+<item>
+<title>USA NETWORK HD</title>
+<thumbnail>http://images2.layoutsparks.com/1/246844/country-girl-25-glitter.gif</thumbnail>
+<link>rtmp://142.4.217.210/modelo/usanet/usanet.video swfURL=http://www.skyonelive.com/player/player.swf live=1 pageURL=http://www.skyonelive.com/sports.php?n=usanet</link>
+</item>
+ 
+<item>
+<title>VH1 CLASSIC</title>
+<thumbnail>https://twimg0-a.akamaihd.net/profile_images/2931785049/911c2651a398a40c89b88131e88f8413.jpeg</thumbnail>
+<link>http://94.242.221.141/hls/a-lo/stream79.m3u8</link>
+</item>
+
+<item>
+<title>VIVA (UK)</title>
+<thumbnail>http://beviacom.com/wp-content/uploads/2012/09/ourbrands_viva_01.gif</thumbnail>
+<link>rtsp://mi5.gv.filmon.com:1935/live/_definst_/8.high.stream</link>
+</item>
+
+<item>
+<title>viva</title>
+<thumbnail>http://logok.org/wp-content/uploads/2010/09/VIVA_Logo_black.svg_.png</thumbnail>
+<link>http://212.79.96.134:8007</link>
+</item>
+
+<item>
+<title>vox</title>
+<thumbnail>http://images3.wikia.nocookie.net/__cb20091205134334/logopedia/images/thumb/4/44/Vox_logo_simple.svg/391px-Vox_logo_simple.svg.png</thumbnail>
+<link>http://webtv-aarh-8.stofa.dk:80/190_01.m3u8</link>
+</item>
+
+<item>
+<title>WARNER BROTHERS TV</title>
+<thumbnail>http://i.ytimg.com/vi/yHRCVR1ux1U/default.gif</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live/06e717f5ec0c4657a8c76c4dfcf9449b.m3u8?bitrate=800</link>
+</item>
+  
+<item>
+<title>WE HD</title>
+<thumbnail>http://www.spacesseo.com/wp-content/uploads/2013/04/we_hd.gif</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//dea34fa045074639b3a18123d4b4eda0.m3u8?bitrate=800</link>
+</item>
+
+<item>
+<title>WEALTH HD</title>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/7/73/Wealth_TV.png</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//ce9a1585f45d4379970b95308df3f879.m3u8?bitrate=800</link>
+</item>
+
+<item>
+<title>3 SAT</title>
+<thumbnail>http://www.bertelsmann-stiftung.de/bst/de/img/content/querformat/Logo_3_Sat_Original_180_px.gif</thumbnail>
+<link>http://webtv-aarh-8.stofa.dk:80/182_01.m3u8</link>
+</item>
+
+<item>
+<title>4 MUSIC</title>
+<thumbnail>http://www.ukscreenassociation.co.uk/uploadedImages/news/4music_logo.gif</thumbnail>
+<link>rtsp://mi5.gv.filmon.com:1935/live/_definst_/95.high.stream</link>
+</item>
+
+</items>
+</channel>
+
+<channel>
+<name> ->> International Channels - TV Quoc Te</name>
+<thumbnail>http://www.directstartv.com/images/package_pages/pkg_ultimate_logos.png</thumbnail>
+<items>
+
+ 
+<item>
+<title>English Club TV Russia</title>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/english_club_tv.jpg</thumbnail>
+<link>http://goo.gl/TrAoE</link>
+</item>
+
+<item>
+<title>BBC Entertainment UAE</title>
+<thumbnail>http://www.mxmindia.com/wp-content/uploads/2012/11/bbc-ent.jpg</thumbnail>
+<link>http://goo.gl/GQByg</link>
+</item>
+
+<item>
+<title>Showtime US</title>
+<thumbnail>http://i254.photobucket.com/albums/hh98/justme4u2cme/Navi-X%20Playlists/500px-Showtimesvg.png</thumbnail>
+<link>rtmpe://142.4.217.210/modelo/showtime/showtime.video swfURL=http://www.livecupbrazil.com/player/player.swf live=1 pageURL=http://www.livecupbrazil.com/sports.php?n=starz</link>
+</item>
+
+<item>
+<title>Starz US</title>
+<thumbnail>http://blog.gpcom.com/wp-content/uploads/2011/09/Starz-Logo-for-Featured-Image.jpg</thumbnail>
+<link>rtmpe://142.4.217.210/modelo/starz/starz.video swfURL=http://www.livecupbrazil.com/player/player.swf live=1 pageURL=http://www.livecupbrazil.com/sports.php?n=starz</link>
+</item>
+
+<item>
+<title>ABC US</title>
+<thumbnail>http://tvseriesfinale.com/assets/abc02aa.jpg</thumbnail>
+<link>rtmp://edge.isearch.to/edge/aipujcyjcc27zvu swfURL=http://player.ilive.to/player_ilive_2.swf pageURL=http://www.ilive.to</link>
+</item>
+
+<item>
+<title>The CW US</title>
+<thumbnail>http://letstalkabout.tv/wp-content/uploads/2012/07/The-CW-Logo1-605x270.png</thumbnail>
+<link>rtmp://edge.isearch.to/edge playpath=kcizip7f2d6zh6l swfURL=http://player.ilive.to/player_ilive.swf live=1 pageURL=http://www.ilive.to/view/48192/watch-live-CW-streaming-channel-for-free</link>
+</item>
+
+<item>
+<title>Pro-Wrestling</title>
+<thumbnail>http://images4.wikia.nocookie.net/__cb20110320232233/wweallstars/images/e/e5/WWE.png</thumbnail>
+<link>rtmp://80.93.53.88:1935/live/wrestling.stream</link>
+</item>
+
+<item>
+<title>World Fashion TV Russia</title>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ww/world_fashion_tr.jpg</thumbnail>
+<link>http://50.7.129.202/stream/TEST/119.m3u8</link>
+</item>
+
+<item>
+<title>MLB Network US</title>
+<thumbnail>http://www.cbc-raleigh.com/capcom/news/2011/bulls_11/mlb_network/mlb-networka.png</thumbnail>
+<link>http://211.79.36.141/iTV/getSubIndex/ch76/02.m3u8?sId=S20130607401508</link>
+</item>
+
+<item>
+<title>English Club TV Russia</title>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/english_club_tv.jpg</thumbnail>
+<link>http://94.242.221.141/hls/a-lo/stream132.m3u8</link>
+</item>
+
+<item>
+<title>Fashion TV Russia</title>
+<thumbnail>http://profile.ak.fbcdn.net/hprofile-ak-ash4/c41.41.518.518/s160x160/430069_10151085369941611_651933828_n.png</thumbnail>
+<link>http://94.242.221.141/hls/a-lo/stream104.m3u8</link>
+</item>
+
+<item>
+<title>A&E US</title>
+<thumbnail>http://www.aetv.com/news-page/images/news_generic_AElogo.jpg</thumbnail>
+<link>rtmp://edge.isearch.to/edge/oanry4s71cylxxb swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>ABC US</title>
+<thumbnail>http://tvseriesfinale.com/assets/abc02aa.jpg</thumbnail>
+<link>rtmpe://142.4.217.210/modelo/abc10/abc10.video swfURL=http://skyliveradio.com/player/player.swf pageURL=http://skyliveradio.com/stream.php?n=abc10&vw=600&vh=450
+</link>
+</item>
+
+<item>
+<title>AMC US</title>
+<thumbnail>http://brusimm.com/wp-content/uploads/2012/05/AMC-TV.jpg</thumbnail>
+<link>rtmp://edge.isearch.to/edge/z4cxm7zlfyqs65m swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>Animal Planet HD Russia</title>
+<thumbnail>http://1.bp.blogspot.com/_wlO5kUsn6DU/TQWxSzsQ3DI/AAAAAAAAAFY/5z3MIMjLQHA/s1600/animal_planet_fan.png</thumbnail>
+<link>rtmp://s01.webport.tv/promo/mtv playpath=mtv pageURL=http://www.hqtv.biz/1/wp-content/themes/hqtv/player/jwplayer.flash.swf?netstreambasepath=http://hqtv.biz/&autostart=true&skin=http://www.hqtv.biz/1/wp-content/themes/hqtv/player/jwplayer.flash/skins/newtubedark.zip&streamer=rtmp://s01.webport.tv/promo/&provider=rtmp&file=mtv swfURL=http://www.hqtv.biz/1/wp-content/themes/hqtv/player/jwplayer.flash.swf?netstreambasepath=http://hqtv.biz/&autostart=true&skin=http://www.hqtv.biz/1/wp-content/themes/hqtv/player/jwplayer.flash/skins/newtubedark.zip&streamer=rtmp://s01.webport.tv/promo/&provider=rtmp&file=mtv live=true</link>
+</item>
+
+<item>
+<title>Animal Planet Thailand</title>
+<thumbnail>http://1.bp.blogspot.com/_wlO5kUsn6DU/TQWxSzsQ3DI/AAAAAAAAAFY/5z3MIMjLQHA/s1600/animal_planet_fan.png</thumbnail>
+<link>rtmp://edge.isearch.to/edge/41i3ymbmum28xfk swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>Asia Travel China</title>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/asia_travel_tv.jpg</thumbnail>
+<link>http://widih.modifikasi.com/tv/cntv.php?id=14</link>
+</item>
+
+<item>
+<title>AXN Portugal</title>
+<thumbnail>http://2.bp.blogspot.com/-nzY9_B0HCNA/TdraXaKxqkI/AAAAAAAAGSQ/fZFMf8DT8u4/s320/HighResLogo_RGB.jpg</thumbnail>
+<link>rtmp://edge.isearch.to/edge/dw657dcdmdf0vap swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>AXN Taiwan</title>
+<thumbnail>http://2.bp.blogspot.com/-nzY9_B0HCNA/TdraXaKxqkI/AAAAAAAAGSQ/fZFMf8DT8u4/s320/HighResLogo_RGB.jpg</thumbnail>
+<link>http://widih.modifikasi.com/tv/cntv.php?id=65</link>
+</item>
+
+<item>
+<title>AXN Black Portugal</title>
+<thumbnail>http://ak.cdn2.sptidigital.com/sites/all/themes/axnblack_2011/logo.png</thumbnail>
+<link>rtmp://edge.isearch.to/edge/79fkf9ugubolnai swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>AXN White Portugal</title>
+<thumbnail>http://www.plus.es/recorte.php?xref=20120416pluutmifr_4&type=Ies&id=LCO413</thumbnail>
+<link>rtmp://edge.isearch.to/edge/pe94wt2bo03n4rt swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>Baby TV Russia</title>
+<thumbnail>http://static.tvtropes.org/pmwiki/pub/images/BabyTV_Logo2_6395.jpg</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//7773f3cef0334a28ad248552ea63d9e7.m3u8?bitrate=800</link>
+</item>
+
+<item>
+<title>Biography Channel Thailand</title>
+<thumbnail>http://4.bp.blogspot.com/-P7XyfjPGSZw/ToKkdg9pkJI/AAAAAAAAKOg/tkPqvmEldOg/s320/Bio-Channel.jpg</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//169a149fd1ef40edba0bbfc8e0f1bdd1.m3u8?bitrate=800</link>
+</item>
+
+<item>
+<title>Bravo US</title>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Bravo_TV.svg/190px-Bravo_TV.svg.png</thumbnail>
+<link>rtmp://edge.isearch.to/edge/zqr56sq58858qgu swfURL=http://cdn.static.ilive.to/jwplayer/player.swf live=1 pageURL=http://www.ilive.to FX</link>
+</item>
+
+<item>
+<title>CBS US</title>
+<thumbnail>http://cbssacramento.files.wordpress.com/2011/06/cbs-logo.jpg</thumbnail>
+<link>rtmp://edge.isearch.to/edge/nx82e47g1025mdc swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>Cinemax India</title>
+<thumbnail>http://b.vimeocdn.com/ts/157/196/157196111_640.jpg</thumbnail>
+<link>rtmp://edge.isearch.to/edge/nl1yg9ant34fy93 swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>CNN US</title>
+<thumbnail>http://www.userlogos.org/files/logos/tl/cnn.png</thumbnail>
+<link>rtmp://edge.isearch.to/edge/rjxo8hz17q9waiq swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>CNN US</title>
+<thumbnail>http://www.userlogos.org/files/logos/tl/cnn.png</thumbnail>
+<link>rtmp://c.cdn.msnbclive.eu/edge/cnn_live swfURL=http://msnbclive.eu/player.swf  pageURL=http://blog.livenewschat.tv/rockinroosters/ live=1</link>
+</item>
+
+<item>
+<title>Comedy Central US</title>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/comedy_central.png</thumbnail>
+<link>rtmp://198.144.153.142:443/kuyo playpath=comedddd?id=3131352e36342e3138302e313138  swfURL=http://yukons.net/yukplay.swf  pageURL=http://yukons.net/embed/http://yukons.net/embed/36333646364436353634363436343634/3d5c0799b3c3b91fb65a9d62ff22a80f/595/380 live=1</link>
+</item>
+
+<item>
+<title>Comedy Central HD Thailand</title>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/comedy_central.png</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//2f18d4ba25224edaa8bb9aac94b00d4f.m3u8?bitrate=800</link>
+</item>
+
+<item>
+<title>Crime & Investigation Network Thailand</title>
+<thumbnail>http://sharetv.org/images/networks/crime_and_investigation_network_au.jpg</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//9961a963920f45f4bc0d81c3e478b334.m3u8?bitrate=800</link>
+</item>
+
+<item>
+<title>Discovery Channel US</title>
+<thumbnail>http://www.digitaltvselector.com/wp-content/uploads/2011/02/discovery-channel-logo.jpg</thumbnail>
+<link>rtmp://edge.isearch.to/edge/it82brayqtelkyi swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>Discovery Channel Thailand</title>
+<thumbnail>http://www.digitaltvselector.com/wp-content/uploads/2011/02/discovery-channel-logo.jpg</thumbnail>
+<link>rtmp://118.69.202.58:1935/hayhaytv_live playpath=mp4:discovery.360p swfURL=http://www.hayhaytv.vn/player/smartplayer.swf live=1 pageURL=http://www.hayhaytv.vn/livetv/discovery-366E61.html token=na^tu12%28aqw</link>
+</item>
+
+<item>
+<title>Discovery Home & Health China</title>
+<thumbnail>http://www.theidentgallery.com/discoveryhomehealth/2008/DISCHH-2008-ID-1-4.jpg</thumbnail>
+<link>http://211.79.36.141/iTV/getSubIndex/ch62/01.m3u8?sId=S20130607401508</link>
+</item>
+
+<item>
+<title>Discovery Science Bangkok</title>
+<thumbnail>http://bharatpress.com/wp-content/uploads/2012/09/discoveryscience.jpg</thumbnail>
+<link>rtsp://69.197.154.238/dssc.ujk</link>
+</item>
+
+<item>
+<title>Discovery Science Thailand</title>
+<thumbnail>http://bharatpress.com/wp-content/uploads/2012/09/discoveryscience.jpg</thumbnail>
+<link>http://211.79.36.141/iTV/getSubIndex/ch42/02.m3u8?sId=S20130607401508</link>
+</item>
+
+<item>
+<title>Discovery Turbo Australia</title>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/discovery_turbo_uk.png</thumbnail>
+<link>http://211.79.36.141/iTV/getSubIndex/ch63/01.m3u8?sId=S20130607401508
+</link>
+</item>
+
+<item>
+<title>Docu Box Polska</title>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/docu_box_hd.jpg</thumbnail>
+<link>http://spiinternational-i.akamaihd.net/hls/live/204306/DOCUBOXHD_MT_HLS/once1200.m3u8</link>
+</item>
+
+<item>
+<title>DoughyGuy Broadcast System</title>
+<thumbnail>http://1.bp.blogspot.com/-9c3h5LeGWck/TV9IHswthcI/AAAAAAAAABQ/0FPYYXkowho/s320/Interrupt%2B02.jpg</thumbnail>
+<link>http://65.60.19.42:8380/;stream.nsv
+</link>
+</item>
+
+<item>
+<title>Edge HD Thailand</title>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/edge_sport_tv.jpg</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//3764586b28544a0fa379b1d4e400c100.m3u8?bitrate=800</link>
+</item>
+
+<item>
+<title>ESPN US</title>
+<thumbnail>http://www.throughrosetintedglasses.com/wp-content/uploads/2012/05/ESPN-LOGO.jpg</thumbnail>
+<link>rtmp://31.7.58.250:1935/stream/5654ygt.stream swfURL=http://thecdn.04stream.com/p/bbp.swf live=1 pageURL=http://thecdn.04stream.com/live=1</link>
+</item>
+
+<item>
+<title>ESPN 2 US</title>
+<thumbnail>http://balladtv.com/wp-content/uploads/2010/10/ESPN2_logo-189x175.jpg</thumbnail>
+<link>rtmp://edge.isearch.to/edge/r0an48lzpf3fd6t swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>ESPN Plus Brazil</title>
+<thumbnail>http://www.info-crespo.com.ar/img/canales/espn_plus.jpg</thumbnail>
+<link>rtmp://31.204.128.74/live/ playpath=master27 swfURL=http://www.cdnbr.biz/swf/player.swf live=1 pageURL=http://www.cdnbr.biz/mastertv/ESPN HD.html</link>
+</item>
+
+<item>
+<title>Fashion Box HD Polska</title>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fashion_box_hd.jpg</thumbnail>
+<link>http://spiinternational-i.akamaihd.net/hls/live/204307/FASHIONBOXHD_MT_HLS/once1200.m3u8</link>
+</item>
+
+<item>
+<title>Fashion TV HD Thailand</title>
+<thumbnail>http://profile.ak.fbcdn.net/hprofile-ak-ash4/c41.41.518.518/s160x160/430069_10151085369941611_651933828_n.png</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//91fbba1d5af544ac92a2c64e5d177e9d.m3u8?bitrate=800</link>
+</item>
+
+<item>
+<title>Fight Box HD Polska</title>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fight_box_hd.jpg</thumbnail>
+<link>http://spiinternational-i.akamaihd.net/hls/live/204308/FIGHTBOXHD_MT_HLS/once1200.m3u8</link>
+</item>
+
+<item>
+<title>Food Television New Zealand</title>
+<thumbnail>http://www.foodtv.co.nz/images/site/foodTv-logo.png</thumbnail>
+<link>rtmp://edge.isearch.to/edge/r7oi6ylf755rcno swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>FOX Portugal
+</title><thumbnail>http://tvseriesfinale.com/assets/fox01a.jpg
+<link>rtmp://edge.isearch.to/edge/g5244477x253rk4 swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>FOX Crime Portugal</title>
+<thumbnail>http://hotvnewsimages.files.wordpress.com/2007/09/fox-crime.jpg</thumbnail>
+<link>rtmp://edge.isearch.to/edge/qe4ivz5egll49bx swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>FOX Life Portugal</title>
+<thumbnail>http://b.vimeocdn.com/ts/541/816/54181647_640.jpg</thumbnail>
+<link>rtmp://198.7.58.79/edge/foxlife pageURL=http://www.zuuk.net/ swfURL=http://cdn.zuuk.net/ply.swf swfVfy=true live=true /FOX LIFE</link>
+</item>
+
+<item>
+<title>FOX Movie Channel Portugal</title>
+<thumbnail>http://b.vimeocdn.com/ts/164/531/164531409_640.jpg</thumbnail>
+<link>rtmp://edge.isearch.to/edge/n5p5jxf653kfq86 swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>FOX Movies</title>
+<thumbnail>http://en.kingofsat.net/jpg/foxmovies-arab.jpg</thumbnail>
+<link>rtmp://edge.isearch.to/edge/hc992q7x7cz86t9 swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>FOX News US</title>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Fox_News_Channel.svg/200px-Fox_News_Channel.svg.png</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//1e2041858ca543fa90ec95d28197e907.m3u8?bitrate=800</link>
+</item>
+
+<item>
+<title>FOXNEWS.COM Live US</title>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Fox_News_Channel.svg/200px-Fox_News_Channel.svg.png</thumbnail>
+<link>http://foxhdlive-f.akamaihd.net/DCL_1_600@6475?%20v=2.11.3&fp=WIN%2011,5,31,137&r=NSUNU&g=PRPGTWWACWEM</link>
+</item>
+
+<item>
+<title>FX HD Thailand</title>
+<thumbnail>http://www.salesgraphics.com/news/uploaded_images/fx_onWhite-774458.jpg</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//2e0e4b05aa6e428593f3b45b710045b7.m3u8?bitrate=800</link>
+</item>
+
+<item>
+<title>Hallmark Channel US</title>
+<thumbnail>http://3.bp.blogspot.com/_jeetJTfzUoU/TO9C5NmNb0I/AAAAAAAAKHg/lGh-HTl4ebg/s200/HallmarkChannel-logo-XmasTime.jpg</thumbnail>
+<link>rtmp://edge.isearch.to/edge playpath=8m99o0tf3zpmbwj swfURL=http://player.ilive.to/player_ilive.swf live=1 pageURL=http://www.ilive.to/view/30131/watch-live-Hallmark_channel-streaming-channel-for-free</link>
+</item>
+
+<item>
+<title>HBO Bangkok</title>
+<thumbnail>http://topnews.us/images/imagecache/main_image/sites/default/files/HBO%20Logo.jpg</thumbnail>
+<link>rtsp://69.197.154.238/hbohd.uewhdfydsg</link>
+</item>
+
+<item>
+<title>HBO India</title>
+<thumbnail>http://topnews.us/images/imagecache/main_image/sites/default/files/HBO%20Logo.jpg</thumbnail>
+<link>http://imgWNAS0WNAS5WNASsx0.m0wscdn-h.kukuplay.com/ts/17803_1351140653989_1369201547180/playlist.m3u8</link>
+</item>
+
+<item>
+<title>HBO HD Thailand</title>
+<thumbnail>http://topnews.us/images/imagecache/main_image/sites/default/files/HBO%20Logo.jpg</thumbnail>
+<link>rtmp://118.69.202.58:1935/hayhaytv_live playpath=mp4:hbo.360p swfURL=http://www.hayhaytv.vn/player/smartplayer.swf live=1 pageURL=http://www.hayhaytv.vn/livetv/hbo-31326E61.html token=na^tu12%28aqw</link>
+</item>
+
+<item>
+<title>HBO Comedy</title>
+<thumbnail>http://duels.cz/galerie/hbo_comedy.jpg</thumbnail>
+<link>rtmp://edge.isearch.to/edge/a1wn1j3ra1w0cv0 swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>HBO Hits</title>
+<thumbnail>http://payload.cargocollective.com/1/5/164316/2239864/prt_280x188_1320747599.jpg</thumbnail>
+<link>rtmp://edge.isearch.to/edge/z28ie9oqoku4qoy swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>HBO Signature Thailand</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/zh/d/d2/HBO_Signature_logo_anni.jpg</thumbnail>
+<link>http://widih.modifikasi.com/tv/cntv.php?id=82</link>
+</item>
+
+<item>
+<title>History Channel US</title>
+<thumbnail>http://www.navixtreme.com/justme4u2c/images/HistoryChannel.png</thumbnail>
+<link>rtmp://edge.isearch.to/edge/cpurxuuwv3ljnji swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>HLN US</title>
+<thumbnail>http://www.lyngsat-logo.com/hires/hh/hln_east.png</thumbnail>
+<link>rtmp://a.cdn.msnbclive.eu/edge/hln_live swfURL=http://msnbclive.eu/getswf.php?<title>player.swf live=1 pageURL=http://blog.livenewschat.tv/the-nancy-grace-room/</link>
+</item>
+
+<item>
+<title>Hollywood Movies China</title>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hollywood_movie_channel.jpg</thumbnail>
+<link>http://widih.modifikasi.com/tv/cntv.php?id=23</link>
+</item>
+
+<item>
+<title>Hollywood Portugal</title>
+<thumbnail>http://3.bp.blogspot.com/-vRwVHF4JH3c/TyGSd51yreI/AAAAAAAAA9c/kay4KP2LPSI/s1600/533px-Canal_Hollywood.svg_.png</thumbnail>
+<link>rtmp://edge.isearch.to/edge/ak7qf6qh54qg8z8 swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>Lifetime US</title>
+<thumbnail>http://images.all-free-download.com/images/graphiclarge/lifetime_67627.jpg</thumbnail>
+<link>rtmp://edge.isearch.to/edge/cexop1sm47oqcrh swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>Lotus Macau China</title>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg</thumbnail>
+<link>rtmp://58.97.57.152/live playpath=ch33 swfURL=http://www.one2hd.com/swfs/mediaPlayer/mediaPlayer.swf pageURL=http://www.one2hd.com/</link>
+</item>
+
+<item>
+<title>MAX HD Brazil</title>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/max_br_hd.jpg</thumbnail>
+<link>rtmp://edge.isearch.to/edge/6st48zwie8fnzf9 swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>Max Prime Brazil</title>
+<thumbnail>http://www.uvadeplaya.net/Work/Proyectos/MaxPrime_pic1.jpg</thumbnail>
+<link>rtmp://edge.isearch.to/edge/61nqzf0q0sua42b swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>MBC 2 UAE</title>
+<thumbnail>http://i229.photobucket.com/albums/ee14/FabregasQ8/MBC2.jpg</thumbnail>
+<link>rtsp://mi5.gv.filmon.com:1935/live/_definst_/368.high.stream</link>
+</item>
+
+<item>
+<title>MBC Action UAE</title>
+<thumbnail>http://www.waleg.com/images/mbc-action.jpg</thumbnail>
+<link>rtmp://mi3.gv.filmon.com:1935/live/369.high.stream</link>
+</item>
+
+<item>
+<title>MGM Portugal</title>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/f/f2/MGM_logo.png/200px-MGM_logo.png</thumbnail>
+<link>rtmp://edge.isearch.to/edge/b0fehgu27mjkcxu swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>MSNBC US</title>
+<thumbnail>http://www.realtvcritics.com/wp-content/uploads/2011/07/msnbc-logo1.jpg</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//7f2989e3f87e4efdb36bac56b64dca62.m3u8?bitrate=800</link>
+</item>
+
+<item>
+<title>MSNBC US</title>
+<thumbnail>http://www.realtvcritics.com/wp-content/uploads/2011/07/msnbc-logo1.jpg</thumbnail>
+<link>rtmp://c.cdn.msnbclive.eu/edge/msnbc_live swfURL=http://msnbclive.eu/player.swf  pageURL=http://blog.livenewschat.tv/rockinroosters/ live=1</link>
+</item>
+
+<item>
+<title>MTV US</title>
+<thumbnail>http://www.bangsandabun.com/wp-content/uploads/2011/04/MTV-Logo-MTV.jpg</thumbnail>
+<link>rtmp://edge.isearch.to/edge/y96hrc1tcg0vtcg swfURL=http://cdn.static.ilive.to/jwplayer/player.swf live=1 pageURL=http://www.ilive.to FX</link>
+</item>
+
+<item>
+<title>MTV Portugal</title>
+<thumbnail>http://www.bangsandabun.com/wp-content/uploads/2011/04/MTV-Logo-MTV.jpg</thumbnail>
+<link>rtmp://edge.isearch.to/edge/pluifrgyd9hwij8 swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>MTV Vietnam</title>
+<thumbnail>http://www.bangsandabun.com/wp-content/uploads/2011/04/MTV-Logo-MTV.jpg</thumbnail>
+<link>http://113.160.49.34/lives/origin02/bts-mtvsd.isml/bts-mtvsd-1096k.m3u8</link>
+</item>
+
+<item>
+<title>Nat Geo Adventure HD Thailand</title>
+<thumbnail>http://www.danmorris.com/wp-content/uploads/2010/03/nat-geo-adventure.jpg</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?bitrate=800</link>
+</item>
+
+<item>
+<title>Nat Geo Wild Thailand</title>
+<thumbnail>http://www.cambiarcontenidos.com.ar/imagenes/NAT-GEO-WILD-DIRECTV.jpg</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8?bitrate=800</link>
+</item>
+
+<item>
+<title>National Geographic HD China</title>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png</thumbnail>
+<link>http://widih.modifikasi.com/tv/cntv.php?id=46</link>
+</item>
+
+<item>
+<title>National Geographic Thailand</title>
+<thumbnail>http://images.wikia.com/logopedia/images/f/ff/National_Geographic_Society.png</thumbnail>
+<link>rtmp://118.69.202.59:1935/hayhaytv_live playpath=mp4:national.geographic.360p swfURL=http://www.hayhaytv.vn/player/smartplayer.swf live=1 pageURL=http://www.hayhaytv.vn/livetv/national-geographic-31356E61.html token=na^tu12%28aqw</link>
+</item>
+
+<item>
+<title>NBA TV US</title>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nba_tv.png</thumbnail>
+<link>rtmp://31.7.58.122:1935/stream/I8s9S4H7.stream playpath=N1V3R0h8.stream swfURL=http://thecdn.04stream.com/p/bbp.swf live=true  pageURL=http://www.04stream.com/NBA TV</link>
+</item>
+
+<item>
+<title>NBC Sports Network US</title>
+<thumbnail>http://www.brandchannel.com/home/image.axd?picture=2012%2F6%2Fnbc_sports_new_logo_300.jpg</thumbnail>
+<link>rtmp://edge.isearch.to/edge/mnsq6xfnnjcqiv6 swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>NBC US</title>
+<thumbnail>http://media.cnbc.com/i/CNBC/Sections/News_And_Analysis/__Story_Inserts/graphics/__COMPANY_IMAGES/H-Q/nbc_logo1.jpg</thumbnail>
+<link>rtmp://edge.isearch.to/edge/q2bufwoa7lkxds3 swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>NFL Network US</title>
+<thumbnail>http://rbr.com/wp-content/uploads/NFL1-225x180.jpg</thumbnail>
+<link>rtmp://46.246.29.130:1935/stream/bdpZdSfpz0.stream swfURL=http://thecdn.04stream.com/p/boopo.swf live=true timeout=15 swfVfy=1 pageURL=http://www.04stream.com</link>
+</item>
+
+<item>
+<title>OC16 Hawaii US</title>
+<thumbnail>http://www.oc16.tv/blogs/images/168/middle_OC16_Pic_for_Frame2.JPG?1294091832</thumbnail>
+<link>rtmp://24.165.45.209/oc16live/ swfURL=http://www.oc16.tv/videoplayer/jw/player.swf pageURL=http://www.oc16.tv/ playpath=oc16 live=true</link>
+</item>
+
+<item>
+<title>Outdoor Channel Thailand</title>
+<thumbnail>http://www.redarrowtv.com/images/logo_OutdoorChannel_header.jpg</thumbnail>
+<link>rtmp://lm02.everyon.tv:1935/ptv2/pld613</link>
+</item>
+
+<item>
+<title>Outdoor Channel Thailand</title>
+<thumbnail>http://www.redarrowtv.com/images/logo_OutdoorChannel_header.jpg</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//1c551f42019d40e8acf32e8218ef8703.m3u8?bitrate=800</link>
+</item>
+
+<item>
+<title>Oxygen US</title>
+<thumbnail>http://www-deadline-com.vimg.net/wp-content/uploads/2011/09/Oxygen_logo110908191848.jpg</thumbnail>
+<link>rtmp://edge.isearch.to/edge/zmt2swezlswh9nz swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>PBS US</title>
+<thumbnail>http://blackchristiannews.com/news/s-PBS-LOGO-large.jpg</thumbnail>
+<link>http://winstream.kamu.tamu.edu/kamu-tv?mswmext=.asf</link>
+</item>
+
+<item>
+<title>PBS 2 US</title>
+<thumbnail>http://blackchristiannews.com/news/s-PBS-LOGO-large.jpg</thumbnail>
+<link>http://165.95.101.52:80/kamu-weather?MSWMExt=.asf</link>
+</item>
+
+<item>
+<title>The Pentagon Channel US</title>
+<thumbnail>http://www.tvyard.com/channel/picture/logo/tv/pp/pentagon_channel.jpg</thumbnail>
+<link>rtmp://cp114761.live.edgefcs.net:443/live/ playpath=tpc-live_1@44263 swfURL=http://www.pentagonchannel.mil/swf/flvPlayer.swf pageURL=http://www.pentagonchannel.mil/library.html swfVfy=true live=true timeout=60</link>
+</item>
+
+<item>
+<title>Redbull TV US</title>
+<thumbnail>http://www.hdtv-pro.de/wp-content/uploads/2010/02/redbull-tv-logo.jpg</thumbnail>
+<link>rtmp://cp93704.live.edgefcs.net:443/live playpath=redbull2@21839 swfURL=http://img.hsni.com/images/Site_Relaunch_2007/arcade/StrobeMediaPlayback_Default.swf pageURL=http://livetvcafe.net/ swfVfy=true live=true</link>
+</item>
+
+<item>
+<title>Relax TV</title>
+<thumbnail>http://ovego.3dn.ru/img2/relaxtv.gif</thumbnail>
+<link>rtmp://www.planeta-online.tv:1936/live/channel_3 swfURL=http://www.planeta-online.tv/planeta_player.swf pageURL=http://www.planeta-online.tv/?ch=3Vfy=true live=true tc<link>rtmp://www.planeta-online.tv:1936/live/channel_3</link>
+</item>
+
+<item>
+<title>Showtime Hits</title>
+<thumbnail>http://i254.photobucket.com/albums/hh98/justme4u2cme/Navi-X%20Playlists/500px-Showtimesvg.png</thumbnail>
+<link>rtmp://edge.isearch.to/edge/bwbop58ixz281wv swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>Smile Of A Child TV US</title>
+<thumbnail>http://www.tbnnetworks.com/smile/images/soac-medium.jpg</thumbnail>
+<link>rtmp://cp114426.live.edgefcs.net:1935/live playpath=soac_mbr_300@101622 swfURL="http://www.smileofachildtv.org/flash/liveplayer.swf" pageURL="http://www.smileofachildtv.org/watchOnline_big.php" swfVfy=true live=true</link>
+</item>
+
+<item>
+<title>Sony Entertainment Thailand</title>
+<thumbnail>http://www.tangodvd.com/images/dvd_sony.jpg</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live/bd30e27f1c48430ba2104548a1b124ca.m3u8?bitrate=800</link>
+</item>
+
+<item>
+<title>Sony Spin Portugal</title>
+<thumbnail>http://tunaisfresh.com/uploads/clientes/24sony%20spin.jpg</thumbnail>
+<link>rtmp://edge.isearch.to/edge/ec8u5a2zb3pajzu swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>Spike TV US</title>
+<thumbnail>http://www.navixtreme.com/justme4u2c/images/Spike_TV.png</thumbnail>
+<link>rtmp://edge.isearch.to/edge/m5bn1sv1r8644m6 swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>Star World HD Thailand</title>
+<thumbnail>http://lh5.googleusercontent.com/-kEbnO3dB-Fw/AAAAAAAAAAI/AAAAAAAAABA/ESU7AUGXnV8/s250-c-k/photo.jpg</thumbnail>
+<link>rtmp://118.69.202.58:1935/hayhaytv_live playpath=mp4:star.world.360p swfURL=http://www.hayhaytv.vn/player/smartplayer.swf live=1 pageURL=http://www.hayhaytv.vn/livetv/star-world-hd-31386E61.html token=na^tu12%28aqw</link>
+</item>
+
+<item>
+<title>Starz Hits</title>
+<thumbnail>http://lifeislottery.com/images/thumbs/thumb_starz.jpg</thumbnail>
+<link>rtmp://edge.isearch.to/edge/8g7x80ozu6hz2ds swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>SYFY US</title>
+<thumbnail>http://wormholeriders.net/wh13/wp-content/uploads/2012/07/Syfy-logo-banner-May-2012-480x261.jpg</thumbnail>
+<link>rtmp://edge.isearch.to/edge/m5lssurqlffzxtp swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>SYFY Thailand</title>
+<thumbnail>http://wormholeriders.net/wh13/wp-content/uploads/2012/07/Syfy-logo-banner-May-2012-480x261.jpg</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//71f197de056e499a85265c03b44bdab1.m3u8?bitrate=800</link>
+</item>
+
+<item>
+<title>SYFY Universal Portugal</title>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/syfy_universal_ru.png</thumbnail>
+<link>rtmp://edge.isearch.to/edge/ohabkpgn3e25r3v swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>Thrill Channel Indonesia</title>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Thrill_logo.jpg/200px-Thrill_logo.jpg</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//c316ed9333e54442b25077f0bb3cc269.m3u8?bitrate=800</link>
+</item>
+
+<item>
+<title>TLC US</title>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/the_learning_channel.png</thumbnail>
+<link>rtmp://edge.isearch.to/edge/x99v7adz8i3ikkm swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>TNT US</title>
+<thumbnail>http://4.bp.blogspot.com/-ce5cmqwmrm8/Tw-Cuy9LelI/AAAAAAAAFPk/OaS6b0ADkp0/s1600/TNT_TV_logo.png</thumbnail>
+<link>rtmp://edge.isearch.to/edge/s7d8wd96rhebpng swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>TNT Portugal</title>
+<thumbnail>http://4.bp.blogspot.com/-ce5cmqwmrm8/Tw-Cuy9LelI/AAAAAAAAFPk/OaS6b0ADkp0/s1600/TNT_TV_logo.png</thumbnail>
+<link>rtmp://edge.isearch.to/edge/ftvmi59pwr6ggcx swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>Travel Channel HD Thailand</title>
+<thumbnail>http://www.logotypes101.com/logos/494/CA253A81F705426DC912B7957E5C84A1/Travel_Channel44.png</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//4c136f4cb1fd4f62a583a029c2eb6c77.m3u8?bitrate=800</link>
+</item>
+
+<item>
+<title>TruTV US</title>
+<thumbnail>http://www.twcableuntangled.com//wp-content/uploads/2011/03/trutv_logo1.jpg</thumbnail>
+<link>rtmp://edge.isearch.to/edge/sfkua8d8yo8jmut swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>TWiT US</title>
+<thumbnail>http://lyalinwp7.files.wordpress.com/2010/12/200x200_thumb.png?w=103&h=103&h=103</thumbnail>
+<link>http://bglive-a.bitgravity.com/twit/live/high</link>
+</item>
+
+<item>
+<title>Universal Channel Portugal</title>
+<thumbnail>https://si0.twimg.com/profile_images/1101131410/UC_prof3.png</thumbnail>
+<link>rtmp://edge.isearch.to/edge/u4yqa53fa15ct18 swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>Universal Channel Thailand</title>
+<thumbnail>https://si0.twimg.com/profile_images/1101131410/UC_prof3.png</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//a7105ed1bb0a44bba1f4f71f2352b892.m3u8?bitrate=800</link>
+</item>
+
+<item>
+<title>USA Network US</title>
+<thumbnail>http://images.sodahead.com/polls/003279465/153380788_usa_network_logo_1_answer_2_xlarge.jpeg</thumbnail>
+<link>rtmp://edge.isearch.to/edge/ahwcx2k56oitbkk swfURL=http://player.ilive.to/player_embed.swf live=1 pageURL=http://www.ilive.to/embedplayer.php</link>
+</item>
+
+<item>
+<title>WB TV Portugal</title>
+<thumbnail>http://icons.iconarchive.com/icons/sykonist/looney-tunes/256/WB-intro-icon.png</thumbnail>
+<link>rtmp://85.12.5.8/live/warner pageURL=http://tvguarapa.net/canais/espn/warner.html swfURL=http://tvguarapa.net/pl/player.swf swfVfy=true live=true</link>
+</item>
+
+<item>
+<title>WE HD Thailand</title>
+<thumbnail>http://www.interactivetvcommerce.com/Portals/44100/images/WEtv_Magenta_Logo.png</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//dea34fa045074639b3a18123d4b4eda0.m3u8?bitrate=800</link>
+</item>
+
+<item>
+<title>Wealth TV US</title>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/7/73/Wealth_TV.png</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live/ce9a1585f45d4379970b95308df3f879.m3u8?bitrate=800</link>
+</item>
+
+<item>
+<title>WeatherNation TV US</title>
+<thumbnail>http://media.marketwire.com/attachments/201206/53621_WeatherNationTVlogo.jpg</thumbnail>
+<link>rtmp://cp77659.live.edgefcs.net/live playpath=0_c6zkpyg0_1@2781 swfURL=http://cdnbakmi.kaltura.com/p/931702/sp/93170200/flash/kdp3/v3.6.17/kdp3.swf live=1</link>
+</item>
+
+<item>
+<title>Weekly Wrestling Live</title>
+<thumbnail>http://i1121.photobucket.com/albums/l514/k1m05_/wweimpact.jpg</thumbnail>
+<link>rtmp://85.12.5.34/vl/_definst_ playpath=testup swfURL=http://www.veemi.com/player/player-licensed.swf live=1 pageURL=http://www.veemi.com/Impact Wrestling</link>
+</item>
+
+<item>
+<title>World Fashion TV Italy</title>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ww/world_fashion_tr.jpg</thumbnail>
+<link>rtmp://83.229.210.89/WFC_EU/BTVwfceu0</link>
+</item>
+
+<item>
+<title>Redbull TV</title>
+<thumbnail>http://www.redbull.at/cs/RedBull/RBImages/000/000/483/309/photo610x343a/redbulltv.jpg</thumbnail>
+<link>rtmp://cp93704.live.edgefcs.net:443/live playpath=redbull2@21839 swfURL=http://img.hsni.com/images/Site_Relaunch_2007/arcade/StrobeMediaPlayback_Default.swf pageURL=http://livetvcafe.net/ swfVfy=true live=true</link>
+</item>
+
+</items>
+</channel>
+
+<channel>
+<name> ->> Entertainment - Am Nhac, Giai Tri</name>
+<thumbnail>http://www.remotecentral.com/files/prontong/pb000005.jpg</thumbnail>
+<items>
+
+</item>
+<item>
+<title>CMC-TV</title>
+<link>rtmp://cmctv.flash.internapcdn.net:443/cmctv_vitalstream_com/live_adaptive_1/CMC-TV_adaptive1 swfUrl=http://http.vitalstreamcdn.com/flashskins/V2Player.swf pageUrl=http://www.myiplayer.eu/x/USA/cmc.php swfVfy=1 live=1 timeout=10</link>
+<thumbnail>none</thumbnail>
+
+<item>
+<title>MBC 2 UAE </title>
+<thumbnail>i229.photobucket.com/albums/ee14/FabregasQ8/MBC2.jpg
+</thumbnail>
+<link>rtsp://mi5.gv.filmon.com:1935/live/_definst_/368.high.stream</link>
+</item>
+
+<item>  
+<title>KISS TV</title>
+<thumbnail>http://www.ranklogos.com/wp-content/uploads/2012/04/kiss-tv-logo-1.jpg</thumbnail>
+<link>rtmp://kisstelevision.es.flash3.glb.ipercast.net/kisstelevision.es-live/live</link>
+</item>
+
+<item>  
+<title>HEART  MUSIC</title>
+<thumbnail>http://images2.layoutsparks.com/1/94335/heartbroken-stars-shine-pink.gif</thumbnail>
+<link>rtmp://cdn-sov-2.musicradio.com:80/LiveVideo/Heart</link>
+</item>
+
+<item>
+<title>Next Music HD </title>
+<thumbnail>img440.imageshack.us/img440/7931/polsatnextmusic.png</thumbnail>
+<link>rtmp://vod.wowza.astrosa.pl/rtplive playpath=:music_540p.stream swfURL=http://tv-one.at.ua/oognet/swf/PLAYERDMINITV.swf?_=1330638312 pageURL=http://imtv.at.ua/NEXT_Music.html live=1</link>
+</item>
+
+<item>
+<title>NHK World HD </title>
+<thumbnail>yonasu.com/wp-content/uploads/NHK-World-iPhone-App.png</thumbnail>
+<link>rtmp://ca-1.net.fivecool.org/nhkw pageURL=http://livetvstreaming.ucoz.com live=1 playpath=gwm</link>
+</item>
+
+<item>
+<title>OC16 Hawaii </title>
+<thumbnail>www.oc16.tv/blogs/images/168/middle_OC16_Pic_for_Frame2.JPG?1294091832</thumbnail>
+<link>rtmp://24.165.45.209/oc16live/ swfURL=http://www.oc16.tv/videoplayer/jw/player.swf pageURL=http://www.oc16.tv/ playpath=oc16 live=true</link>
+</item>
+
+<item>
+<title>O2TB Russia </title>
+<thumbnail>upload.wikimedia.org/wikipedia/commons/9/93/O2_TV_logo.jpg</thumbnail>
+<link>rtmp://n2.mos.cdn.online.ru/live-r playpath=udp://0.0.0.0:3096 swfURL=http://www.corbina.tv/flash/swf/player.swf live=true pageURL=http://www.corbina.tv/tv/ners</link>
+</item>
+
+<item>
+<title>Pick TV </title>
+<thumbnail>skyidents.com/resources/pick%20tv%20sting%20b.jpg.opt387x212o0,0s387x212.jpg</thumbnail>
+<link>rtsp://mi5.gv.filmon.com:1935/live/_definst_/371.high.stream</link>
+</item>
+
+<item>
+<title>PIK HD TV </title>
+<thumbnail>twimg0-a.akamaihd.net/profile_images/2158748139/fblogo.jpg</thumbnail>
+<link>rtmp://fms.pik-tv.com/live/piktv3pik3tv swfURL=http://pik-tv.com/uppod.swf</link>
+</item>
+
+<item>
+<title>Play Me TV Italy </title>
+<thumbnail>img688.imageshack.us/img688/5632/playme2010090712330001.jpg</thumbnail>
+<link>rtmp://cp107974.live.edgefcs.net/live playpath=beep-flash-live@34654 swfURL=http://player.longtailvideo.com/player.swf pageURL=http://livetvstreaming.ucoz.com live=1</link>
+</item>
+
+<item>
+<title>Relax TV </title>
+<thumbnail>ovego.3dn.ru/img2/relaxtv.gif</thumbnail>
+<link>rtmp://www.planeta-online.tv:1936/live/channel_3 swfURL=http://www.planeta-online.tv/planeta_player.swf pageURL=http://www.planeta-online.tv/ live=true</link>
+</item>
+
+<item>
+<title>Rouge TV </title>
+<thumbnail>www.lyngsat-logo.com/logo/tv/rr/rouge_tv.jpg</thumbnail>
+<link>rtmp://rtmp.infomaniak.ch/livecast playpath=rougetv swfURL=http://tvplayer.castlemedia.fr/swf/tvplayer.swf?4dadb783f0a81537187120216 pageURL=http://www.playtv.fr/television/#rouge-tv live=true</link>
+</item>
+ 
+<item>
+<title>Dance TV</title>
+<link>mms://onstreaming01.de.gtk.hu/dancetv</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>  
+<title>4 MUSIC</title>
+<thumbnail>http://www.ukscreenassociation.co.uk/uploadedImages/news/4music_logo.jpg</thumbnail>
+<link>rtsp://mi5.gv.filmon.com:1935/live/_definst_/95.high.stream</link>
+</item>
+
+<item>  
+<title>90s juice radio</title>
+<thumbnail>http://images2.layoutsparks.com/1/541/dance-fast-trance-violet.gif</thumbnail>
+<link>http://31.12.64.204:8000/A-RADIO-90s-JUICE</link>
+</item>
+
+<item>
+<title>MTV</title>
+<thumbnail>www.bangsandabun.com/wp-content/uploads/2011/04/MTV-Logo-MTV.jpg</thumbnail>
+<link>rtmp://edge.isearch.to/edge playpath=y96hrc1tcg0vtcg swfUrl=http://player.ilive.to/player_ilive_embed.swf pageUrl=http://www.ilive.to/embedplayer.php?width=600&height=460&channel=39948&autoplay=true</link>
+</item>
+
+<item>   
+<title>MTV DANCE</title>
+<thumbnail>http://bambula.eu/mtv-dance2.gif
+</thumbnail><link>http://94.242.221.141/hls/a-lo/stream80.m3u8</link>
+</item>
+
+<item>  
+<title>MTV HITS</title>
+<thumbnail>http://1.bp.blogspot.com/-lvzC6POOyNM/UAiuhEdB7iI/AAAAAAAAAAs/2EhwxHjE0Nc/s1600/493px-MTV_HITS_logo.svg.png</thumbnail>
+<link>http://94.242.221.141/hls/a-lo/stream153.m3u8</link>
+</item>
+
+<item>  
+<title>MTV LIVE HD</title>
+<thumbnail>http://teve.ba/img/content/mtv-live-hd.gif</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//8d45473ff4ca44d79e1abc4516c2fee0.m3u8?bitrate=800</link>
+</item>
+
+<item>   
+<title>MTV ROCKS</title>
+<thumbnail>http://teve.ba/img/content/mtv-rocks.gif</thumbnail>
+<link>http://94.242.221.141/hls/a-lo/stream166.m3u8</link>
+</item>
+
+<item>   
+<title>1 HD</title>
+<thumbnail>http://teve.ba/img/content/mtv-rocks.gif</thumbnail>
+<link>rtmp://vod.tmp://edge.isearch.to/ed playpath=:music_540p.stream swfUrl=http://tv-one.at.ua/oognet/swf/PLAYERDMINITV.swf?_=1330638312 pageUrl=http://imtv.at.ua/kino.html</link>
+</item>
+
+<item>  
+<title>NAT GEO MUSIC</title>
+<thumbnail>http://cdn.americansongwriter.com/wp-content/uploads/2009/01/nat_geo_music.jpg</thumbnail>
+<link>http://fw01.livem3u8.me.totiptv.com/live//69c2eab6794344619a049c5dea60ca22.m3u8?bitrate=800</link>
+</item>
+
+</items>
+</channel>
+
+<channel>
+<name> ->> iLive TV - (English Channel)</name>
+<thumbnail>http://phandroid.s3.amazonaws.com/wp-content/uploads/2011/10/Google-TV-Logo.jpg</thumbnail>
+<items>
+
+<item>
+<title>Animal Planet</title>
+<link>rtmp://edge.isearch.to/edge playpath=41i3ymbmum28xfk swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/view/42027/watch-live-Animal_Planet-streaming-channel-for-free</link>
+<thumbnail>http://snapshots.ilive.to/snapshots/41i3ymbmum28xfk_snapshot.jpg</thumbnail>
+</item>
+
+<item>
+<title>ApolloFm Music TV (Non Stop MUSIC VIDEO PARTY)</title>
+<link>rtmp://edge.isearch.to/edge playpath=sqxnu9mul5rwnxc swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/view/48721/watch-live-ApolloFm_Music_TV-streaming-channel-for-free</link>
+<thumbnail>http://snapshots.ilive.to/snapshots/sqxnu9mul5rwnxc_snapshot.jpg</thumbnail>
+</item>
+
+<item>
+<title>BBC World News</title>
+<link>rtmp://edge.isearch.to/edge playpath=1kmj8d0b78n6w9m swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/view/45830/watch-live-BBC_World_News-streaming-channel-for-free</link>
+<thumbnail>NONE</thumbnail>
+</item>
+
+<item>
+<title>Cartoon Network</title>
+<link>rtmp://edge.isearch.to/edge playpath=91cqbvxhp3098vf swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/view/48101/watch-live-Cartoon_Network-streaming-channel-for-free</link>
+<thumbnail>http://snapshots.ilive.to/snapshots/91cqbvxhp3098vf_snapshot.jpg</thumbnail>
+</item>
+
+<item>
+<title>Cinemax</title>
+<link>rtmp://edge.isearch.to/edge playpath=nl1yg9ant34fy93 swfUrl=http://player.ilive.to/player_ilive.swf pageUrl=http://www.ilive.to/view/44972/watch-live-Cinemax-streaming-channel-for-free</link>
+<thumbnail>NONE</thumbnail>
+</item>
+
+<item>
+<title>Comedy Central</title>
+<link>http://goo.gl/LXyFa</link>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR02C8Kus90usN5t5_9BXMj_V7c5fp5VlOoZlRSlBRpK5wTOOtKvw</thumbnail>
+</item>
+
+<item>
+<title>CNBC</title>
+<link>rtmp://edge.isearch.to/edge playpath=5vnuyn0qrl8vty7 swfUrl=http://player.ilive.to/player_ilive.swf pageUrl=http://www.ilive.to/view/48484/watch-live-CNBC-streaming-channel-for-free</link>
+<thumbnail>NONE</thumbnail>
+</item>
+
+<item>
+<title>CNN - News</title>
+<link>rtmp://edge.isearch.to/edge playpath=rjxo8hz17q9waiq swfUrl=http://player.ilive.to/player_ilive.swf pageUrl=http://www.ilive.to/view/46461/watch-live-CNN-streaming-channel-for-free</link>
+<thumbnail>NONE</thumbnail>
+</item>
+
+<item>
+<title>CSI 24H</title>
+<link>rtmp://edge.isearch.to/edge playpath=aszl8hyh5d4zdvs swfUrl=http://player.ilive.to/player_ilive.swf pageUrl=http://www.ilive.to/view/42532/watch-live-CSI_24H-streaming-channel-for-free</link>
+<thumbnail>NONE</thumbnail>
+</item>
+
+<item>
+<title>Discovery</title>
+<link>rtmp://edge.isearch.to/edge playpath=it82brayqtelkyi swfUrl=http://player.ilive.to/player_ilive.swf pageUrl=http://www.ilive.to/view/38810/watch-live-Discovery-streaming-channel-for-free</link>
+<thumbnail>NONE</thumbnail>
+</item>
+
+<item>
+<title>Dragon Ball GT</title>
+<link>rtmp://edge.isearch.to/edge playpath=vyr9ynbgdx3vw9l swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/view/38221/watch-live-Dragon_Ball_GT-streaming-channel-for-free</link>
+<thumbnail>http://snapshots.ilive.to/snapshots/vyr9ynbgdx3vw9l_snapshot.jpg</thumbnail>
+</item>
+
+<item>
+<title>Euronews</title>
+<link>rtmp://edge.isearch.to/edge playpath=fg2fwiffpklotoc swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/view/43632/watch-live-Euronews-streaming-channel-for-free</link>
+<thumbnail>NONE</thumbnail>
+</item>
+
+<item>
+<title>ESPN</title>
+<link>rtmp://edge.isearch.to/edge playpath=nwgy1uxbllg701r swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/view/50742/watch-live-ESPN-streaming-channel-for-free</link>
+<thumbnail>http://snapshots.ilive.to/snapshots/nwgy1uxbllg701r_snapshot.jpg</thumbnail>
+</item>
+
+<item>
+<title>ESPN 2</title>
+<link>rtmp://edge.isearch.to/edge<playpath>r0an48lzpf3fd6t swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/view/47542/watch-live-ESPN_2-streaming-channel-for-free</link>
+<thumbnail>http://snapshots.ilive.to/snapshots/nwgy1uxbllg701r_snapshot.jpg</thumbnail>
+</item>
+
+<item>
+<title>ESPN (HD 720p)</title>
+<link>rtmp://edge.isearch.to/edge playpath=89rqdam1ymsl9qs swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/view/50476/watch-live-ESPN_real_HD_720p-streaming-channel-for-free</link>
+<thumbnail>http://snapshots.ilive.to/snapshots/89rqdam1ymsl9qs_snapshot.jpg?_cfgetx=img.rx:200;img.ry:100;</thumbnail>
+</item>
+
+<item>
+<title>ESPN (HD)</title>
+<link>rtmp://edge.isearch.to/edge playpath=xoaaohmeuajfeyf swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/view/48051/watch-live-ESPN_(HD)-streaming-channel-for-free</link>
+<thumbnail>http://snapshots.ilive.to/snapshots/xoaaohmeuajfeyf_snapshot.jpg</thumbnail>
+</item>
+
+<item>
+<title>Fox News</title>
+<link>rtmp://edge.isearch.to/edge playpath=ohn58e97er36vjr swfUrl=http://player.ilive.to/player_ilive.swf pageUrl=http://www.ilive.to/view/46465/watch-live-Fox_News-streaming-channel-for-free</link>
+<thumbnail>NONE</thumbnail>
+</item>
+
+<item>
+<title>Food Recipe Secret</title>
+<link>rtmp://edge.isearch.to/edge playpath=r7oi6ylf755rcno swfUrl=http://player.ilive.to/player_ilive.swf pageUrl=http://www.ilive.to/view/40158/watch-live-Food_Recipe_Secret-streaming-channel-for-free</link>
+<thumbnail>NONE</thumbnail>
+</item>
+
+<item>
+<title>Friends show</title>
+<link>rtmp://edge.isearch.to/edge playpath=wg2fmaake2sfjbr swfUrl=http://player.ilive.to/player_ilive.swf pageUrl=http://www.ilive.to/view/36673/watch-live-Friends_show-streaming-channel-for-free</link>
+<thumbnail>NONE</thumbnail>
+</item>
+
+<item>
+<title>GMA_7</title><link>rtmp://edge.isearch.to/edge playpath=tj6zegfdas16p08 swfUrl=http://player.ilive.to/player_ilive.swf pageUrl=http://www.ilive.to/view/44090/watch-live-GMA_7-streaming-channel-for-free</link>
+<thumbnail>NONE</thumbnail>
+</item>
+
+<item>
+<title>HGTV</title>
+<link>rtmp://edge.isearch.to/edge playpath=1us9w7y80d8muuq swfUrl=http://player.ilive.to/player_ilive.swf pageUrl=http://www.ilive.to/view/49261/watch-live-HGTV-streaming-channel-for-free</link>
+<thumbnail>NONE</thumbnail>
+</item>
+
+<item>
+<title>HBO Asia movies</title>
+<link>rtmp://edge.isearch.to/edge playpath=4wzh39fvacgngzc swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/view/42834/watch-live-HBO_Asia-streaming-channel-for-free</link>
+<thumbnail>http://snapshots.ilive.to/snapshots/4wzh39fvacgngzc_snapshot.jpg</thumbnail>
+</item>
+
+<item>
+<title>Jackie Chan (Chan's movies from 1991-2008)</title>
+<link>rtmp://edge.isearch.to/edge playpath=aq6ijlszct7wfl4 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/view/37002/watch-live-Jackie_Chan-streaming-channel-for-free</link>
+<thumbnail>http://snapshots.ilive.to/snapshots/aq6ijlszct7wfl4_snapshot.jpg</thumbnail>
+</item>
+
+<item>
+<title>Iron Man</title>
+<link>rtmp://edge.isearch.to/edge playpath=x9bjendb4ggqwwl swfUrl=http://player.ilive.to/player_ilive.swf pageUrl=http://www.ilive.to/view/49578/watch-live-Iron_Man_3-streaming-channel-for-free</link>
+<thumbnail>NONE</thumbnail>
+</item>
+
+<item>
+<title>Live AXN</title>
+<link>rtmp://edge.isearch.to/edge playpath=79fkf9ugubolnai swfUrl=http://player.ilive.to/player_ilive.swf pageUrl=http://www.ilive.to/view/45206/watch-live-AXN_Black-streaming-channel-for-free</link>
+<thumbnail>NONE</thumbnail>
+</item>
+
+<item>
+<title>Live CW15</title>
+<link>rtmp://edge.isearch.to/edge playpath=kcizip7f2d6zh6l swfUrl=http://player.ilive.to/player_ilive.swf pageUrl=http://www.ilive.to/view/48102/watch-live-CW-streaming-channel-for-free</link>
+<thumbnail>NONE</thumbnail>
+</item>
+
+<item>
+<title>MyTV Network (HD)</title>
+<link>rtmp://edge.isearch.to/edge playpath=vo6q1zm4ibi7zkc swfUrl=http://player.ilive.to/player_ilive.swf pageUrl=http://www.ilive.to/view/48206/watch-live-MyTV_Network_(HD)-streaming-channel-for-free</link>
+</item>
+
+<item>
+<title>NBC</title>
+<link>rtmp://edge.isearch.to/edge playpath=1bskugsv6mvbb3q swfUrl=http://player.ilive.to/player_ilive.swf pageUrl=http://www.ilive.to/view/49552/watch-live-NBC-streaming-channel-for-free</link>
+<thumbnail>http://www.dreamsblend.com/wp-content/uploads/small-nbc_logo1.jpg</thumbnail>
+</item>
+
+<item>
+<title>NBC (HD)</title>
+<link>rtmp://edge.isearch.to/edge playpath=cqhm3klmkzmbrez swfUrl=http://player.ilive.to/player_ilive.swf pageUrl=http://www.ilive.to/view/48043/watch-live-NBC_(HD)-streaming-channel-for-free</link>
+<thumbnail>NONE</thumbnail>
+</item>
+
+<item>
+<title>MTV</title>
+<link>rtmp://edge.isearch.to/edge playpath=qyfbrc3ubs5i10t swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/view/45234/watch-live-MTV-streaming-channel-for-free</link>
+<thumbnail>http://snapshots.ilive.to/snapshots/qyfbrc3ubs5i10t_snapshot.jpg</thumbnail>
+</item>
+
+<item>
+<title>MTV Music Television</title>
+<link>rtmp://edge.isearch.to/edge playpath=y96hrc1tcg0vtcg swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/view/39948/watch-live-MTV_Music_Television-streaming-channel-for-free</link>
+<thumbnail>http://snapshots.ilive.to/snapshots/y96hrc1tcg0vtcg_snapshot.jpg</thumbnail>
+</item>
+
+<item>
+<title>Nickelodeon</title>
+<link>rtmp://edge.isearch.to/edge playpath=hxoq929n5q4a9u3 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/view/48100/watch-live-Nickelodeon-streaming-channel-for-free</link>
+<thumbnail>http://snapshots.ilive.to/snapshots/hxoq929n5q4a9u3_snapshot.jpg</thumbnail>
+</item>
+
+<item>
+<title>Oblivion 2013 HDCam</title>
+<link>rtmp://edge.isearch.to/edge playpath=kqedcqsmd7z2d5m swfUrl=http://player.ilive.to/player_ilive.swf pageUrl=http://www.ilive.to/view/48242/watch-live-Oblivion_2013_HDCam-streaming-channel-for-free</link>
+<thumbnail>NONE</thumbnail>
+</item>
+
+<item>
+<title>Paranormal Movie 2013</title>
+<link>rtmp://edge.isearch.to/edge playpath=5fuxr4v296u6uw1 swfUrl=http://player.ilive.to/player_ilive.swf pageUrl=http://www.ilive.to/view/48356/watch-live-Paranormal_Movie_2013-streaming-channel-for-free</link>
+</item>
+
+<item>
+<title>SPEED</title>
+<link>rtmp://edge.isearch.to/edge playpath=xwysrbiic5henev swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/view/50484/watch-live-SPEED-streaming-channel-for-free</link>
+<thumbnail>http://snapshots.ilive.to/snapshots/xwysrbiic5henev_snapshot.jpg</thumbnail>
+</item>
+
+<item>
+<title>SkySports 1</title>
+<link>rtmp://edge.isearch.to/edge playpath=7i8v3harot0yno9 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/view/50783/watch-live-SkySports_1-streaming-channel-for-free</link>
+<thumbnail>http://snapshots.ilive.to/snapshots/7i8v3harot0yno9_snapshot.jpg</thumbnail>
+</item>
+
+<item>
+<title>Star World movies</title>
+<link>rtmp://edge.isearch.to/edge playpath=59if9jkzx9mhedn swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/view/50693/watch-live-Star_World-streaming-channel-for-free</link>
+<thumbnail>http://snapshots.ilive.to/snapshots/59if9jkzx9mhedn_snapshot.jpg</thumbnail>
+</item>
+
+<item>
+<title>StarZ movies</title>
+<link>rtmp://edge.isearch.to/edge playpath=8g7x80ozu6hz2ds swfUrl=http://player.ilive.to/player_ilive.swf pageUrl=http://www.ilive.to/view/38366/watch-live-StarZ_movies-streaming-channel-for-free</link>
+<thumbnail>NONE</thumbnail>
+</item>
+
+<item>
+<title>Tom and Jerry</title>
+<link>rtmp://edge.isearch.to/edge playpath=mjnuvsa1wks6uc6 swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to/view/40732/watch-live-Tom_and_Jerry-streaming-channel-for-free</link>
+</item>
+
+<item>
+<title>TruTV</title>
+<link>rtmp://edge.isearch.to/edge playpath=sfkua8d8yo8jmut swfUrl=http://player.ilive.to/player_ilive.swf pageUrl=http://www.ilive.to/view/45279/watch-live-TruTV-streaming-channel-for-free</link>
+<thumbnail>NONE</thumbnail>
+</item>
+
+</items>
+</channel>
+
+<channel>
+<name> ->> Adults Channels (for 18+) - Danh Cho Nguoi Lon</name>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpSBWxjR_O0O7g4bUrObghSUhcz6pwLAauI3xR6gAfSb7wbCgB</thumbnail>
+<items>
+
+<!-- Last Update: 05.12.2013 by Silverfox - -->
+<item>
+<title>1 --> (Adult Channel) Korean: Playy 19 HD</title>
+<link>rtmp://lm01.everyon.tv/ptv/ playpath=phd772 swfUrl=https://a2d20443-a-62cb3a1a-s-sites.googlegroups.com/site/asianworldonline/jw/jwplayer.flash.swf?attachauth=ANoY7cr7Mt-pzo57jZZ8SeIpLo2URkjVRfrOfiEe9Pf4Z6D_wqamYXBcHKLLD5C3mtsOjt1ofxeTQylWWDpve5jglskQ6WJbNoOiQxOWYiK4qb06rHSr37YH6MgkrSxljgVmgmXV_4INYG2OxWz6n0HVny8Z4KpM0HuKjN3lob9BALQ-5Q3BGMhDuO5jIx5O3fpncz83QztuLQK8J985jLHXL4_aambamd47TlVyxvp9JKKPRCFPEvk%3D&attredirects=0 pageUrl=http://asianworldonline.blogspot.com/2013/05/korean-playy-19-hd.html?zx=e16615a4d4bb951c live=true timeout=10</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<item>
+<title>2 --> (Adult Channel) Korean: Sakura TV HD</title>
+<link>rtmp://111.118.21.77:1935/ptv3/ playpath=phd61  swfUrl=https://a2d20443-a-62cb3a1a-s-sites.googlegroups.com/site/asianworldonline/jw/jwplayer.flash.swf?attachauth=ANoY7cr48tw5WwfPCHM6uWqVfvu4r51NgQqAYziS1_F8yhcEOwS0Rg3hSDeLANTfCHk15GHZkcdz3K--__j8rjrfu2eJlC1QQ_dQY2NZIkkVA8IXpKSe-UcdKHycoWpbFUu-Ggd5ttDYpkdC05nJ3zvH8JYKoRAuiS2F3lKVyrLbVReaSK7_toHfdHh6MOCZfgUl-bPislTyN0cPmmKThfYzkVrUsIfinA0ny1dHsy47K6MkEy7ANJw%3D&attredirects=0 pageUrl=http://asianworldonline.blogspot.com/2013/05/korean-sakura-tv-hd.html live=true timeout=10</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<item>
+<title>3 --> (Adult Channel) Korean: Midnight HD</title>
+<link>rtmp://lm02.everyon.tv/ptv2/ playpath=phd766 swfUrl=https://a2d20443-a-62cb3a1a-s-sites.googlegroups.com/site/asianworldonline/jw/jwplayer.flash.swf?attachauth=ANoY7cqDeuOvx6y2R4LpYSIVeDB_G4YVIVfpkZ-av9yZKesIf7Y9qjtsNXhwXl6adWaviv_dlLygdWTMNgBfmOVPP18SHDN7epXsKo5UoA58LaBV9je-xtLErT8qudoaT9PvZFTHQrBuVHIKhjYihNz1xQ8mHI1-P5L9xjtp0n_5kwOOWHes4bRYSmRrgzLPS5tpwRjtIxEneNmdtM74jknszk2I1J6BReNhZE8MzusFkGwQLc6fwh0%3D&attredirects=0 pageUrl=http://asianworldonline.blogspot.com/2013/05/korean-midnight-hd.html live=true timeout=10</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<item>
+<title>4 --> (Adult Channel) Korean: Starting HD</title>
+<link>rtmp://lm01.everyon.tv/ptv/ playpath=phd818 swfUrl=https://a2d20443-a-62cb3a1a-s-sites.googlegroups.com/site/asianworldonline/jw/jwplayer.flash.swf?attachauth=ANoY7crkf2t-q0qPhDN7uj4_UBbPixjGgk5GDnuRCAD4lIJL-2Llgf2aVY-zJOtXTJQkh9ZuKlLxMm8mHrV9A7wrwhIOlpTXZy2dH57sx5qp_ucE6Um3Sax2Wn7GvVvKK_xTs_fs2GZQlcyGUpFwS0HcSykiib51QFVCMIBRpZ8EE-QMTSAvfrgL4-BTxWB63VCo2Lwp66qpyUXBkGJ5krtHjyuAFvYHebVJyaC47VwNjdKtw6lsGx0%3D&attredirects=0 pageUrl=http://asianworldonline.blogspot.com/2012/11/united-states-hot-shots-calendar.html live=true timeout=10</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<item>
+<title>5 --> (Adult Channel) Korean: The O HD</title>
+<link>rtmp://lm03.everyon.tv/ptv3/ playpath=phd771 swfUrl=https://a2d20443-a-62cb3a1a-s-sites.googlegroups.com/site/asianworldonline/jw/jwplayer.flash.swf?attachauth=ANoY7crs8W-MhXkcd4KT8feNvSDl4Bt_HZQesRI4NbiWbZap9_IAwq524B5QWQPRRRVu22-WUHSEFSqbBpT5Wsfll1_lbrVSQydYCjH0zVU8bPGUiA9VAkkJO-UPxPUndgK5z2GA0_fHGYae1WQDeIxmCNi2dSTVZUfGr1LutFhmyCbh9fAaD_L1n50_IJc2P0t9sEF06bY8T6sp82FuTc3R01qhiDEKcY5Ronnn0iLFYMB-EgdmUVg%3D&attredirects=0 pageUrl=http://asianworldonline.blogspot.com/2012/11/united-states-you-diva-lite.html live=true timeout=10</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<item>
+<title>6 --> (Adult Channel) Korean: Pink TV</title>
+<link>rtmp://lm02.everyon.tv:1935/ptv2/ playpath=phd62 swfUrl=https://a2d20443-a-62cb3a1a-s-sites.googlegroups.com/site/asianworldonline/jw/jwplayer.flash.swf?attachauth=ANoY7cpRCY0RPrEAPPo50C8YhdoY3sBbGig2_Y_atMmJBc8Xvab4XEoIoxdw_lNnmVB7yXhrlWNxwjrrLdxwEXLUNQOqH73YKsJlKXxJPloqHBf0rH5nUSUlMhCeEhiYugCYgN1AuG8Zd0UwX8Qiydsypuf6mXYHrNQxOOrkY6RmGPd92tdz7Hvd6HCWYgUMsY16fzXt4iM4p-Ry4hehEv5V5K6SXoYmWQ4_jApa9pN4EArNfS3ApVo%3D&attredirects=0 pageUrl=http://asianworldonline.blogspot.com/2012/11/korean-pink-tv.html live=true timeout=10</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<item>
+<title>7 --> (Adult Channel) Korean: Live Ting TV</title>
+<link>rtmp://lm02.everyon.tv/ptv2/ playpath=phd64 swfUrl=https://a2d20443-a-62cb3a1a-s-sites.googlegroups.com/site/asianworldonline/jw/jwplayer.flash.swf?attachauth=ANoY7crisOBu-UGqzdDO9_rnqC8reTJOVKhwwXDjiQ4jRl-8Mq53gaLE43Spw46OuATgAbeLKX31GEDvzRqdmG3cvkuxHJOU-DfQW4iL08OF1HLysMn61ZnUR2hSsAH0iEXaGsyHxG8wbhnyAzmchDBPMiRYZqgNDgoj2nDQ1-4RbhtnQAR5yK0nTbOOEEKdBtmYpe0TWVn322607hx8uLNZqBinnXB6kjYdYXp3jE1o2jnuBpPvsKo%3D&attredirects=0 pageUrl=http://asianworldonline.blogspot.com/2012/11/korean-live-ting-tv.html live=true timeout=10</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<item>
+<title>8 --> (Adult Channel) Korean: Girls 4 U HD</title>
+<link>rtmp://lm01.everyon.tv:1935/ptv/ playpath=phd501 swfUrl=https://a2d20443-a-62cb3a1a-s-sites.googlegroups.com/site/asianworldonline/jw/jwplayer.flash.swf?attachauth=ANoY7cqR67pXxgBIAjcY038ZqaSPOSppB3bm3_GRgTt_K04GFNMMvo0ZUHjV7fDtpYCHdR7qIpCMCDTN6DcPPp6VIrzaC6cfjliwYqSmt-jOiDanYdlnXlxtL317KYcpbpMDWmMP89lkoniCNYrBxpuPQx402sbMS0xN6rXRUNdmJ0eVzRC38ebrossRJeEqkGI5VNorIwaM-NJQ_xsO97z6IUVoLH5-suRgm6ZrrXVI00xisCWVuNs%3D&attredirects=0 pageUrl=http://asianworldonline.blogspot.com/2012/11/korean-girls-4-u-hd.html live=true timeout=10</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<item>
+<title>9 --> (Adult Channel) Korean: Delight Empire HD</title>
+<link>rtmp://lm02.everyon.tv/ptv2/ playpath=phd63 swfUrl=https://a2d20443-a-62cb3a1a-s-sites.googlegroups.com/site/asianworldonline/jw/jwplayer.flash.swf?attachauth=ANoY7cptC4lGqYaQIYcaOexyGRi_YVFgE7Foo15nHu4KQhUj6tnFPaqP7sskcQM7SJWOx8pygYIBlCaEPiJdpEyaL_DtjcOhKkevScIaoOunFx9xQbb6Varc8rghZ04OD7lRl5SPb9rW6QpTLWfSbp1oqeMsiAKTsn0_uWY4JmvZysy34EfmzoRM0esI2cwG5q_eCyrhojCwUmTakHaLLDsKZMRCx3Vy_3RjKNj_0Ys0dkmadhhyVa8%3D&attredirects=0 pageUrl=http://asianworldonline.blogspot.com/2012/11/korean-delight-empire-hd.html live=true timeout=10</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<item>
+<title>10 --> (Adult Channel) Korean: Asia on HD</title>
+<link>rtmp://lm02.everyon.tv/ptv2/ playpath=phd60 swfUrl=https://a2d20443-a-62cb3a1a-s-sites.googlegroups.com/site/asianworldonline/jw/jwplayer.flash.swf?attachauth=ANoY7crGVBqqcMKhQVLhmczaJuHTxdswRSwk_HWLhKxA6L1VxPCyeW3nQsjG4IUywNFU1FoNdRXCkhhVFxu_jTXEv34MsO1tfprwt7aU-s0oI4t1NeKytsxuwdSePQOmT5Zy3lOOmknHR02LUCfHcuRSdIHuDOC5oHFpfdqUS11rYkXGIfGq3lWAjhu046Gg-nOlxIKH1IjIPc67l7Nq8QOzhzI0_74RK2V3Dl-DHYo2l0BhA9MFt9k%3D&attredirects=0 pageUrl=http://asianworldonline.blogspot.com/2012/11/korean-asia-on-hd.html live=true timeout=10</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<item>
+<title>11 --> (Adult Channel) Korean: Viki Enjoy Premium HD </title>
+<link>rtmp://lm02.everyon.tv/ptv2/ playpath=phd765 swfUrl=https://a2d20443-a-62cb3a1a-s-sites.googlegroups.com/site/asianworldonline/jw/jwplayer.flash.swf?attachauth=ANoY7coRGi7jg6w4JeZuJnFwUdIAkf5eqkeC-ARNfoo-TC_bgaGsXxOE34V1eFzJ6Lrun2UppUbCZeG--lhRMofVsWh-dvaGpp9bjcZppAI5JDVDfh0mdJ_qHue6ZloESOOuQT35Tfr7VAyJwNRhYInCBt0O669la5jNUGXC-jsql1VLOClxlfaYprlwX4iGrJf0FCNLUNe1ZtoAmnakiWEeWub6SVkxWBnhk4DPVskyD-4M705OXcE%3D&attredirects=0 pageUrl=http://asianworldonline.blogspot.com/2012/11/united-states-you-diva.html live=true timeout=10</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<item>
+<title>12 --> (Adult Channel) Korean: Spice TV HD</title>
+<link>rtmp://111.118.21.77:1935/ptv3/ playpath=phd497  swfUrl=https://a2d20443-a-62cb3a1a-s-sites.googlegroups.com/site/asianworldonline/jw/jwplayer.flash.swf?attachauth=ANoY7crkEH4rEGFa9FETZTVA9-UwpRcYYULxbTLVGwFsR8e1kWZI5GldoApXQkGkkcCgJk_gCkefg1aaNJCbP2hQCQvEoQEfaAmkuUiCkY6JqVt1TNXYEXnLA972x60_zmZ9zJ3Hri-dBd2Ve6QWd8kpghWdhI2OCCTgKLj4DT0mWSU9pKTfKDieaw8NFFL0nhdbxpKm7NyAkQw26gN1QdmvUhwP5k9quPgUmtZrGtIo-jKM2kLaOqU%3D&attredirects=0  pageUrl=http://asianworldonline.blogspot.com/2012/11/korean-spice-tv-hd.html live=true timeout=10</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<item>
+<title>13 --> (Adult Channel) Korean: Playboy TV</title>
+<link>rtmp://111.118.21.77:1935/ptv3/ playpath=phd499  swfUrl=https://a2d20443-a-62cb3a1a-s-sites.googlegroups.com/site/asianworldonline/jw/jwplayer.flash.swf?attachauth=ANoY7crKM3uqanghYfoH7HQj9ucXbjbE96L2LmhwMm-OqHeEUewgyM_JDlEQCFTLGYkS3b6JXbX6RPso5mV4XDIOe72U3qSNqLMLmx7eaZ09ib0_bZF9822s-aa66YMri8QO0PQEB76gaaejhog4hwwF2QPS8r4sDUJJmC4KDHJjMriHy6EGFpDthMIjEUGSXzRt3_x1O03H9GFlYPMT1znuX3R5k3R5l-t9qAV39CSyu7kOfMC55xI%3D&attredirects=0  pageUrl=http://asianworldonline.blogspot.com/2012/11/korean-playboy-tv.html live=true timeout=10</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<item>
+<title>14 --> (Adult Channel) Japan: J-HOT GIRL TV HD</title>
+<link>rtmp://lm02.everyon.tv/ptv2/ playpath=phd59  swfUrl=https://a2d20443-a-62cb3a1a-s-sites.googlegroups.com/site/asianworldonline/jw/jwplayer.flash.swf?attachauth=ANoY7co2DSChpaGYo195eng6PS78RBGWZ87Rjlv4geDWOZoLxZRvhuESepsYqupnTaItJelsdC-MCDwTHg-O5qVKn_oggJazFfDsUr83g4i8i9yg9Id94JVTNHf6nEd9YP5s-Zis5Vz4m00FxCWSLdw8wNgQer_yQYXdJvAQ23eq9emNez4w6mNlxzeB0Ux2vj-mx2eYQw73xozxLmg-V7VlzQUzIxtG5L_-oQpx98rT02gBz77DkJU%3D&attredirects=0  pageUrl=http://asianworldonline.blogspot.com/2012/12/japan-j-hot-girl-tv-hd.html live=true timeout=10</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<item>
+<title>15 --> (Adult Channel) United States: MILF TV HD</title>
+<link>rtmp://live190.la3.origin.filmon.com:1935/live/ playpath=247.high.stream swfUrl=https://a2d20443-a-62cb3a1a-s-sites.googlegroups.com/site/asianworldonline/jw/jwplayer.flash.swf?attachauth=ANoY7cqRC3J4QmGRKXCULTmkyhY3CEk4z9yDx5IqiNQE2FT4pKTl5gccOCaVlcHjU0vQhOr80tw01LJF7jeZQKWn7lMf2a02jpvbSI08nl_5FCceviJOFPbYtf1FGqKznZruyw3gT2R_x7IUKC4lDDZV02O45o0P9Nj13okJCVYZITje9C68QxBlwA3Tu8wVRfbCKv1HC_7ZJGQJQh5kkbm853tGyCHo3ZmE0KcAlIqMsnZPrz5isI8%3D&attredirects=0 pageUrl=http://asianworldonline.blogspot.com/2012/11/united-states-milf-hd-tv.html live=true timeout=10</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<item>
+<title>16 --> (Adult Channel) United States: Fetish HD</title>
+<link>rtmp://live190.la3.origin.filmon.com:1935/live/ playpath=245.high.stream swfUrl=https://a2d20443-a-62cb3a1a-s-sites.googlegroups.com/site/asianworldonline/jw/jwplayer.flash.swf?attachauth=ANoY7cry8H-yKrH9wguH67-hte122l_2HgwAywdXpguDrPxoYSTwYj4VbcTVQZTsTKWzNKwGdV2g_VDs4pcrDboyfTMB9WpR2iXxBwvPO2lUpBVsBL06JYYc-9eqFvn8EglhD1MNbH0jWfQD3kbeZKPbRsF76cGuZHV19tvD1MSUZjlN1aGimCrPXqfHkSmBLu7qo-MuF0WVonYYbseNd75YvsTB5s3SxMRsdDSDUcYMomEjxhiv7o4%3D&attredirects=0 pageUrl=http://asianworldonline.blogspot.com/2012/11/united-states-fetish-hd.html live=true timeout=10</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<item>
+<title>17 --> (Adult Channel) Playboy-TV-Korea</title>
+<link>rtmp://111.118.21.77:1935/ptv3/_definst_/phd499 swfUrl=http://tv-box.hpage.com
+pageUrl=http://watchfreeall.blogspot.com/2013/04/playboy-tv-korea.html live=true timeout=10</link>
+<thumbnail>http://3.bp.blogspot.com/-6SAhNs5gksA/UXdvg7L7_jI/AAAAAAAAALQ/uhKh-RM33FI/s320/playboy+tv+logo+korea.jpg</thumbnail>
+</item>
+
+<item>
+<title>18 --> (Adult Channel) Playboy TV (18+)</title>
+<link>rtmp://lm02.everyon.tv:1935/ptv/phd499 timeout=10</link>
+<thumbnail>http://1.bp.blogspot.com/-Hm5Fpu8twrs/URJlXl6OfqI/AAAAAAAAAI4/Kn7pQNbfuZE/s320/play%2Bboy%2Btv.png</thumbnail>
+</item>
+
+<item>
+<title>19 --> (Adult Channel) Playboy1</title>
+<link>rtmp://playback.d2see.com/wavemachine-live02/playboytv_channel1 timeout=10</link>
+<thumbnail>http://1.bp.blogspot.com/-Hm5Fpu8twrs/URJlXl6OfqI/AAAAAAAAAI4/Kn7pQNbfuZE/s320/play%2Bboy%2Btv.png</thumbnail>
+</item>
+
+<item>
+<title>20 --> (Adult Channel) Playboy2</title>
+<link>rtmp://playback.d2see.com/wavemachine-live02/playboytv_channel2 timeout=10</link>
+<thumbnail>http://1.bp.blogspot.com/-Hm5Fpu8twrs/URJlXl6OfqI/AAAAAAAAAI4/Kn7pQNbfuZE/s320/play%2Bboy%2Btv.png</thumbnail>
+</item>
+
+<item>
+<title>20 --> (Adult Channel) Playboy3</title>
+<link>rtmp://playback.d2see.com/wavemachine-live02/playboytv_channel3 timeout=10</link>
+<thumbnail>http://1.bp.blogspot.com/-Hm5Fpu8twrs/URJlXl6OfqI/AAAAAAAAAI4/Kn7pQNbfuZE/s320/play%2Bboy%2Btv.png</thumbnail>
+</item>
+
+<item>
+<title>21 --> (Adult Channel) Playboy4</title>
+<link>rtmp://playback.d2see.com/wavemachine-live02/playboytv_channel4 timeout=10</link>
+<thumbnail>http://1.bp.blogspot.com/-Hm5Fpu8twrs/URJlXl6OfqI/AAAAAAAAAI4/Kn7pQNbfuZE/s320/play%2Bboy%2Btv.png</thumbnail>
+</item>
+
+<item>
+<title>22 --> (Adult Channel) Miami TV</title>
+<link>rtmp://74.208.69.207/live/miamitvhd swfUrl=http://tv-box.hpage.com pageUrl=http://watchfreeall.blogspot.com/2013/04/miami-tv-live.html live=true</link>
+<thumbnail>http://1.bp.blogspot.com/-HtjzJXx7oaA/UXd37mzGOYI/AAAAAAAAAMA/Oz9vDczqVX8/s400/Miami+TV+54463.gif</thumbnail>
+</item>
+
+<!-- Last Update: 04.13.2013 by Silverfox --> (Adult Channel) 
+<item>
+<title>23 --> (Adult Channel) Spice TV (Adult Sex Korea 18+)</title>
+<link>rtmp://lm02.everyon.tv:1935/ptv2/phd497 timeout=10</link>
+<thumbnail>http://1.bp.blogspot.com/-pqf18X1vSkg/URJdsvyC2CI/AAAAAAAAAG4/IYy9HTNekR4/s72-c/Pink%2Btv%2BKorea.png</thumbnail>
+</item>
+
+<item>
+<title>24 --> (Adult Channel) Girls TV (18+)</title>
+<link>rtmp://lm02.everyon.tv:1935/ptv2/phd501 timeout=10</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<item>
+<title>25 --> (Adult Channel) Filton-XXX-Adult Asia</title>
+<link>rtsp://live190.la3.origin.filmon.com:1935/live/198.high.stream timeout=10</link>
+<thumbnail>http://1.bp.blogspot.com/-Hm5Fpu8twrs/URJlXl6OfqI/AAAAAAAAAI4/Kn7pQNbfuZE/s320/play%2Bboy%2Btv.png</thumbnail>
+</item>
+
+<item>
+<title>26 --> (Adult Channel) FrenchLover (18+)</title>
+<link>http://178.169.66.138:4022/udp/239.255.4.5:1234 timeout=10</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+
+<!-- Last Update: 04.18.2013 by Silverfox --> (Adult Channel) 
+<item>
+<title>27 --> (Adult Channel) XXX EURO 9-198 HD</title>
+<link>rtmp://live190.la3.origin.filmon.com:1935/live/198.high.stream timeout=10</link>
+<thumbnail>http://3.bp.blogspot.com/-6JQygog_yRQ/URNWEjz_8rI/AAAAAAAAAMU/n925KeDBJYc/s72-c/EuroHot+TV+.png</thumbnail>
+</item>
+
+<!-- Last Update: 04.18.2013 by Silverfox --> (Adult Channel) 
+<item>
+<title>28 --> (Adult Channel) XXX EURO 7-198 SD</title>
+<link>rtmp://mi5.gv.filmon.com:1935/live/_definst_/198.low.stream</link>
+<thumbnail>http://3.bp.blogspot.com/-6JQygog_yRQ/URNWEjz_8rI/AAAAAAAAAMU/n925KeDBJYc/s72-c/EuroHot+TV+.png</thumbnail>
+</item>
+
+<item>
+<title>29 --> (Adult Channel) Filton-XXX-Adult Black-244 HD</title>
+<link>rtsp://live190.la3.origin.filmon.com:1935/live/244.high.stream timeout=10</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<item>
+<title>30 --> (Adult Channel) Filton-XXX-Adult Black-244 SD</title>
+<link>rtsp://live190.la3.origin.filmon.com:1935/live/244.low.stream timeout=10</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<!-- Last Update: 04.18.2013 by Silverfox --> (Adult Channel) 
+<item>
+<title>31 --> (Adult Channel) XXX EURO 3-245 HD</title>
+<link>rtmp://live190.la3.origin.filmon.com:1935/live/_definst_/245.high.stream</link>
+<thumbnail>http://3.bp.blogspot.com/-6JQygog_yRQ/URNWEjz_8rI/AAAAAAAAAMU/n925KeDBJYc/s72-c/EuroHot+TV+.png</thumbnail>
+</item>
+
+<item>
+<title>32 --> (Adult Channel) Filton-XXX-Adult Fetish-245 HD</title>
+<link>rtsp://live190.la3.origin.filmon.com:1935/live/245.high.stream timeout=10</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<item>
+<title>33 --> (Adult Channel) Filton-XXX-Adult Fetish-245 SD</title>
+<link>rtsp://live190.la3.origin.filmon.com:1935/live/245.low.stream</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<item>
+<title>34 --> (Adult Channel) Filton-XXX-Adult Tranny-246 HD</title>
+<link>rtsp://live190.la3.origin.filmon.com:1935/live/246.high.stream</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<item>
+<title>35 --> (Adult Channel) Filton-XXX-Adult Tranny-246 SD</title>
+<link>rtsp://live190.la3.origin.filmon.com:1935/live/246.low.stream timeout=10</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<item>
+<title>36 --> (Adult Channel) Filton-XXX-Adult M.I.L.F HD</title>
+<link>rtsp://live190.la3.origin.filmon.com:1935/live/247.high.stream timeout=10</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<item>
+<title>37 --> (Adult Channel) Filton-XXX-Adult M.I.L.F SD</title>
+<link>rtsp://live190.la3.origin.filmon.com:1935/live/247.low.stream timeout=10</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<item>
+<title>38 --> (Adult Channel) Strip TV</title>
+<link>rtmp://93.89.84.200/iptv_cellcast_24/livestream1 swfUrl=http://api.firestormmedia.tv/aff_stream/flash/player.swf pageUrl=http://www.eloantv.com/2012/01/watch-live-strip-tv-channel-live-girls-webcam-private-shows/ live=true</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<item>
+<title>39 --> (Adult Channel) XXX-Bluebird 1</title>
+<link>rtsp://ovh.firestormmedia.tv:1935/iptv_freeblue/tv9541</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<item>
+<title>40 --> (Adult Channel) XXX-Bluebird 3</title>
+<link>rtsp://ovh.firestormmedia.tv:1935/iptv_freeblue/tv9672 timeout=10</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<item>
+<title>41 --> (Adult Channel) XXX-Bluebird 4</title>
+<link>rtsp://ovh.firestormmedia.tv:1935/iptv_freeblue/tv9542</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<item>
+<title>42 --> (Adult Channel) XXX-RLC1</title>
+<link>rtmp://playback.d2see.com/wavemachine-live02/playboytv_channel1 timeout=10</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<item>
+<title>43 --> (Adult Channel) XXX-RLC2</title>
+<link>rtmp://playback.d2see.com/wavemachine-live02/playboytv_channel2</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<item>
+<title>44 --> (Adult Channel) XXX-RLC3</title>
+<link>rtmp://playback.d2see.com/wavemachine-live02/playboytv_channel3</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<item>
+<title>45 --> (Adult Channel) XXX-RLC4</title>
+<link>rtmp://playback.d2see.com/wavemachine-live02/playboytv_channel4 timeout=10</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<item>
+<title>46 --> (Adult Channel) XXX-Storm Babes TV</title>
+<link>rtmp://www.stormbabes.tv:1935/stormApp/storm</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<item>
+<title>47 --> (Adult Channel) XXX-Storm Babes TV</title>
+<link>rtmp://www.stormbabes.tv:1935/stormApp/storm timeout=10</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<item>
+<title>48 --> (Adult Channel) XXX-STUDIO 66 TV 1</title>
+<link>rtsp://orcadigital.mpl.miisolutions.net/wavemachine-live01/studio66tv_channel1 timeout=10</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<item>
+<title>49 --> (Adult Channel) XXX-STUDIO 66 TV 2</title>
+<link>rtsp://orcadigital.mpl.miisolutions.net/wavemachine-live01/studio66tv_channel2 timeout=10</link>
+<thumbnail>http://2.bp.blogspot.com/-cVi0OsI8HH8/URJeiq1zwoI/AAAAAAAAAHM/qvc9NrMAFEY/s320/deep1.png</thumbnail>
+</item>
+
+<item>
+<title>50 --> (Adult Channel) XXX-STUDIO 66 TV 3</title>
+<link>rtsp://orcadigital.mpl.miisolutions.net/wavemachine-live01/studio66tv_channel3</link>
+<thumbnail>http://2.bp.blogspot.com/-cVi0OsI8HH8/URJeiq1zwoI/AAAAAAAAAHM/qvc9NrMAFEY/s320/deep1.png</thumbnail>
+</item>
+
+<item>
+<title>51 --> (Adult Channel) XXX-STUDIO 66 TV 4</title>
+<link>rtsp://orcadigital.mpl.miisolutions.net/wavemachine-live01/studio66tv_channel4 timeout=10</link>
+<thumbnail>http://2.bp.blogspot.com/-cVi0OsI8HH8/URJeiq1zwoI/AAAAAAAAAHM/qvc9NrMAFEY/s320/deep1.png</thumbnail>
+</item>
+
+<item>
+<title>52 --> (Adult Channel) XXX-Thai Chat</title>
+<link>rtmp://arkmk.flashwebtown.com:1935/arkmk/mpegts2.stream timeout=10</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<item>
+<title>53 --> (Adult Channel) XXX-VISIT X TV</title>
+<link>rtmp://194.116.150.47/live/visitx.stream1</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<!-- Last Update: 04.18.2013 by Silverfox --> (Adult Channel) 
+<item>
+<title>54 --> (Adult Channel) XXX EURO 5-73 HD</title>
+<link>rtmp://mi5.gv.filmon.com:1935/live/_definst_/73.high.stream timeout=10</link>
+<thumbnail>http://3.bp.blogspot.com/-6JQygog_yRQ/URNWEjz_8rI/AAAAAAAAAMU/n925KeDBJYc/s72-c/EuroHot+TV+.png</thumbnail>
+</item>
+
+<item>
+<title>55 --> (Adult Channel) XXX EURO 5-73 SD</title>
+<link>rtmp://mi5.gv.filmon.com:1935/live/_definst_/73.low.stream timeout=10</link>
+<thumbnail>http://3.bp.blogspot.com/-6JQygog_yRQ/URNWEjz_8rI/AAAAAAAAAMU/n925KeDBJYc/s72-c/EuroHot+TV+.png</thumbnail>
+</item>
+
+<item>
+<title>56 --> (Adult Channel) Filton-Barely Legal-77 HD</title>
+<link>rtmp://mi5.gv.filmon.com:1935/live/_definst_/77.high.stream timeout=10</link>
+<thumbnail>http://1.bp.blogspot.com/-R56MeEvZxNc/URJf5o1HeoI/AAAAAAAAAHw/0czMXZsE5y0/s72-c/n500c76bdf0ee2.jpg</thumbnail>
+</item>
+
+<item>
+<title>57 --> (Adult Channel) Filton-Barely Legal-77 SD</title>
+<link>rtmp://mi5.gv.filmon.com:1935/live/_definst_/77.low.stream</link>
+<thumbnail>http://1.bp.blogspot.com/-R56MeEvZxNc/URJf5o1HeoI/AAAAAAAAAHw/0czMXZsE5y0/s72-c/n500c76bdf0ee2.jpg</thumbnail>
+</item>
+
+<item>
+<title>58 --> (Adult Channel) Filton-Adult Latina-107 HD</title>
+<link>rtmp://mi5.gv.filmon.com:1935/live/_definst_/107.high.stream timeout=10</link>
+<thumbnail>http://1.bp.blogspot.com/-R56MeEvZxNc/URJf5o1HeoI/AAAAAAAAAHw/0czMXZsE5y0/s72-c/n500c76bdf0ee2.jpg</thumbnail>
+</item>
+
+<item>
+<title>59 --> (Adult Channel) Filton-Adult Latina-107 SD</title>
+<link>rtmp://mi5.gv.filmon.com:1935/live/_definst_/107.low.stream</link>
+<thumbnail>http://1.bp.blogspot.com/-R56MeEvZxNc/URJf5o1HeoI/AAAAAAAAAHw/0czMXZsE5y0/s72-c/n500c76bdf0ee2.jpg</thumbnail>
+</item>
+
+<item>
+<title>60 --> (Adult Channel) Filton-Hardcore-244 HD</title>
+<link>rtmp://mi5.gv.filmon.com:1935/live/_definst_/244.high.stream timeout=10</link>
+<thumbnail>http://1.bp.blogspot.com/-R56MeEvZxNc/URJf5o1HeoI/AAAAAAAAAHw/0czMXZsE5y0/s72-c/n500c76bdf0ee2.jpg</thumbnail>
+</item>
+
+<item>
+<title>61 --> (Adult Channel) Filton-Hardcore-244 SD</title>
+<link>rtmp://mi5.gv.filmon.com:1935/live/_definst_/244.low.stream</link>
+<thumbnail>http://1.bp.blogspot.com/-R56MeEvZxNc/URJf5o1HeoI/AAAAAAAAAHw/0czMXZsE5y0/s72-c/n500c76bdf0ee2.jpg</thumbnail>
+</item>
+
+<item>
+<title>62 --> (Adult Channel) Filton-Hardcore-245 HD</title>
+<link>rtmp://live190.la3.origin.filmon.com:1935/live/_definst_/245.high.stream timeout=10</link>
+<thumbnail>http://1.bp.blogspot.com/-R56MeEvZxNc/URJf5o1HeoI/AAAAAAAAAHw/0czMXZsE5y0/s72-c/n500c76bdf0ee2.jpg</thumbnail>
+</item>
+
+<item>
+<title>63 --> (Adult Channel) Filton-Hardcore-245 SD</title>
+<link>rtmp://live190.la3.origin.filmon.com:1935/live/_definst_/245.low.stream</link>
+<thumbnail>http://1.bp.blogspot.com/-R56MeEvZxNc/URJf5o1HeoI/AAAAAAAAAHw/0czMXZsE5y0/s72-c/n500c76bdf0ee2.jpg</thumbnail>
+</item>
+
+<item>
+<title>64 --> (Adult Channel) Filton-Hardcore-246 HD</title>
+<link>rtmp://live190.la3.origin.filmon.com:1935/live/246.high.stream</link>
+<thumbnail>http://1.bp.blogspot.com/-R56MeEvZxNc/URJf5o1HeoI/AAAAAAAAAHw/0czMXZsE5y0/s72-c/n500c76bdf0ee2.jpg</thumbnail>
+</item>
+
+<item>
+<title>65 --> (Adult Channel) Filton-Hardcore-246 SD</title>
+<link>rtmp://live190.la3.origin.filmon.com:1935/live/246.low.stream timeout=10</link>
+<thumbnail>http://1.bp.blogspot.com/-R56MeEvZxNc/URJf5o1HeoI/AAAAAAAAAHw/0czMXZsE5y0/s72-c/n500c76bdf0ee2.jpg</thumbnail>
+</item>
+
+<item>
+<title>66 --> (Adult Channel) Filton-Hardcore-247 SD</title>
+<link>rtmp://live190.la3.origin.filmon.com:1935/live/247.high.stream</link>
+<thumbnail>http://1.bp.blogspot.com/-R56MeEvZxNc/URJf5o1HeoI/AAAAAAAAAHw/0czMXZsE5y0/s72-c/n500c76bdf0ee2.jpg</thumbnail>
+</item>
+
+<item>
+<title>67 --> (Adult Channel) Filton-Hardcore-247 SD</title>
+<link>rtmp://live190.la3.origin.filmon.com:1935/live/247.low.stream</link>
+<thumbnail>http://1.bp.blogspot.com/-R56MeEvZxNc/URJf5o1HeoI/AAAAAAAAAHw/0czMXZsE5y0/s72-c/n500c76bdf0ee2.jpg</thumbnail>
+</item>
+
+<item>
+<title>68 --> (Adult Channel) Filton-Hardcore-248 HD</title>
+<link>rtmp://live190.la3.origin.filmon.com:1935/live/248.high.stream</link>
+<thumbnail>http://1.bp.blogspot.com/-R56MeEvZxNc/URJf5o1HeoI/AAAAAAAAAHw/0czMXZsE5y0/s72-c/n500c76bdf0ee2.jpg</thumbnail>
+</item>
+
+<item>
+<title>69 --> (Adult Channel) Filton-Hardcore-248 SD</title>
+<link>rtmp://live190.la3.origin.filmon.com:1935/live/248.low.stream timeout=10</link>
+<thumbnail>http://1.bp.blogspot.com/-R56MeEvZxNc/URJf5o1HeoI/AAAAAAAAAHw/0czMXZsE5y0/s72-c/n500c76bdf0ee2.jpg</thumbnail>
+</item>
+
+<item>
+<title>70 --> (Adult Channel) Filton-P.O.V-249 HD</title>
+<link>rtmp://mi5.gv.filmon.com:1935/live/_definst_/249.high.stream</link>
+<thumbnail>http://1.bp.blogspot.com/-R56MeEvZxNc/URJf5o1HeoI/AAAAAAAAAHw/0czMXZsE5y0/s72-c/n500c76bdf0ee2.jpg</thumbnail>
+</item>
+
+<item>
+<title>71 --> (Adult Channel) Filton-P.O.V-249 SD</title>
+<link>rtmp://mi5.gv.filmon.com:1935/live/_definst_/249.low.stream</link>
+<thumbnail>http://1.bp.blogspot.com/-R56MeEvZxNc/URJf5o1HeoI/AAAAAAAAAHw/0czMXZsE5y0/s72-c/n500c76bdf0ee2.jpg</thumbnail>
+</item>
+
+<item>
+<title>72 --> (Adult Channel) Filton-Girl Girl-250 HD</title>
+<link>rtmp://mi5.gv.filmon.com:1935/live/_definst_/250.high.stream timeout=10</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<item>
+<title>73 --> (Adult Channel) Filton-Girl Girl-250 SD</title>
+<link>rtmp://mi5.gv.filmon.com:1935/live/_definst_/250.low.stream timeout=10</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<item>
+<title>74 --> (Adult Channel) XXX-Eurotic TV</title>
+<link>rtmp://5.10.77.106/livepkgr/etv-livestream_2 swfUrl=http://www.eurotic.tv/flowplayer.rtmp-3.2.1.swf pageUrl=http://www.eurotic.tv live=true</link>
+<thumbnail>http://3.bp.blogspot.com/-6JQygog_yRQ/URNWEjz_8rI/AAAAAAAAAMU/n925KeDBJYc/s72-c/EuroHot+TV+.png</thumbnail>
+</item>
+
+<item>
+<title>75 --> (Adult Channel) XXX-Sexy Sat TV</title>
+<link>rtmp://5.10.77.106/livepkgr/etv-livestream_2 swfUrl=http://www.eurotic.tv/flowplayer.rtmp-3.2.1.swf pageUrl=http://www.eurotic.tv live=1 timeout=10</link>
+<thumbnail>http://www.macaucabletv.com/wp-content/channel_logo/99.png</thumbnail>
+</item>
+
+<item>
+<title>76 --> (Adult Channel) XXX-Sex Station 1</title>
+<link>rtmp://178.33.224.86/iptv_cellcast_24/livestream2 timeout=10</link>
+<thumbnail>http://3.bp.blogspot.com/-6JQygog_yRQ/URNWEjz_8rI/AAAAAAAAAMU/n925KeDBJYc/s72-c/EuroHot+TV+.png</thumbnail>
+</item>
+
+<item>
+<title>77 --> (Adult Channel) XXX-Sex Station 2</title>
+<link>rtmp://178.33.224.86/iptv_cellcast_24/livestream_two timeout=10</link>
+<thumbnail>http://3.bp.blogspot.com/-6JQygog_yRQ/URNWEjz_8rI/AAAAAAAAAMU/n925KeDBJYc/s72-c/EuroHot+TV+.png</thumbnail>
+</item>
+
+<item>
+<title>78 --> (Adult Channel) XXX-Sex Station 3</title>
+<link>http://77.51.249.86:8111/</link>
+<thumbnail>http://3.bp.blogspot.com/-6JQygog_yRQ/URNWEjz_8rI/AAAAAAAAAMU/n925KeDBJYc/s72-c/EuroHot+TV+.png</thumbnail>
+</item>
+
+<item>
+<title>79 --> (Adult Channel) XXX-BABE Bikini TV</title>
+<link>rtmp://arkmk.flashwebtown.com:1935/arkmk/mpegts5.stream timeout=10</link>
+<thumbnail>http://3.bp.blogspot.com/-6JQygog_yRQ/URNWEjz_8rI/AAAAAAAAAMU/n925KeDBJYc/s72-c/EuroHot+TV+.png</thumbnail>
+</item>
+
+<item>
+<title>80 --> (Adult Channel) XXL Net</title>
+<link>http://89.212.174.75:1234/udp/239.18.2.28:5000</link>
+<thumbnail>http://3.bp.blogspot.com/-6JQygog_yRQ/URNWEjz_8rI/AAAAAAAAAMU/n925KeDBJYc/s72-c/EuroHot+TV+.png</thumbnail>
+</item>
+
+<item>
+<title>81 --> (Adult Channel) Bellaluz</title>
+<link>rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp timeout=10</link>
+<thumbnail>http://3.bp.blogspot.com/-6JQygog_yRQ/URNWEjz_8rI/AAAAAAAAAMU/n925KeDBJYc/s72-c/EuroHot+TV+.png</thumbnail>
+</item>
+
+<item>
+<title>82 --> (Adult Channel) Power Girls</title>
+<link>rtsp://46.249.213.87/broadcast/powergirls-tablet.3gp timeout=10</link>
+<thumbnail>http://3.bp.blogspot.com/-6JQygog_yRQ/URNWEjz_8rI/AAAAAAAAAMU/n925KeDBJYc/s72-c/EuroHot+TV+.png</thumbnail>
+</item>
+
+<item>
+<title>83 --> (Adult Channel) Russian Girls</title>
+<link>rtmp://194.116.150.47/live/ playpath=visitx.stream2 swfUrl=http://peontv.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://peontv.com/tag/russian-adult-tv/ timeout=10</link>
+<thumbnail>http://3.bp.blogspot.com/-6JQygog_yRQ/URNWEjz_8rI/AAAAAAAAAMU/n925KeDBJYc/s72-c/EuroHot+TV+.png</thumbnail>
+</item>
+
+<item>
+<title>84 --> VENUS-Adult Channel</title>
+<link>http://177.71.224.89:8000/stream/channelid/4 timeout=10</link>
+<thumbnail>http://images.amazon.com/images/G/01/hpc/detail-page/venusLogo_spaBreeze_20090818.jpg</thumbnail>
+</item>
+
+<item>
+<title>85 --> VENUS2-Adult Channel</title>         
+<link>http://177.71.224.89:8000/stream/channelid/14 timeout=10</link>
+<thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcTQuMt2DixnBSdTq2ZZwTKu-rPjbh1n2lIbWtPwPBOLE8uQIdYIlA</thumbnail>
+</item>
+
+<item>
+<title>86 --> Kim Binh Mai</title>
+<link>rtmp://edge.isearch.to/edge playpath=6jxqdje7ancmghe swfUrl=http://player.ilive.to/player_ilive.swf pageUrl=http://www.ilive.to/view/38219/watch-live-Kim_Binh_Mai-streaming-channel-for-free/ live=true timeout=10<link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/asia_movie_channel.jpg</thumbnail>
+</item>
+
+<item>
+<title>87 --> Hong Kong Cap III Chanel 1</title>
+<link>rtmp://edge.isearch.to/edge playpath=2p4wqi40w6r0o7m swfUrl=http://player.ilive.to/player_ilive.swf pageUrl=http://www.ilive.to/view/39036/watch-live-Hongkong_Cat_III_channel_1-streaming-channel-for-free/ live=true timeout=10</link>
+<thumbnail>http://4.bp.blogspot.com/-5cDCUEe9koY/UD4qPI0Fn3I/AAAAAAAADQM/_3geZNianHA/s1600/a.jpeg</thumbnail>
+</item>
+
+<item>
+<title>88 --> Hong Kong Cap III Chanel 2</title>
+<link>rtmp://edge.isearch.to/edge playpath=mhq7z93abwqccxl swfUrl=http://player.ilive.to/player_ilive.swf pageUrl=http://www.ilive.to/view/39037/Hongkong_Cat_III_channel_2/ live=true timeout=10</link>
+<thumbnail>http://4.bp.blogspot.com/-5cDCUEe9koY/UD4qPI0Fn3I/AAAAAAAADQM/_3geZNianHA/s1600/a.jpeg</thumbnail>
+</item>
+
+<item>
+<title>89 --> Live Sextime</title>
+<link>rtmp://edge.isearch.to/edge playpath=j73pv2et6hwnpkn swfUrl=http://player.ilive.to/player_ilive.swf pageUrl=http://www.ilive.to/view/48771/watch-live-sextime-streaming-channel-for-free/ live=true timeout=10</link>
+<thumbnail>http://timesofindia.indiatimes.com/photo/10412456.cms</thumbnail>
+</item>
+
+<item>
+<title>Enough for you now!..he..he..brought to you by Silverfox at Langsongviet.com</title>
+<link>///////////////////////////////////////</link>
+<thumbnail>http://langsongviet.com/fta4vnForum/upload/awcodinglite/images/misc/link2.gif</thumbnail>
+</item>
+<!-- Last Updated: 06.01.2013 by Silverfox -->
+</items>
+</channel>
+</channels>
